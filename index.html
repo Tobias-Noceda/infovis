@@ -11,329 +11,338 @@
     <p class="description">Welcome to the Infovis course repository! Here you will find all the materials and resources related to the course.</p>
     
     <h2 class="section-title">Rawgraphs</h2>
-    <svg xmlns="http://www.w3.org/2000/svg" width="1005" height="600" style="margin-bottom: 20px;">
-        <rect width="1005" height="600" x="0" y="0" fill="#FFFFFF" id="background"/>
-        <clipPath id="serieClipPath">
-            <rect x="0" y="0" width="805" height="600"/>
-        </clipPath>
-        <g transform="translate(0,0)" clip-path="url(#serieClipPath)">
-            <g transform="translate(305, 315)">
-                <g id="axes">
-                    <circle r="256" fill="none" stroke="LightGray" class="grid" id="90"/>
-                    <circle r="228" fill="none" stroke="LightGray" class="grid" id="80"/>
-                    <circle r="199" fill="none" stroke="LightGray" class="grid" id="70"/>
-                    <circle r="171" fill="none" stroke="LightGray" class="grid" id="60"/>
-                    <circle r="142" fill="none" stroke="LightGray" class="grid" id="50"/>
-                    <circle r="114" fill="none" stroke="LightGray" class="grid" id="40"/>
-                    <circle r="85" fill="none" stroke="LightGray" class="grid" id="30"/>
-                    <circle r="57" fill="none" stroke="LightGray" class="grid" id="20"/>
-                    <circle r="28" fill="none" stroke="LightGray" class="grid" id="10"/>
-                    <circle r="0" fill="none" stroke="LightGray" class="grid" id="0"/>
-                    <g>
-                        <line x1="-3.061616997868383e-17" y1="0.5" x2="1.7451216887849784e-14" y2="-285" stroke="black"/>
-                        <text text-anchor="middle" dy="0.35em" x="1.806354028742346e-14" y="-295" font-family="Arial, sans-serif" font-size="12">
-                            SprintSpeed
-                        </text>
+    <div class="section-container">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1005" height="600" style="margin-bottom: 20px;">
+            <rect width="1005" height="600" x="0" y="0" fill="#FFFFFF" id="background"/>
+            <clipPath id="serieClipPath">
+                <rect x="0" y="0" width="805" height="600"/>
+            </clipPath>
+            <g transform="translate(0,0)" clip-path="url(#serieClipPath)">
+                <g transform="translate(305, 315)">
+                    <g id="axes">
+                        <circle r="256" fill="none" stroke="LightGray" class="grid" id="90"/>
+                        <circle r="228" fill="none" stroke="LightGray" class="grid" id="80"/>
+                        <circle r="199" fill="none" stroke="LightGray" class="grid" id="70"/>
+                        <circle r="171" fill="none" stroke="LightGray" class="grid" id="60"/>
+                        <circle r="142" fill="none" stroke="LightGray" class="grid" id="50"/>
+                        <circle r="114" fill="none" stroke="LightGray" class="grid" id="40"/>
+                        <circle r="85" fill="none" stroke="LightGray" class="grid" id="30"/>
+                        <circle r="57" fill="none" stroke="LightGray" class="grid" id="20"/>
+                        <circle r="28" fill="none" stroke="LightGray" class="grid" id="10"/>
+                        <circle r="0" fill="none" stroke="LightGray" class="grid" id="0"/>
+                        <g>
+                            <line x1="-3.061616997868383e-17" y1="0.5" x2="1.7451216887849784e-14" y2="-285" stroke="black"/>
+                            <text text-anchor="middle" dy="0.35em" x="1.806354028742346e-14" y="-295" font-family="Arial, sans-serif" font-size="12">
+                                SprintSpeed
+                            </text>
+                        </g>
+                        <g>
+                            <line x1="-0.47552825814757677" y1="0.1545084971874737" x2="271.05110714411876" y2="-88.06984339686001" stroke="black"/>
+                            <text text-anchor="middle" dy="0.35em" x="280.5616723070703" y="-91.16001334060948" font-family="Arial, sans-serif" font-size="12">
+                                Agility
+                            </text>
+                        </g>
+                        <g>
+                            <line x1="-0.29389262614623657" y1="-0.4045084971874737" x2="167.51879690335485" y2="230.56984339686002" stroke="black"/>
+                            <text text-anchor="middle" dy="0.35em" x="173.39664942627957" y="238.6600133406095" font-family="Arial, sans-serif" font-size="12">
+                                Reactions
+                            </text>
+                        </g>
+                        <g>
+                            <line x1="0.2938926261462365" y1="-0.4045084971874737" x2="-167.51879690335483" y2="230.56984339686002" stroke="black"/>
+                            <text text-anchor="middle" dy="0.35em" x="-173.39664942627954" y="238.6600133406095" font-family="Arial, sans-serif" font-size="12">
+                                Stamina
+                            </text>
+                        </g>
+                        <g>
+                            <line x1="0.4755282581475768" y1="0.15450849718747364" x2="-271.05110714411876" y2="-88.06984339685998" stroke="black"/>
+                            <text text-anchor="middle" dy="0.35em" x="-280.56167230707035" y="-91.16001334060945" font-family="Arial, sans-serif" font-size="12">
+                                Vision
+                            </text>
+                        </g>
+                        <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -284.5)">
+                            <path class="domain" stroke="currentColor" d="M-6,0H0.5V285.5H-6"/>
+                            <g class="tick" opacity="1" transform="translate(0,17.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    90
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,47.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    80
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,77.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    70
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,107.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    60
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,136.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    50
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,166.5)">
+                                <line stroke="currentColor" x2="-6"/><text fill="currentColor" x="-9" dy="0.32em">
+                                    40
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,196.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    30
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,226.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    20
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,255.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    10
+                                </text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,285.5)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">
+                                    0
+                                </text>
+                            </g>
+                        </g>
                     </g>
-                    <g>
-                        <line x1="-0.47552825814757677" y1="0.1545084971874737" x2="271.05110714411876" y2="-88.06984339686001" stroke="black"/>
-                        <text text-anchor="middle" dy="0.35em" x="280.5616723070703" y="-91.16001334060948" font-family="Arial, sans-serif" font-size="12">
-                            Agility
-                        </text>
-                    </g>
-                    <g>
-                        <line x1="-0.29389262614623657" y1="-0.4045084971874737" x2="167.51879690335485" y2="230.56984339686002" stroke="black"/>
-                        <text text-anchor="middle" dy="0.35em" x="173.39664942627957" y="238.6600133406095" font-family="Arial, sans-serif" font-size="12">
-                            Reactions
-                        </text>
-                    </g>
-                    <g>
-                        <line x1="0.2938926261462365" y1="-0.4045084971874737" x2="-167.51879690335483" y2="230.56984339686002" stroke="black"/>
-                        <text text-anchor="middle" dy="0.35em" x="-173.39664942627954" y="238.6600133406095" font-family="Arial, sans-serif" font-size="12">
-                            Stamina
-                        </text>
-                    </g>
-                    <g>
-                        <line x1="0.4755282581475768" y1="0.15450849718747364" x2="-271.05110714411876" y2="-88.06984339685998" stroke="black"/>
-                        <text text-anchor="middle" dy="0.35em" x="-280.56167230707035" y="-91.16001334060945" font-family="Arial, sans-serif" font-size="12">
-                            Vision
-                        </text>
-                    </g>
-                    <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -284.5)">
-                        <path class="domain" stroke="currentColor" d="M-6,0H0.5V285.5H-6"/>
-                        <g class="tick" opacity="1" transform="translate(0,17.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                90
-                            </text>
+                    <g id="radars">
+                        <g id="0">
+                            <path d="M0,-245L246.32363772044476,-80.03540154311139L159.28980337126026,219.24360547561074L-120.49597671995697,165.84848384686424L-254.88314636710118,-82.81655449248586Z" stroke="#d62728" fill="#d62728" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.5001923289555078e-14" cy="-245" r="5" stroke="none" fill="#d62728"/>
+                                <circle cx="246.32363772044476" cy="-80.03540154311138" r="5" stroke="none" fill="#d62728"/>
+                                <circle cx="159.28980337126023" cy="219.24360547561076" r="5" stroke="none" fill="#d62728"/>
+                                <circle cx="-120.49597671995697" cy="165.84848384686424" r="5" stroke="none" fill="#d62728"/>
+                                <circle cx="-254.88314636710118" cy="-82.81655449248588" r="5" stroke="none" fill="#d62728"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,47.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                80
-                            </text>
+                        <g id="1"><path d="M0,-259L235.86201604119807,-76.63621460498698L161.05315912813768,221.67065645873558L-147.53409832541072,203.06326558811185L-222.54722481306595,-72.30997668373764Z" stroke="#1f77b4" fill="#1f77b4" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.5859176048958224e-14" cy="-259" r="5" stroke="none" fill="#1f77b4"/>
+                                <circle cx="235.86201604119807" cy="-76.63621460498696" r="5" stroke="none" fill="#1f77b4"/>
+                                <circle cx="161.05315912813765" cy="221.6706564587356" r="5" stroke="none" fill="#1f77b4"/>
+                                <circle cx="-147.53409832541072" cy="203.06326558811182" r="5" stroke="none" fill="#1f77b4"/>
+                                <circle cx="-222.54722481306595" cy="-72.30997668373766" r="5" stroke="none" fill="#1f77b4"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,77.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                70
-                            </text>
+                        <g id="2">
+                            <path d="M0,-256L260.58948546487204,-84.6706564587356L157.52644761438282,216.8165544924859L-135.77839327956127,186.88292570061287L-235.8620160411981,-76.63621460498692Z" stroke="#e377c2" fill="#e377c2" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.567547902908612e-14" cy="-256" r="5" stroke="none" fill="#e377c2"/>
+                                <circle cx="260.58948546487204" cy="-84.67065645873559" r="5" stroke="none" fill="#e377c2"/>
+                                <circle cx="157.5264476143828" cy="216.81655449248592" r="5" stroke="none" fill="#e377c2"/>
+                                <circle cx="-135.77839327956127" cy="186.88292570061287" r="5" stroke="none" fill="#e377c2"/>
+                                <circle cx="-235.8620160411981" cy="-76.63621460498693" r="5" stroke="none" fill="#e377c2"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,107.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                60
-                            </text>
+                        <g id="3">
+                            <path d="M0,-216L213.98771616640954,-69.52882373436317L152.23638034375057,209.53540154311136L-150.4730245868731,207.10835055998658L-254.88314636710118,-82.81655449248586Z" stroke="#2ca02c" fill="#2ca02c" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.3226185430791415e-14" cy="-216" r="5" stroke="none" fill="#2ca02c"/>
+                                <circle cx="213.98771616640954" cy="-69.52882373436316" r="5" stroke="none" fill="#2ca02c"/>
+                                <circle cx="152.23638034375054" cy="209.5354015431114" r="5" stroke="none" fill="#2ca02c"/>
+                                <circle cx="-150.4730245868731" cy="207.10835055998655" r="5" stroke="none" fill="#2ca02c"/>
+                                <circle cx="-254.88314636710118" cy="-82.81655449248588" r="5" stroke="none" fill="#2ca02c"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,136.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                50
-                            </text>
+                        <g id="4">
+                            <path d="M0,-251L257.7363159159866,-83.74360547561076L150.47302458687315,207.10835055998652L-138.71731954102364,190.92801067248763L-241.56835513896903,-78.49031657123659Z" stroke="#ff7f0e" fill="#ff7f0e" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.5369317329299283e-14" cy="-251" r="5" stroke="none" fill="#ff7f0e"/>
+                                <circle cx="257.7363159159866" cy="-83.74360547561075" r="5" stroke="none" fill="#ff7f0e"/>
+                                <circle cx="150.47302458687312" cy="207.10835055998655" r="5" stroke="none" fill="#ff7f0e"/>
+                                <circle cx="-138.71731954102364" cy="190.9280106724876" r="5" stroke="none" fill="#ff7f0e"/>
+                                <circle cx="-241.56835513896903" cy="-78.4903165712366" r="5" stroke="none" fill="#ff7f0e"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,166.5)">
-                            <line stroke="currentColor" x2="-6"/><text fill="currentColor" x="-9" dy="0.32em">
-                                40
-                            </text>
+                        <g id="5">
+                            <path d="M0,-205L252.0299768182157,-81.88950350936108L150.47302458687315,207.10835055998652L-149.29745408228814,205.4903165712367L-249.17680726933025,-80.96245252623618Z" stroke="#9467bd" fill="#9467bd" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.255262969126037e-14" cy="-205" r="5" stroke="none" fill="#9467bd"/>
+                                <circle cx="252.0299768182157" cy="-81.88950350936106" r="5" stroke="none" fill="#9467bd"/>
+                                <circle cx="150.47302458687312" cy="207.10835055998655" r="5" stroke="none" fill="#9467bd"/>
+                                <circle cx="-149.29745408228814" cy="205.49031657123666" r="5" stroke="none" fill="#9467bd"/>
+                                <circle cx="-249.17680726933025" cy="-80.96245252623619" r="5" stroke="none" fill="#9467bd"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,196.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                30
-                            </text>
+                        <g id="6">
+                            <path d="M0,-214L222.54722481306592,-72.3099766837377L153.99973610062798,211.9624525262362L-150.4730245868731,207.10835055998658L-227.30250739454172,-73.85506165561239Z" stroke="#8c564b" fill="#8c564b" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.310372075087668e-14" cy="-214" r="5" stroke="none" fill="#8c564b"/>
+                                <circle cx="222.54722481306592" cy="-72.30997668373769" r="5" stroke="none" fill="#8c564b"/>
+                                <circle cx="153.99973610062796" cy="211.96245252623623" r="5" stroke="none" fill="#8c564b"/>
+                                <circle cx="-150.4730245868731" cy="207.10835055998655" r="5" stroke="none" fill="#8c564b"/>
+                                <circle cx="-227.30250739454172" cy="-73.8550616556124" r="5" stroke="none" fill="#8c564b"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,226.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                20
-                            </text>
+                        <g id="7">
+                            <path d="M0,-214L211.13454661752408,-68.60177275123833L142.24403105477853,195.78211263873726L-140.48067529790106,193.35506165561247L-170.2391164168325,-55.31404199311555Z" stroke="#bcbd22" fill="#bcbd22" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.310372075087668e-14" cy="-214" r="5" stroke="none" fill="#bcbd22"/>
+                                <circle cx="211.13454661752408" cy="-68.60177275123833" r="5" stroke="none" fill="#bcbd22"/>
+                                <circle cx="142.2440310547785" cy="195.7821126387373" r="5" stroke="none" fill="#bcbd22"/>
+                                <circle cx="-140.48067529790106" cy="193.35506165561245" r="5" stroke="none" fill="#bcbd22"/>
+                                <circle cx="-170.2391164168325" cy="-55.314041993115566" r="5" stroke="none" fill="#bcbd22"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,255.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                10
-                            </text>
+                        <g id="8">
+                            <path d="M0,-222L211.13454661752408,-68.60177275123833L150.47302458687315,207.10835055998652L-130.48832600892902,179.60177275123837L-208.28137706863865,-67.67472176811344Z" stroke="#7f7f7f" fill="#7f7f7f" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.359357947053562e-14" cy="-222" r="5" stroke="none" fill="#7f7f7f"/>
+                                <circle cx="211.13454661752408" cy="-68.60177275123833" r="5" stroke="none" fill="#7f7f7f"/>
+                                <circle cx="150.47302458687312" cy="207.10835055998655" r="5" stroke="none" fill="#7f7f7f"/>
+                                <circle cx="-130.48832600892902" cy="179.60177275123834" r="5" stroke="none" fill="#7f7f7f"/>
+                                <circle cx="-208.28137706863865" cy="-67.67472176811346" r="5" stroke="none" fill="#7f7f7f"/>
+                            </g>
                         </g>
-                        <g class="tick" opacity="1" transform="translate(0,285.5)">
-                            <line stroke="currentColor" x2="-6"/>
-                            <text fill="currentColor" x="-9" dy="0.32em">
-                                0
-                            </text>
+                        <g id="9"><path d="M0,-177L189.26024674273555,-61.49438188061454L149.2974540822882,205.49031657123663L-125.78604399058922,173.12963679623877L-233.00884649231264,-75.70916362186207Z" stroke="#17becf" fill="#17becf" fill-opacity="0"/>
+                            <g id="dots">
+                                <circle cx="1.0838124172454076e-14" cy="-177" r="5" stroke="none" fill="#17becf"/>
+                                <circle cx="189.26024674273555" cy="-61.49438188061453" r="5" stroke="none" fill="#17becf"/>
+                                <circle cx="149.29745408228817" cy="205.49031657123666" r="5" stroke="none" fill="#17becf"/>
+                                <circle cx="-125.78604399058922" cy="173.12963679623874" r="5" stroke="none" fill="#17becf"/>
+                                <circle cx="-233.00884649231264" cy="-75.70916362186209" r="5" stroke="none" fill="#17becf"/>
+                            </g>
                         </g>
                     </g>
                 </g>
-                <g id="radars">
-                    <g id="0">
-                        <path d="M0,-245L246.32363772044476,-80.03540154311139L159.28980337126026,219.24360547561074L-120.49597671995697,165.84848384686424L-254.88314636710118,-82.81655449248586Z" stroke="#d62728" fill="#d62728" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.5001923289555078e-14" cy="-245" r="5" stroke="none" fill="#d62728"/>
-                            <circle cx="246.32363772044476" cy="-80.03540154311138" r="5" stroke="none" fill="#d62728"/>
-                            <circle cx="159.28980337126023" cy="219.24360547561076" r="5" stroke="none" fill="#d62728"/>
-                            <circle cx="-120.49597671995697" cy="165.84848384686424" r="5" stroke="none" fill="#d62728"/>
-                            <circle cx="-254.88314636710118" cy="-82.81655449248588" r="5" stroke="none" fill="#d62728"/>
+                <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;"/>
+            </g>
+            <g id="grid">
+                <rect x="0" y="0" width="805" height="600" fill="none" stroke="#ccc"/>
+            </g>
+            <g id="legend" transform="translate(805,30)">
+                <g transform="translate(5,0)">
+                    <g class="legendColor" transform="translate(0,0)">
+                        <g class="legendCells" transform="translate(0,16)">
+                            <g class="cell" transform="translate(0, 0)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(31, 119, 180);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        Cristiano Ronaldo
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 21)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(255, 127, 14);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        E. Hazard
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 42)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(44, 160, 44);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        K. De Bruyne
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 63)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(214, 39, 40);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        L. Messi
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 84)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(148, 103, 189);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        L. Modrić
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 105)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(140, 86, 75);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        L. Suárez
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 126)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(227, 119, 194);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        Neymar Jr
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 147)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(127, 127, 127);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        R. Lewandowski
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 168)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(188, 189, 34);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        Sergio Ramos
+                                    </tspan>
+                                </text>
+                            </g>
+                            <g class="cell" transform="translate(0, 189)">
+                                <rect class="swatch" height="15" width="15" style="fill: rgb(23, 190, 207);"/>
+                                <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
+                                    <tspan x="0" dy="0em">
+                                        T. Kroos
+                                    </tspan>
+                                </text>
+                            </g>
                         </g>
-                    </g>
-                    <g id="1"><path d="M0,-259L235.86201604119807,-76.63621460498698L161.05315912813768,221.67065645873558L-147.53409832541072,203.06326558811185L-222.54722481306595,-72.30997668373764Z" stroke="#1f77b4" fill="#1f77b4" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.5859176048958224e-14" cy="-259" r="5" stroke="none" fill="#1f77b4"/>
-                            <circle cx="235.86201604119807" cy="-76.63621460498696" r="5" stroke="none" fill="#1f77b4"/>
-                            <circle cx="161.05315912813765" cy="221.6706564587356" r="5" stroke="none" fill="#1f77b4"/>
-                            <circle cx="-147.53409832541072" cy="203.06326558811182" r="5" stroke="none" fill="#1f77b4"/>
-                            <circle cx="-222.54722481306595" cy="-72.30997668373766" r="5" stroke="none" fill="#1f77b4"/>
-                        </g>
-                    </g>
-                    <g id="2">
-                        <path d="M0,-256L260.58948546487204,-84.6706564587356L157.52644761438282,216.8165544924859L-135.77839327956127,186.88292570061287L-235.8620160411981,-76.63621460498692Z" stroke="#e377c2" fill="#e377c2" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.567547902908612e-14" cy="-256" r="5" stroke="none" fill="#e377c2"/>
-                            <circle cx="260.58948546487204" cy="-84.67065645873559" r="5" stroke="none" fill="#e377c2"/>
-                            <circle cx="157.5264476143828" cy="216.81655449248592" r="5" stroke="none" fill="#e377c2"/>
-                            <circle cx="-135.77839327956127" cy="186.88292570061287" r="5" stroke="none" fill="#e377c2"/>
-                            <circle cx="-235.8620160411981" cy="-76.63621460498693" r="5" stroke="none" fill="#e377c2"/>
-                        </g>
-                    </g>
-                    <g id="3">
-                        <path d="M0,-216L213.98771616640954,-69.52882373436317L152.23638034375057,209.53540154311136L-150.4730245868731,207.10835055998658L-254.88314636710118,-82.81655449248586Z" stroke="#2ca02c" fill="#2ca02c" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.3226185430791415e-14" cy="-216" r="5" stroke="none" fill="#2ca02c"/>
-                            <circle cx="213.98771616640954" cy="-69.52882373436316" r="5" stroke="none" fill="#2ca02c"/>
-                            <circle cx="152.23638034375054" cy="209.5354015431114" r="5" stroke="none" fill="#2ca02c"/>
-                            <circle cx="-150.4730245868731" cy="207.10835055998655" r="5" stroke="none" fill="#2ca02c"/>
-                            <circle cx="-254.88314636710118" cy="-82.81655449248588" r="5" stroke="none" fill="#2ca02c"/>
-                        </g>
-                    </g>
-                    <g id="4">
-                        <path d="M0,-251L257.7363159159866,-83.74360547561076L150.47302458687315,207.10835055998652L-138.71731954102364,190.92801067248763L-241.56835513896903,-78.49031657123659Z" stroke="#ff7f0e" fill="#ff7f0e" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.5369317329299283e-14" cy="-251" r="5" stroke="none" fill="#ff7f0e"/>
-                            <circle cx="257.7363159159866" cy="-83.74360547561075" r="5" stroke="none" fill="#ff7f0e"/>
-                            <circle cx="150.47302458687312" cy="207.10835055998655" r="5" stroke="none" fill="#ff7f0e"/>
-                            <circle cx="-138.71731954102364" cy="190.9280106724876" r="5" stroke="none" fill="#ff7f0e"/>
-                            <circle cx="-241.56835513896903" cy="-78.4903165712366" r="5" stroke="none" fill="#ff7f0e"/>
-                        </g>
-                    </g>
-                    <g id="5">
-                        <path d="M0,-205L252.0299768182157,-81.88950350936108L150.47302458687315,207.10835055998652L-149.29745408228814,205.4903165712367L-249.17680726933025,-80.96245252623618Z" stroke="#9467bd" fill="#9467bd" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.255262969126037e-14" cy="-205" r="5" stroke="none" fill="#9467bd"/>
-                            <circle cx="252.0299768182157" cy="-81.88950350936106" r="5" stroke="none" fill="#9467bd"/>
-                            <circle cx="150.47302458687312" cy="207.10835055998655" r="5" stroke="none" fill="#9467bd"/>
-                            <circle cx="-149.29745408228814" cy="205.49031657123666" r="5" stroke="none" fill="#9467bd"/>
-                            <circle cx="-249.17680726933025" cy="-80.96245252623619" r="5" stroke="none" fill="#9467bd"/>
-                        </g>
-                    </g>
-                    <g id="6">
-                        <path d="M0,-214L222.54722481306592,-72.3099766837377L153.99973610062798,211.9624525262362L-150.4730245868731,207.10835055998658L-227.30250739454172,-73.85506165561239Z" stroke="#8c564b" fill="#8c564b" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.310372075087668e-14" cy="-214" r="5" stroke="none" fill="#8c564b"/>
-                            <circle cx="222.54722481306592" cy="-72.30997668373769" r="5" stroke="none" fill="#8c564b"/>
-                            <circle cx="153.99973610062796" cy="211.96245252623623" r="5" stroke="none" fill="#8c564b"/>
-                            <circle cx="-150.4730245868731" cy="207.10835055998655" r="5" stroke="none" fill="#8c564b"/>
-                            <circle cx="-227.30250739454172" cy="-73.8550616556124" r="5" stroke="none" fill="#8c564b"/>
-                        </g>
-                    </g>
-                    <g id="7">
-                        <path d="M0,-214L211.13454661752408,-68.60177275123833L142.24403105477853,195.78211263873726L-140.48067529790106,193.35506165561247L-170.2391164168325,-55.31404199311555Z" stroke="#bcbd22" fill="#bcbd22" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.310372075087668e-14" cy="-214" r="5" stroke="none" fill="#bcbd22"/>
-                            <circle cx="211.13454661752408" cy="-68.60177275123833" r="5" stroke="none" fill="#bcbd22"/>
-                            <circle cx="142.2440310547785" cy="195.7821126387373" r="5" stroke="none" fill="#bcbd22"/>
-                            <circle cx="-140.48067529790106" cy="193.35506165561245" r="5" stroke="none" fill="#bcbd22"/>
-                            <circle cx="-170.2391164168325" cy="-55.314041993115566" r="5" stroke="none" fill="#bcbd22"/>
-                        </g>
-                    </g>
-                    <g id="8">
-                        <path d="M0,-222L211.13454661752408,-68.60177275123833L150.47302458687315,207.10835055998652L-130.48832600892902,179.60177275123837L-208.28137706863865,-67.67472176811344Z" stroke="#7f7f7f" fill="#7f7f7f" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.359357947053562e-14" cy="-222" r="5" stroke="none" fill="#7f7f7f"/>
-                            <circle cx="211.13454661752408" cy="-68.60177275123833" r="5" stroke="none" fill="#7f7f7f"/>
-                            <circle cx="150.47302458687312" cy="207.10835055998655" r="5" stroke="none" fill="#7f7f7f"/>
-                            <circle cx="-130.48832600892902" cy="179.60177275123834" r="5" stroke="none" fill="#7f7f7f"/>
-                            <circle cx="-208.28137706863865" cy="-67.67472176811346" r="5" stroke="none" fill="#7f7f7f"/>
-                        </g>
-                    </g>
-                    <g id="9"><path d="M0,-177L189.26024674273555,-61.49438188061454L149.2974540822882,205.49031657123663L-125.78604399058922,173.12963679623877L-233.00884649231264,-75.70916362186207Z" stroke="#17becf" fill="#17becf" fill-opacity="0"/>
-                        <g id="dots">
-                            <circle cx="1.0838124172454076e-14" cy="-177" r="5" stroke="none" fill="#17becf"/>
-                            <circle cx="189.26024674273555" cy="-61.49438188061453" r="5" stroke="none" fill="#17becf"/>
-                            <circle cx="149.29745408228817" cy="205.49031657123666" r="5" stroke="none" fill="#17becf"/>
-                            <circle cx="-125.78604399058922" cy="173.12963679623874" r="5" stroke="none" fill="#17becf"/>
-                            <circle cx="-233.00884649231264" cy="-75.70916362186209" r="5" stroke="none" fill="#17becf"/>
-                        </g>
+                        <text class="legendTitle" font-family="&quot;Arial&quot;, sans-serif" font-size="12px" font-weight="bold">
+                            <tspan x="0" dy="0em">
+                                Name
+                            </tspan>
+                        </text>
                     </g>
                 </g>
             </g>
-            <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;"/>
-        </g>
-        <g id="grid">
-            <rect x="0" y="0" width="805" height="600" fill="none" stroke="#ccc"/>
-        </g>
-        <g id="legend" transform="translate(805,30)">
-            <g transform="translate(5,0)">
-                <g class="legendColor" transform="translate(0,0)">
-                    <g class="legendCells" transform="translate(0,16)">
-                        <g class="cell" transform="translate(0, 0)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(31, 119, 180);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    Cristiano Ronaldo
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 21)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(255, 127, 14);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    E. Hazard
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 42)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(44, 160, 44);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    K. De Bruyne
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 63)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(214, 39, 40);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    L. Messi
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 84)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(148, 103, 189);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    L. Modrić
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 105)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(140, 86, 75);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    L. Suárez
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 126)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(227, 119, 194);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    Neymar Jr
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 147)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(127, 127, 127);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    R. Lewandowski
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 168)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(188, 189, 34);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    Sergio Ramos
-                                </tspan>
-                            </text>
-                        </g>
-                        <g class="cell" transform="translate(0, 189)">
-                            <rect class="swatch" height="15" width="15" style="fill: rgb(23, 190, 207);"/>
-                            <text class="label" transform="translate( 20, 12.5)" font-family="&quot;Arial&quot;, sans-serif" font-size="10px">
-                                <tspan x="0" dy="0em">
-                                    T. Kroos
-                                </tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <text class="legendTitle" font-family="&quot;Arial&quot;, sans-serif" font-size="12px" font-weight="bold">
-                        <tspan x="0" dy="0em">
-                            Name
-                        </tspan>
-                    </text>
-                </g>
-            </g>
-        </g>
-    </svg>
-
+        </svg>
+        <a href="./clase1/FIFA-stats.svg" class="redirect-button">View Rawgraphs SVG</a>
+    </div>
     
     <h2 class="section-title">Flourish</h2>
-    <div class="flourish-embed flourish-chart" data-src="visualisation/27964069" style="margin-bottom: 20px;">
-      <script src="https://public.flourish.studio/resources/embed.js"></script>
-      <noscript>
-        <img src="https://public.flourish.studio/visualisation/27964069/thumbnail" width="100%" alt="visualization" />
-      </noscript>
+    <div class="section-container" style="width: 100%;">
+        <div class="flourish-embed flourish-chart" data-src="visualisation/27964069" style="margin-bottom: 20px;">
+            <script src="https://public.flourish.studio/resources/embed.js"></script>
+            <noscript>
+                <img src="https://public.flourish.studio/visualisation/27964069/thumbnail" width="100%" alt="visualization" />
+            </noscript>
+        </div>
+        <a href="./clase2/FN.html" class="redirect-button">View Flourish Visualization</a>
     </div>
 
     <style>
         body {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            overflow-y: scroll;
             font-family: Arial, sans-serif;
             margin: 20px;
             background-color: #f9f9f9;
@@ -342,27 +351,42 @@
             color: #333;
             text-align: start;
             margin: 0;
-            margin-bottom: 8px;
+            margin-bottom: 4px;
         }
-
         .description {
             text-align: start;
             color: #666;
             margin: 0;
             margin-bottom: 12px;
         }
+
         .section-title {
             color: #555;
-            margin-top: 10px;
-        }
-        a {
-            display: block;
-            margin: 10px 0;
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
+            margin-top: 16px;
             text-decoration: underline;
+        }
+        .section-container {
+            display: flex;
+            flex: 1;
+            flex-direction: column;
+            align-items: start;
+            justify-items: start;
+            width: 100%;
+            height: auto;
+            background: transparent;
+            padding: 10px;
+            gap: 2px;
+        }
+
+        .redirect-button {
+            background: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            padding: 8px 12px;
+            border-radius: 8px;
+        }
+        .redirect-button:hover {
+            background: #0056b3;
         }
     </style>
   </body>
