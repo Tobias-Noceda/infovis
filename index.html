@@ -1,82 +1,119 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link rel="icon" href="./favicon.ico" type="image/png">
-      <title>Infovis - portfolio</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="./favicon.ico" type="image/png" />
+    <title>Infovis - portfolio</title>
   </head>
+
   <body>
     <h1 class="main-title">Infovis - portfolio</h1>
-    <p class="description">Welcome to the Infovis course repository! Here you will find all the materials and resources related to the course.</p>
-    
+    <p class="description">
+      Welcome to the Infovis course repository! Here you will find all the
+      materials and resources related to the course.
+    </p>
+
     <h2 class="section-title">Rawgraphs</h2>
     <div class="section-container">
-        <object data="./clase1/FIFA-stats.svg" type="image/svg+xml"></object>
-        <a href="./clase1/FIFA-stats.svg" class="redirect-button">View Rawgraphs SVG</a>
+      <object data="./clase1/FIFA-stats.svg" type="image/svg+xml"></object>
+      <a href="./clase1/FIFA-stats.svg" class="redirect-button"
+        >View Rawgraphs SVG</a
+      >
     </div>
-    
+
     <h2 class="section-title">Flourish</h2>
-    <div class="section-container" style="width: 100%;">
-        <div class="flourish-embed flourish-chart" data-src="visualisation/27964069">
-            <script src="https://public.flourish.studio/resources/embed.js"></script>
-            <noscript>
-                <img src="https://public.flourish.studio/visualisation/27964069/thumbnail" width="100%" alt="visualization" />
-            </noscript>
-        </div>
-        <a href="./clase2/FN.html" class="redirect-button">View Flourish Visualization</a>
+    <div class="section-container" style="width: 100%">
+      <div
+        class="flourish-embed flourish-chart"
+        data-src="visualisation/27964069"
+      >
+        <script src="https://public.flourish.studio/resources/embed.js"></script>
+        <noscript>
+          <img
+            src="https://public.flourish.studio/visualisation/27964069/thumbnail"
+            width="100%"
+            alt="visualization"
+          />
+        </noscript>
+      </div>
+      <a href="./clase2/FN.html" class="redirect-button"
+        >View Flourish Visualization</a
+      >
+    </div>
+
+    <h2 class="section-title">Pizza toppings in the UK:</h2>
+    <div class="section-container" style="width: 100%">
+      <div style="min-height: 448px" id="datawrapper-vis-5QXan">
+        <script
+          type="text/javascript"
+          defer
+          src="https://datawrapper.dwcdn.net/5QXan/embed.js"
+          charset="utf-8"
+          data-target="#datawrapper-vis-5QXan"
+        ></script>
+        <noscript
+          ><img
+            src="https://datawrapper.dwcdn.net/5QXan/full.png"
+            alt="Pizza toppings in the UK (men and woman choices) (Range Plot)"
+        /></noscript>
+      </div>
     </div>
 
     <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            flex: 1;
-            overflow-y: scroll;
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f9f9f9;
-        }
-        .main-title {
-            color: #333;
-            text-align: start;
-            margin: 0;
-            margin-bottom: 4px;
-        }
-        .description {
-            text-align: start;
-            color: #666;
-            margin: 0;
-            margin-bottom: 12px;
-        }
+      body {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        overflow-y: scroll;
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: #f9f9f9;
+      }
 
-        .section-title {
-            color: #555;
-            margin-top: 16px;
-            text-decoration: underline;
-        }
-        .section-container {
-            display: flex;
-            flex-direction: column;
-            align-items: start;
-            justify-items: start;
-            width: 100%;
-            height: auto;
-            background: transparent;
-            padding: 10px;
-            gap: 6px;
-        }
+      .main-title {
+        color: #333;
+        text-align: start;
+        margin: 0;
+        margin-bottom: 4px;
+      }
 
-        .redirect-button {
-            background: #007BFF;
-            color: #fff;
-            text-decoration: none;
-            padding: 8px 12px;
-            border-radius: 8px;
-        }
-        .redirect-button:hover {
-            background: #0056b3;
-        }
+      .description {
+        text-align: start;
+        color: #666;
+        margin: 0;
+        margin-bottom: 12px;
+      }
+
+      .section-title {
+        color: #555;
+        margin-top: 16px;
+        text-decoration: underline;
+      }
+
+      .section-container {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-items: start;
+        width: 100%;
+        height: auto;
+        background: transparent;
+        padding: 10px;
+        gap: 6px;
+      }
+
+      .redirect-button {
+        background: #007bff;
+        color: #fff;
+        text-decoration: none;
+        padding: 8px 12px;
+        border-radius: 8px;
+      }
+
+      .redirect-button:hover {
+        background: #0056b3;
+      }
     </style>
   </body>
 </html>
