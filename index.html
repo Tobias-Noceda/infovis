@@ -23,16 +23,32 @@
     </div>
 
     <h2 class="section-title">Flourish</h2>
-    <div class="section-container" style="width: 100%">
-      <object data="./clase2/FN.html" type="text/html"></object>
+    <div class="section-container">
+      <div class="embed-shell">
+        <iframe
+          id="flourish-frame"
+          src="./clase2/FN.html"
+          title="Flourish visualization"
+          loading="lazy"
+          scrolling="no"
+        ></iframe>
+      </div>
       <a href="./clase2/FN.html" class="redirect-button">
         View Flourish Visualization
       </a>
     </div>
 
     <h2 class="section-title">Pizza toppings in the UK:</h2>
-    <div class="section-container" style="width: 100%">
-      <object data="./clase3/toppings.html" type="text/html"></object>
+    <div class="section-container">
+      <div class="embed-shell">
+        <iframe
+          id="datawrapper-frame"
+          src="./clase3/toppings.html"
+          title="Datawrapper visualization"
+          loading="lazy"
+          scrolling="no"
+        ></iframe>
+      </div>
       <a href="./clase3/toppings.html" class="redirect-button">
         View Datawrapper Visualization
       </a>
@@ -77,8 +93,27 @@
         width: 100%;
         height: auto;
         background: transparent;
-        padding: 10px;
+        padding: 0;
         gap: 6px;
+      }
+
+      .embed-shell {
+        width: min(80%, 1200px);
+        border: 1px solid #d6d6d6;
+        background: #fff;
+        overflow: hidden;
+      }
+
+      .embed-shell object,
+      .embed-shell iframe {
+        width: 100%;
+        height: auto;
+        border: 0;
+        display: block;
+      }
+
+      .embed-shell iframe {
+        min-height: 280px;
       }
 
       .redirect-button {
@@ -93,5 +128,23 @@
         background: #0056b3;
       }
     </style>
+
+    <script>
+      // Embedded pages report their content height to avoid inner scrolling and blank space.
+      window.addEventListener("message", (event) => {
+        const data = event.data;
+
+        if (!data || data.type !== "embed-size" || typeof data.height !== "number") {
+          return;
+        }
+
+        const iframe = document.getElementById(data.id);
+        if (!iframe || event.source !== iframe.contentWindow) {
+          return;
+        }
+
+        iframe.style.height = `${Math.max(220, Math.ceil(data.height))}px`;
+      });
+    </script>
   </body>
 </html>

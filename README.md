@@ -14,3 +14,13 @@
 </div>
 
 [Florence Nightingale - flourish](https://tobias-noceda.github.io/infovis/clase2/FN.html)
+
+## DataWrapper
+
+<div style="min-height: 100%;" id="datawrapper-vis-5QXan">
+    <noscript>
+        <img src="https://datawrapper.dwcdn.net/5QXan/full.png" alt="Range Plot" />
+    </noscript>
+</div>
+
+[Florence Nightingale - flourish](https://tobias-noceda.github.io/infovis/clase2/FN.html)

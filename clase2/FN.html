@@ -4,6 +4,21 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Florence Nightingale - redisign</title>
+      <style>
+        html,
+        body {
+          margin: 0;
+          padding: 0;
+          width: 100%;
+          min-height: 100%;
+          background: #fff;
+        }
+
+        .flourish-embed {
+          width: 100%;
+          min-height: 100%;
+        }
+      </style>
   </head>
   <body>
     <div class="flourish-embed flourish-chart" data-src="visualisation/27964069">
@@ -12,5 +27,28 @@
         <img src="https://public.flourish.studio/visualisation/27964069/thumbnail" width="100%" alt="visualization" />
       </noscript>
     </div>
+
+    <script>
+      const postSize = () => {
+        const height = Math.max(
+          document.documentElement.scrollHeight,
+          document.body.scrollHeight
+        );
+
+        parent.postMessage(
+          {
+            type: "embed-size",
+            id: "flourish-frame",
+            height,
+          },
+          "*"
+        );
+      };
+
+      window.addEventListener("load", postSize);
+      window.addEventListener("resize", postSize);
+      setTimeout(postSize, 400);
+      setTimeout(postSize, 1200);
+    </script>
   </body>
 </html>

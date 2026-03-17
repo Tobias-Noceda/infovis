@@ -1,12 +1,54 @@
-<div style="min-height:413px" id="datawrapper-vis-5QXan">
-    <script
-        type="text/javascript"
-        defer
-        src="https://datawrapper.dwcdn.net/5QXan/embed.js"
-        charset="utf-8"
-        data-target="#datawrapper-vis-5QXan"
-    ></script>
-    <noscript>
-        <img src="https://datawrapper.dwcdn.net/5QXan/full.png" alt="Range Plot" />
-    </noscript>
-</div>
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style>
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                min-height: 100%;
+                background: #fff;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="min-height: 100%;" id="datawrapper-vis-5QXan">
+            <script
+                type="text/javascript"
+                defer
+                src="https://datawrapper.dwcdn.net/5QXan/embed.js"
+                charset="utf-8"
+                data-target="#datawrapper-vis-5QXan"
+            ></script>
+            <noscript>
+                <img src="https://datawrapper.dwcdn.net/5QXan/full.png" alt="Range Plot" />
+            </noscript>
+        </div>
+
+        <script>
+            const postSize = () => {
+                const height = Math.max(
+                    document.documentElement.scrollHeight,
+                    document.body.scrollHeight
+                );
+
+                parent.postMessage(
+                    {
+                        type: "embed-size",
+                        id: "datawrapper-frame",
+                        height,
+                    },
+                    "*"
+                );
+            };
+
+            window.addEventListener("load", postSize);
+            window.addEventListener("resize", postSize);
+            setTimeout(postSize, 400);
+            setTimeout(postSize, 1200);
+        </script>
+    </body>
+</html>
