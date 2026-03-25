@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1005" height="600">
+    <link rel="icon" href="../favicon.ico" type="image/png" />
+    <title>Infovis - portfolio (Rawgraphs)</title>
     <rect width="1005" height="600" x="0" y="0" fill="#FFFFFF" id="background" />
     <clipPath id="serieClipPath">
         <rect x="0" y="0" width="805" height="600" />
