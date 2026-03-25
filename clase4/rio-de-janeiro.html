@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style>
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                height: 100%;
+                background: #fff;
+                overflow: hidden;
+            }
+
+            .tableauPlaceholder {
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+            }
+        </style>
+    </head>
+    <body>
+        <div class='tableauPlaceholder' id='viz1774451930573' style='position: relative;'>
+            <noscript>
+                <a href='#'>
+                    <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;6S&#47;6S43X7TS3&#47;1_rss.png' style='border: none'
+                    />
+</a>
+</noscript>
+<object class='tableauViz' style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                        <param name='embed_code_version' value='3' />
+                        <param name='path' value='shared&#47;6S43X7TS3' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;6S&#47;6S43X7TS3&#47;1.png' />
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='language' value='es-ES' />
+                    </object>
+                </div>
+        <script type="text/javascript">
+            var divElement = document.getElementById("viz1774451930573");
+            var vizElement = divElement.getElementsByTagName("object")[0];
+            var isEmbedded = window.self !== window.top;
+
+            var reportSize = function () {
+                if (!isEmbedded) {
+                    return;
+                }
+
+                parent.postMessage(
+                    {
+                        type: "embed-size",
+                        id: "rio-frame",
+                        height: Math.ceil(divElement.getBoundingClientRect().height),
+                    },
+                    "*"
+                );
+            };
+
+            var applySize = function () {
+                var height = isEmbedded
+                    ? Math.max(360, Math.round(divElement.offsetWidth * 0.75))
+                    : window.innerHeight;
+
+                divElement.style.height = height + "px";
+                vizElement.style.width = "100%";
+                vizElement.style.height = "100%";
+                reportSize();
+            };
+
+            applySize();
+            window.addEventListener("resize", applySize);
+
+            if ("ResizeObserver" in window) {
+                var observer = new ResizeObserver(applySize);
+                observer.observe(document.documentElement);
+            }
+
+            [200, 600, 1200, 2000, 3200].forEach(function (ms) {
+                setTimeout(applySize, ms);
+            });
+
+            var scriptElement = document.createElement("script");
+            scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);
+        </script>
+            </body>
+        </html>
