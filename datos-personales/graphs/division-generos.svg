@@ -1,0 +1,1865 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="805" height="600">
+    <link rel="icon" href="../../favicon.ico" type="image/png" />
+    <rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g transform="translate(10,10)" id="viz">
+        <g id="ancestors">
+            <g transform="translate(0,0)">
+                <rect width="785" height="580" id="path_ancestor0" fill="#ccc" fill-opacity="0"
+                    stroke="#ccc" stroke-opacity="0.1" />
+                <clipPath id="clip_ancestor0">
+                    <use xmlns:ns1="http://www.w3.org/1999/xlink" ns1:href="#path_ancestor0" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor0)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">Root</text>
+            </g>
+            <g transform="translate(2,12)">
+                <rect width="426" height="566" id="path_ancestor1" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor1">
+                    <use xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="#path_ancestor1" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor1)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">rock</text>
+            </g>
+            <g transform="translate(430,12)">
+                <rect width="103" height="328" id="path_ancestor2" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor2">
+                    <use xmlns:ns3="http://www.w3.org/1999/xlink" ns3:href="#path_ancestor2" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor2)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">pop</text>
+            </g>
+            <g transform="translate(430,342)">
+                <rect width="103" height="7" id="path_ancestor3" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor3">
+                    <use xmlns:ns4="http://www.w3.org/1999/xlink" ns4:href="#path_ancestor3" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor3)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">motown</text>
+            </g>
+            <g transform="translate(535,12)">
+                <rect width="248" height="337" id="path_ancestor4" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor4">
+                    <use xmlns:ns5="http://www.w3.org/1999/xlink" ns5:href="#path_ancestor4" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor4)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">indie</text>
+            </g>
+            <g transform="translate(430,351)">
+                <rect width="222" height="62" id="path_ancestor5" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor5">
+                    <use xmlns:ns6="http://www.w3.org/1999/xlink" ns6:href="#path_ancestor5" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor5)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">trap</text>
+            </g>
+            <g transform="translate(430,415)">
+                <rect width="222" height="163" id="path_ancestor6" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor6">
+                    <use xmlns:ns7="http://www.w3.org/1999/xlink" ns7:href="#path_ancestor6" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor6)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">reggae</text>
+            </g>
+            <g transform="translate(654,351)">
+                <rect width="53" height="104" id="path_ancestor7" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor7">
+                    <use xmlns:ns8="http://www.w3.org/1999/xlink" ns8:href="#path_ancestor7" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor7)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">latin</text>
+            </g>
+            <g transform="translate(654,457)">
+                <rect width="48" height="10" id="path_ancestor8" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor8">
+                    <use xmlns:ns9="http://www.w3.org/1999/xlink" ns9:href="#path_ancestor8" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor8)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">cumbia</text>
+            </g>
+            <g transform="translate(704,457)">
+                <rect width="3" height="10" id="path_ancestor9" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor9">
+                    <use xmlns:ns10="http://www.w3.org/1999/xlink" ns10:href="#path_ancestor9" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor9)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">bolero</text>
+            </g>
+            <g transform="translate(709,351)">
+                <rect width="48" height="64" id="path_ancestor10" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor10">
+                    <use xmlns:ns11="http://www.w3.org/1999/xlink" ns11:href="#path_ancestor10" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor10)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">house</text>
+            </g>
+            <g transform="translate(759,351)">
+                <rect width="24" height="64" id="path_ancestor11" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor11">
+                    <use xmlns:ns12="http://www.w3.org/1999/xlink" ns12:href="#path_ancestor11" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor11)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">neo-psychedelic</text>
+            </g>
+            <g transform="translate(709,417)">
+                <rect width="28" height="20" id="path_ancestor12" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor12">
+                    <use xmlns:ns13="http://www.w3.org/1999/xlink" ns13:href="#path_ancestor12" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor12)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">soul</text>
+            </g>
+            <g transform="translate(739,417)">
+                <rect width="3" height="20" id="path_ancestor13" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor13">
+                    <use xmlns:ns14="http://www.w3.org/1999/xlink" ns14:href="#path_ancestor13" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor13)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">religious</text>
+            </g>
+            <g transform="translate(709,439)">
+                <rect width="32" height="28" id="path_ancestor14" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor14">
+                    <use xmlns:ns15="http://www.w3.org/1999/xlink" ns15:href="#path_ancestor14" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor14)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">candombe</text>
+            </g>
+            <g transform="translate(742,439)">
+                <rect width="0" height="28" id="path_ancestor15" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor15">
+                    <use xmlns:ns16="http://www.w3.org/1999/xlink" ns16:href="#path_ancestor15" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor15)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">rap</text>
+            </g>
+            <g transform="translate(744,417)">
+                <rect width="16" height="19" id="path_ancestor16" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor16">
+                    <use xmlns:ns17="http://www.w3.org/1999/xlink" ns17:href="#path_ancestor16" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor16)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">alternative</text>
+            </g>
+            <g transform="translate(762,417)">
+                <rect width="19" height="19" id="path_ancestor17" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor17">
+                    <use xmlns:ns18="http://www.w3.org/1999/xlink" ns18:href="#path_ancestor17" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor17)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">new wave</text>
+            </g>
+            <g transform="translate(783,417)">
+                <rect width="0" height="6" id="path_ancestor18" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor18">
+                    <use xmlns:ns19="http://www.w3.org/1999/xlink" ns19:href="#path_ancestor18" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor18)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">nu metal</text>
+            </g>
+            <g transform="translate(783,425)">
+                <rect width="0" height="11" id="path_ancestor19" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor19">
+                    <use xmlns:ns20="http://www.w3.org/1999/xlink" ns20:href="#path_ancestor19" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor19)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">rkt</text>
+            </g>
+            <g transform="translate(744,438)">
+                <rect width="39" height="29" id="path_ancestor20" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor20">
+                    <use xmlns:ns21="http://www.w3.org/1999/xlink" ns21:href="#path_ancestor20" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor20)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">trova</text>
+            </g>
+            <g transform="translate(654,469)">
+                <rect width="15" height="27" id="path_ancestor21" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor21">
+                    <use xmlns:ns22="http://www.w3.org/1999/xlink" ns22:href="#path_ancestor21" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor21)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">folklore</text>
+            </g>
+            <g transform="translate(671,469)">
+                <rect width="4" height="15" id="path_ancestor22" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor22">
+                    <use xmlns:ns23="http://www.w3.org/1999/xlink" ns23:href="#path_ancestor22" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor22)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">disco</text>
+            </g>
+            <g transform="translate(677,469)">
+                <rect width="9" height="15" id="path_ancestor23" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor23">
+                    <use xmlns:ns24="http://www.w3.org/1999/xlink" ns24:href="#path_ancestor23" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor23)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">big beat</text>
+            </g>
+            <g transform="translate(671,486)">
+                <rect width="2" height="10" id="path_ancestor24" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor24">
+                    <use xmlns:ns25="http://www.w3.org/1999/xlink" ns25:href="#path_ancestor24" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor24)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">lounge</text>
+            </g>
+            <g transform="translate(675,486)">
+                <rect width="11" height="10" id="path_ancestor25" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor25">
+                    <use xmlns:ns26="http://www.w3.org/1999/xlink" ns26:href="#path_ancestor25" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor25)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">corridos tumbados</text>
+            </g>
+            <g transform="translate(653,498)">
+                <rect width="0" height="26" id="path_ancestor26" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor26">
+                    <use xmlns:ns27="http://www.w3.org/1999/xlink" ns27:href="#path_ancestor26" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor26)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">alté</text>
+            </g>
+            <g transform="translate(654,498)">
+                <rect width="32" height="26" id="path_ancestor27" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor27">
+                    <use xmlns:ns28="http://www.w3.org/1999/xlink" ns28:href="#path_ancestor27" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor27)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">mpb</text>
+            </g>
+            <g transform="translate(688,469)">
+                <rect width="11" height="2" id="path_ancestor28" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor28">
+                    <use xmlns:ns29="http://www.w3.org/1999/xlink" ns29:href="#path_ancestor28" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor28)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">uk garage</text>
+            </g>
+            <g transform="translate(688,473)">
+                <rect width="11" height="9" id="path_ancestor29" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor29">
+                    <use xmlns:ns30="http://www.w3.org/1999/xlink" ns30:href="#path_ancestor29" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor29)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">punk</text>
+            </g>
+            <g transform="translate(701,469)">
+                <rect width="6" height="13" id="path_ancestor30" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor30">
+                    <use xmlns:ns31="http://www.w3.org/1999/xlink" ns31:href="#path_ancestor30" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor30)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">singer-songwriter</text>
+            </g>
+            <g transform="translate(709,469)">
+                <rect width="8" height="13" id="path_ancestor31" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor31">
+                    <use xmlns:ns32="http://www.w3.org/1999/xlink" ns32:href="#path_ancestor31" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor31)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">salsa</text>
+            </g>
+            <g transform="translate(688,484)">
+                <rect width="29" height="17" id="path_ancestor32" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor32">
+                    <use xmlns:ns33="http://www.w3.org/1999/xlink" ns33:href="#path_ancestor32" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor32)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">merengue</text>
+            </g>
+            <g transform="translate(688,503)">
+                <rect width="1" height="7" id="path_ancestor33" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor33">
+                    <use xmlns:ns34="http://www.w3.org/1999/xlink" ns34:href="#path_ancestor33" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor33)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">bachata</text>
+            </g>
+            <g transform="translate(688,511)">
+                <rect width="1" height="0" id="path_ancestor34" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor34">
+                    <use xmlns:ns35="http://www.w3.org/1999/xlink" ns35:href="#path_ancestor34" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor34)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">post-punk</text>
+            </g>
+            <g transform="translate(691,503)">
+                <rect width="6" height="8" id="path_ancestor35" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor35">
+                    <use xmlns:ns36="http://www.w3.org/1999/xlink" ns36:href="#path_ancestor35" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor35)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">lullaby</text>
+            </g>
+            <g transform="translate(688,513)">
+                <rect width="9" height="11" id="path_ancestor36" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor36">
+                    <use xmlns:ns37="http://www.w3.org/1999/xlink" ns37:href="#path_ancestor36" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor36)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">jazz</text>
+            </g>
+            <g transform="translate(699,503)">
+                <rect width="18" height="21" id="path_ancestor37" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor37">
+                    <use xmlns:ns38="http://www.w3.org/1999/xlink" ns38:href="#path_ancestor37" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor37)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">christmas</text>
+            </g>
+            <g transform="translate(654,526)">
+                <rect width="5" height="14" id="path_ancestor38" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor38">
+                    <use xmlns:ns39="http://www.w3.org/1999/xlink" ns39:href="#path_ancestor38" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor38)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">ska</text>
+            </g>
+            <g transform="translate(654,542)">
+                <rect width="5" height="8" id="path_ancestor39" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor39">
+                    <use xmlns:ns40="http://www.w3.org/1999/xlink" ns40:href="#path_ancestor39" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor39)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">jam band</text>
+            </g>
+            <g transform="translate(661,526)">
+                <rect width="26" height="24" id="path_ancestor40" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor40">
+                    <use xmlns:ns41="http://www.w3.org/1999/xlink" ns41:href="#path_ancestor40" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor40)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">musicals</text>
+            </g>
+            <g transform="translate(688,526)">
+                <rect width="0" height="24" id="path_ancestor41" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor41">
+                    <use xmlns:ns42="http://www.w3.org/1999/xlink" ns42:href="#path_ancestor41" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor41)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">corrido</text>
+            </g>
+            <g transform="translate(654,552)">
+                <rect width="33" height="26" id="path_ancestor42" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor42">
+                    <use xmlns:ns43="http://www.w3.org/1999/xlink" ns43:href="#path_ancestor42" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor42)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">trip hop</text>
+            </g>
+            <g transform="translate(689,526)">
+                <rect width="12" height="22" id="path_ancestor43" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor43">
+                    <use xmlns:ns44="http://www.w3.org/1999/xlink" ns44:href="#path_ancestor43" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor43)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">downtempo</text>
+            </g>
+            <g transform="translate(703,526)">
+                <rect width="14" height="14" id="path_ancestor44" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor44">
+                    <use xmlns:ns45="http://www.w3.org/1999/xlink" ns45:href="#path_ancestor44" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor44)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">ambient</text>
+            </g>
+            <g transform="translate(703,542)">
+                <rect width="6" height="6" id="path_ancestor45" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor45">
+                    <use xmlns:ns46="http://www.w3.org/1999/xlink" ns46:href="#path_ancestor45" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor45)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">mariachi</text>
+            </g>
+            <g transform="translate(711,542)">
+                <rect width="6" height="0" id="path_ancestor46" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor46">
+                    <use xmlns:ns47="http://www.w3.org/1999/xlink" ns47:href="#path_ancestor46" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor46)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">r&amp;b</text>
+            </g>
+            <g transform="translate(711,543)">
+                <rect width="6" height="5" id="path_ancestor47" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor47">
+                    <use xmlns:ns48="http://www.w3.org/1999/xlink" ns48:href="#path_ancestor47" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor47)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">anti-folk</text>
+            </g>
+            <g transform="translate(689,550)">
+                <rect width="28" height="10" id="path_ancestor48" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor48">
+                    <use xmlns:ns49="http://www.w3.org/1999/xlink" ns49:href="#path_ancestor48" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor48)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">funk</text>
+            </g>
+            <g transform="translate(689,562)">
+                <rect width="23" height="16" id="path_ancestor49" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor49">
+                    <use xmlns:ns50="http://www.w3.org/1999/xlink" ns50:href="#path_ancestor49" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor49)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">sertanejo</text>
+            </g>
+            <g transform="translate(714,562)">
+                <rect width="3" height="16" id="path_ancestor50" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor50">
+                    <use xmlns:ns51="http://www.w3.org/1999/xlink" ns51:href="#path_ancestor50" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor50)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">cuarteto</text>
+            </g>
+            <g transform="translate(719,469)">
+                <rect width="60" height="18" id="path_ancestor51" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor51">
+                    <use xmlns:ns52="http://www.w3.org/1999/xlink" ns52:href="#path_ancestor51" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor51)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">axé</text>
+            </g>
+            <g transform="translate(781,468)">
+                <rect width="2" height="0" id="path_ancestor52" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor52">
+                    <use xmlns:ns53="http://www.w3.org/1999/xlink" ns53:href="#path_ancestor52" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor52)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">chanson</text>
+            </g>
+            <g transform="translate(781,470)">
+                <rect width="2" height="17" id="path_ancestor53" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor53">
+                    <use xmlns:ns54="http://www.w3.org/1999/xlink" ns54:href="#path_ancestor53" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor53)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">cha cha cha</text>
+            </g>
+            <g transform="translate(719,489)">
+                <rect width="64" height="89" id="path_ancestor54" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor54">
+                    <use xmlns:ns55="http://www.w3.org/1999/xlink" ns55:href="#path_ancestor54" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor54)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">bossa nova</text>
+            </g>
+            <g transform="translate(719,579)">
+                <rect width="64" height="0" id="path_ancestor55" fill="#ccc"
+                    fill-opacity="0.3333333333333333" stroke="#ccc"
+                    stroke-opacity="0.43333333333333335" />
+                <clipPath id="clip_ancestor55">
+                    <use xmlns:ns56="http://www.w3.org/1999/xlink" ns56:href="#path_ancestor55" />
+                </clipPath>
+                <text x="2" y="2" clip-path="url(#clip_ancestor55)" font-family="Arial, sans-serif"
+                    font-size="8" dominant-baseline="text-before-edge" class="txt">hip hop</text>
+            </g>
+        </g>
+        <g id="leaves">
+            <g transform="translate(4,24)">
+                <rect id="path0" fill="rgb(229, 72, 19)" width="187" height="11" />
+                <clipPath id="clip0">
+                    <use xmlns:ns57="http://www.w3.org/1999/xlink" ns57:href="#path0" />
+                </clipPath>
+                <text clip-path="url(#clip0)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">rock
+                        argentino</tspan>
+                </text>
+            </g>
+            <g transform="translate(193,24)">
+                <rect id="path1" fill="rgb(229, 72, 19)" width="233" height="11" />
+                <clipPath id="clip1">
+                    <use xmlns:ns58="http://www.w3.org/1999/xlink" ns58:href="#path1" />
+                </clipPath>
+                <text clip-path="url(#clip1)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">alternative
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(4,37)">
+                <rect id="path2" fill="rgb(229, 72, 19)" width="422" height="412" />
+                <clipPath id="clip2">
+                    <use xmlns:ns59="http://www.w3.org/1999/xlink" ns59:href="#path2" />
+                </clipPath>
+                <text clip-path="url(#clip2)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">argentine
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(4,451)">
+                <rect id="path3" fill="rgb(229, 72, 19)" width="120" height="42" />
+                <clipPath id="clip3">
+                    <use xmlns:ns60="http://www.w3.org/1999/xlink" ns60:href="#path3" />
+                </clipPath>
+                <text clip-path="url(#clip3)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">surf
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(4,495)">
+                <rect id="path4" fill="rgb(229, 72, 19)" width="120" height="81" />
+                <clipPath id="clip4">
+                    <use xmlns:ns61="http://www.w3.org/1999/xlink" ns61:href="#path4" />
+                </clipPath>
+                <text clip-path="url(#clip4)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">rock
+                        en español</tspan>
+                </text>
+            </g>
+            <g transform="translate(126,451)">
+                <rect id="path5" fill="rgb(229, 72, 19)" width="30" height="59" />
+                <clipPath id="clip5">
+                    <use xmlns:ns62="http://www.w3.org/1999/xlink" ns62:href="#path5" />
+                </clipPath>
+                <text clip-path="url(#clip5)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">latin
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(158,451)">
+                <rect id="path6" fill="rgb(229, 72, 19)" width="46" height="42" />
+                <clipPath id="clip6">
+                    <use xmlns:ns63="http://www.w3.org/1999/xlink" ns63:href="#path6" />
+                </clipPath>
+                <text clip-path="url(#clip6)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">soft
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(158,495)">
+                <rect id="path7" fill="rgb(229, 72, 19)" width="46" height="15" />
+                <clipPath id="clip7">
+                    <use xmlns:ns64="http://www.w3.org/1999/xlink" ns64:href="#path7" />
+                </clipPath>
+                <text clip-path="url(#clip7)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">folk
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(126,512)">
+                <rect id="path8" fill="rgb(229, 72, 19)" width="78" height="64" />
+                <clipPath id="clip8">
+                    <use xmlns:ns65="http://www.w3.org/1999/xlink" ns65:href="#path8" />
+                </clipPath>
+                <text clip-path="url(#clip8)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">garage
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(206,451)">
+                <rect id="path9" fill="rgb(229, 72, 19)" width="172" height="125" />
+                <clipPath id="clip9">
+                    <use xmlns:ns66="http://www.w3.org/1999/xlink" ns66:href="#path9" />
+                </clipPath>
+                <text clip-path="url(#clip9)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">funk
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(380,451)">
+                <rect id="path10" fill="rgb(229, 72, 19)" width="46" height="41" />
+                <clipPath id="clip10">
+                    <use xmlns:ns67="http://www.w3.org/1999/xlink" ns67:href="#path10" />
+                </clipPath>
+                <text clip-path="url(#clip10)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">indie
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(380,494)">
+                <rect id="path11" fill="rgb(229, 72, 19)" width="46" height="7" />
+                <clipPath id="clip11">
+                    <use xmlns:ns68="http://www.w3.org/1999/xlink" ns68:href="#path11" />
+                </clipPath>
+                <text clip-path="url(#clip11)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">yacht
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(380,503)">
+                <rect id="path12" fill="rgb(229, 72, 19)" width="46" height="63" />
+                <clipPath id="clip12">
+                    <use xmlns:ns69="http://www.w3.org/1999/xlink" ns69:href="#path12" />
+                </clipPath>
+                <text clip-path="url(#clip12)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">classic
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(379,568)">
+                <rect id="path13" fill="rgb(229, 72, 19)" width="0" height="8" />
+                <clipPath id="clip13">
+                    <use xmlns:ns70="http://www.w3.org/1999/xlink" ns70:href="#path13" />
+                </clipPath>
+                <text clip-path="url(#clip13)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">rap
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(381,568)">
+                <rect id="path14" fill="rgb(229, 72, 19)" width="12" height="8" />
+                <clipPath id="clip14">
+                    <use xmlns:ns71="http://www.w3.org/1999/xlink" ns71:href="#path14" />
+                </clipPath>
+                <text clip-path="url(#clip14)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">progressive
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(395,568)">
+                <rect id="path15" fill="rgb(229, 72, 19)" width="5" height="8" />
+                <clipPath id="clip15">
+                    <use xmlns:ns72="http://www.w3.org/1999/xlink" ns72:href="#path15" />
+                </clipPath>
+                <text clip-path="url(#clip15)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">finnish
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(402,568)">
+                <rect id="path16" fill="rgb(229, 72, 19)" width="10" height="8" />
+                <clipPath id="clip16">
+                    <use xmlns:ns73="http://www.w3.org/1999/xlink" ns73:href="#path16" />
+                </clipPath>
+                <text clip-path="url(#clip16)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">blues
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(414,568)">
+                <rect id="path17" fill="rgb(229, 72, 19)" width="11" height="8" />
+                <clipPath id="clip17">
+                    <use xmlns:ns74="http://www.w3.org/1999/xlink" ns74:href="#path17" />
+                </clipPath>
+                <text clip-path="url(#clip17)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">art
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(427,568)">
+                <rect id="path18" fill="rgb(229, 72, 19)" width="0" height="7" />
+                <clipPath id="clip18">
+                    <use xmlns:ns75="http://www.w3.org/1999/xlink" ns75:href="#path18" />
+                </clipPath>
+                <text clip-path="url(#clip18)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">reggae
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(427,577)">
+                <rect id="path19" fill="rgb(229, 72, 19)" width="0" height="0" />
+                <clipPath id="clip19">
+                    <use xmlns:ns76="http://www.w3.org/1999/xlink" ns76:href="#path19" />
+                </clipPath>
+                <text clip-path="url(#clip19)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        rock</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,24)">
+                <rect id="path20" fill="rgb(255, 174, 37)" width="99" height="32" />
+                <clipPath id="clip20">
+                    <use xmlns:ns77="http://www.w3.org/1999/xlink" ns77:href="#path20" />
+                </clipPath>
+                <text clip-path="url(#clip20)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">bedroom
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,58)">
+                <rect id="path21" fill="rgb(255, 174, 37)" width="99" height="70" />
+                <clipPath id="clip21">
+                    <use xmlns:ns78="http://www.w3.org/1999/xlink" ns78:href="#path21" />
+                </clipPath>
+                <text clip-path="url(#clip21)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">folk
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,130)">
+                <rect id="path22" fill="rgb(255, 174, 37)" width="99" height="81" />
+                <clipPath id="clip22">
+                    <use xmlns:ns79="http://www.w3.org/1999/xlink" ns79:href="#path22" />
+                </clipPath>
+                <text clip-path="url(#clip22)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">soft
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,213)">
+                <rect id="path23" fill="rgb(255, 174, 37)" width="41" height="50" />
+                <clipPath id="clip23">
+                    <use xmlns:ns80="http://www.w3.org/1999/xlink" ns80:href="#path23" />
+                </clipPath>
+                <text clip-path="url(#clip23)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">latin
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(475,213)">
+                <rect id="path24" fill="rgb(255, 174, 37)" width="56" height="50" />
+                <clipPath id="clip24">
+                    <use xmlns:ns81="http://www.w3.org/1999/xlink" ns81:href="#path24" />
+                </clipPath>
+                <text clip-path="url(#clip24)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,265)">
+                <rect id="path25" fill="rgb(255, 174, 37)" width="49" height="73" />
+                <clipPath id="clip25">
+                    <use xmlns:ns82="http://www.w3.org/1999/xlink" ns82:href="#path25" />
+                </clipPath>
+                <text clip-path="url(#clip25)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        britpop</tspan>
+                </text>
+            </g>
+            <g transform="translate(483,265)">
+                <rect id="path26" fill="rgb(255, 174, 37)" width="19" height="31" />
+                <clipPath id="clip26">
+                    <use xmlns:ns83="http://www.w3.org/1999/xlink" ns83:href="#path26" />
+                </clipPath>
+                <text clip-path="url(#clip26)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">french
+                        indie pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(504,265)">
+                <rect id="path27" fill="rgb(255, 174, 37)" width="27" height="31" />
+                <clipPath id="clip27">
+                    <use xmlns:ns84="http://www.w3.org/1999/xlink" ns84:href="#path27" />
+                </clipPath>
+                <text clip-path="url(#clip27)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">dansk
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(504,297)">
+                <rect id="path28" fill="rgb(255, 174, 37)" width="27" height="0" />
+                <clipPath id="clip28">
+                    <use xmlns:ns85="http://www.w3.org/1999/xlink" ns85:href="#path28" />
+                </clipPath>
+                <text clip-path="url(#clip28)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        electropop</tspan>
+                </text>
+            </g>
+            <g transform="translate(483,298)">
+                <rect id="path29" fill="rgb(255, 174, 37)" width="18" height="40" />
+                <clipPath id="clip29">
+                    <use xmlns:ns86="http://www.w3.org/1999/xlink" ns86:href="#path29" />
+                </clipPath>
+                <text clip-path="url(#clip29)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">colombian
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(503,298)">
+                <rect id="path30" fill="rgb(255, 174, 37)" width="28" height="16" />
+                <clipPath id="clip30">
+                    <use xmlns:ns87="http://www.w3.org/1999/xlink" ns87:href="#path30" />
+                </clipPath>
+                <text clip-path="url(#clip30)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">baroque
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(503,316)">
+                <rect id="path31" fill="rgb(255, 174, 37)" width="22" height="22" />
+                <clipPath id="clip31">
+                    <use xmlns:ns88="http://www.w3.org/1999/xlink" ns88:href="#path31" />
+                </clipPath>
+                <text clip-path="url(#clip31)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">dream
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(527,316)">
+                <rect id="path32" fill="rgb(255, 174, 37)" width="4" height="9" />
+                <clipPath id="clip32">
+                    <use xmlns:ns89="http://www.w3.org/1999/xlink" ns89:href="#path32" />
+                </clipPath>
+                <text clip-path="url(#clip32)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">art
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(527,327)">
+                <rect id="path33" fill="rgb(255, 174, 37)" width="4" height="11" />
+                <clipPath id="clip33">
+                    <use xmlns:ns90="http://www.w3.org/1999/xlink" ns90:href="#path33" />
+                </clipPath>
+                <text clip-path="url(#clip33)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">french
+                        pop</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,350)">
+                <rect id="path34" fill="rgb(205, 231, 56)" width="99" height="0" />
+                <clipPath id="clip34">
+                    <use xmlns:ns91="http://www.w3.org/1999/xlink" ns91:href="#path34" />
+                </clipPath>
+                <text clip-path="url(#clip34)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        motown</tspan>
+                </text>
+            </g>
+            <g transform="translate(537,24)">
+                <rect id="path35" fill="rgb(93, 252, 116)" width="244" height="10" />
+                <clipPath id="clip35">
+                    <use xmlns:ns92="http://www.w3.org/1999/xlink" ns92:href="#path35" />
+                </clipPath>
+                <text clip-path="url(#clip35)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">latin
+                        indie</tspan>
+                </text>
+            </g>
+            <g transform="translate(537,36)">
+                <rect id="path36" fill="rgb(93, 252, 116)" width="244" height="299" />
+                <clipPath id="clip36">
+                    <use xmlns:ns93="http://www.w3.org/1999/xlink" ns93:href="#path36" />
+                </clipPath>
+                <text clip-path="url(#clip36)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        indie</tspan>
+                </text>
+            </g>
+            <g transform="translate(537,337)">
+                <rect id="path37" fill="rgb(93, 252, 116)" width="213" height="10" />
+                <clipPath id="clip37">
+                    <use xmlns:ns94="http://www.w3.org/1999/xlink" ns94:href="#path37" />
+                </clipPath>
+                <text clip-path="url(#clip37)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">indie
+                        soul</tspan>
+                </text>
+            </g>
+            <g transform="translate(752,337)">
+                <rect id="path38" fill="rgb(93, 252, 116)" width="29" height="10" />
+                <clipPath id="clip38">
+                    <use xmlns:ns95="http://www.w3.org/1999/xlink" ns95:href="#path38" />
+                </clipPath>
+                <text clip-path="url(#clip38)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">mexican
+                        indie</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,363)">
+                <rect id="path39" fill="rgb(159, 17, 1)" width="217" height="48" />
+                <clipPath id="clip39">
+                    <use xmlns:ns96="http://www.w3.org/1999/xlink" ns96:href="#path39" />
+                </clipPath>
+                <text clip-path="url(#clip39)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">argentine
+                        trap</tspan>
+                </text>
+            </g>
+            <g transform="translate(651,363)">
+                <rect id="path40" fill="rgb(159, 17, 1)" width="0" height="48" />
+                <clipPath id="clip40">
+                    <use xmlns:ns97="http://www.w3.org/1999/xlink" ns97:href="#path40" />
+                </clipPath>
+                <text clip-path="url(#clip40)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">chilean
+                        trap</tspan>
+                </text>
+            </g>
+            <g transform="translate(432,427)">
+                <rect id="path41" fill="rgb(254, 110, 26)" width="175" height="149" />
+                <clipPath id="clip41">
+                    <use xmlns:ns98="http://www.w3.org/1999/xlink" ns98:href="#path41" />
+                </clipPath>
+                <text clip-path="url(#clip41)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">reggae
+                        en español</tspan>
+                </text>
+            </g>
+            <g transform="translate(609,427)">
+                <rect id="path42" fill="rgb(254, 110, 26)" width="41" height="139" />
+                <clipPath id="clip42">
+                    <use xmlns:ns99="http://www.w3.org/1999/xlink" ns99:href="#path42" />
+                </clipPath>
+                <text clip-path="url(#clip42)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        reggae</tspan>
+                </text>
+            </g>
+            <g transform="translate(609,568)">
+                <rect id="path43" fill="rgb(254, 110, 26)" width="36" height="8" />
+                <clipPath id="clip43">
+                    <use xmlns:ns100="http://www.w3.org/1999/xlink" ns100:href="#path43" />
+                </clipPath>
+                <text clip-path="url(#clip43)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        reggaeton</tspan>
+                </text>
+            </g>
+            <g transform="translate(647,568)">
+                <rect id="path44" fill="rgb(254, 110, 26)" width="3" height="8" />
+                <clipPath id="clip44">
+                    <use xmlns:ns101="http://www.w3.org/1999/xlink" ns101:href="#path44" />
+                </clipPath>
+                <text clip-path="url(#clip44)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">reggaeton
+                        mexa</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,363)">
+                <rect id="path45" fill="rgb(134, 253, 88)" width="49" height="75" />
+                <clipPath id="clip45">
+                    <use xmlns:ns102="http://www.w3.org/1999/xlink" ns102:href="#path45" />
+                </clipPath>
+                <text clip-path="url(#clip45)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">latin
+                        hip hop</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,440)">
+                <rect id="path46" fill="rgb(134, 253, 88)" width="26" height="13" />
+                <clipPath id="clip46">
+                    <use xmlns:ns103="http://www.w3.org/1999/xlink" ns103:href="#path46" />
+                </clipPath>
+                <text clip-path="url(#clip46)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">latin
+                        alternative</tspan>
+                </text>
+            </g>
+            <g transform="translate(684,440)">
+                <rect id="path47" fill="rgb(134, 253, 88)" width="12" height="13" />
+                <clipPath id="clip47">
+                    <use xmlns:ns104="http://www.w3.org/1999/xlink" ns104:href="#path47" />
+                </clipPath>
+                <text clip-path="url(#clip47)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">latin
+                        folk</tspan>
+                </text>
+            </g>
+            <g transform="translate(698,440)">
+                <rect id="path48" fill="rgb(134, 253, 88)" width="7" height="1" />
+                <clipPath id="clip48">
+                    <use xmlns:ns105="http://www.w3.org/1999/xlink" ns105:href="#path48" />
+                </clipPath>
+                <text clip-path="url(#clip48)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">trap
+                        latino</tspan>
+                </text>
+            </g>
+            <g transform="translate(698,443)">
+                <rect id="path49" fill="rgb(134, 253, 88)" width="7" height="6" />
+                <clipPath id="clip49">
+                    <use xmlns:ns106="http://www.w3.org/1999/xlink" ns106:href="#path49" />
+                </clipPath>
+                <text clip-path="url(#clip49)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">latin
+                        afrobeats</tspan>
+                </text>
+            </g>
+            <g transform="translate(698,451)">
+                <rect id="path50" fill="rgb(134, 253, 88)" width="7" height="2" />
+                <clipPath id="clip50">
+                    <use xmlns:ns107="http://www.w3.org/1999/xlink" ns107:href="#path50" />
+                </clipPath>
+                <text clip-path="url(#clip50)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        latin</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,467)">
+                <rect id="path51" fill="rgb(39, 213, 198)" width="44" height="0" />
+                <clipPath id="clip51">
+                    <use xmlns:ns108="http://www.w3.org/1999/xlink" ns108:href="#path51" />
+                </clipPath>
+                <text clip-path="url(#clip51)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        cumbia</tspan>
+                </text>
+            </g>
+            <g transform="translate(706,467)">
+                <rect id="path52" fill="rgb(67, 109, 240)" width="0" height="0" />
+                <clipPath id="clip52">
+                    <use xmlns:ns109="http://www.w3.org/1999/xlink" ns109:href="#path52" />
+                </clipPath>
+                <text clip-path="url(#clip52)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        bolero</tspan>
+                </text>
+            </g>
+            <g transform="translate(711,363)">
+                <rect id="path53" fill="rgb(81, 250, 127)" width="44" height="35" />
+                <clipPath id="clip53">
+                    <use xmlns:ns110="http://www.w3.org/1999/xlink" ns110:href="#path53" />
+                </clipPath>
+                <text clip-path="url(#clip53)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">tropical
+                        house</tspan>
+                </text>
+            </g>
+            <g transform="translate(711,400)">
+                <rect id="path54" fill="rgb(81, 250, 127)" width="39" height="13" />
+                <clipPath id="clip54">
+                    <use xmlns:ns111="http://www.w3.org/1999/xlink" ns111:href="#path54" />
+                </clipPath>
+                <text clip-path="url(#clip54)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">french
+                        house</tspan>
+                </text>
+            </g>
+            <g transform="translate(752,400)">
+                <rect id="path55" fill="rgb(81, 250, 127)" width="3" height="13" />
+                <clipPath id="clip55">
+                    <use xmlns:ns112="http://www.w3.org/1999/xlink" ns112:href="#path55" />
+                </clipPath>
+                <text clip-path="url(#clip55)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">disco
+                        house</tspan>
+                </text>
+            </g>
+            <g transform="translate(761,363)">
+                <rect id="path56" fill="rgb(239, 206, 45)" width="20" height="50" />
+                <clipPath id="clip56">
+                    <use xmlns:ns113="http://www.w3.org/1999/xlink" ns113:href="#path56" />
+                </clipPath>
+                <text clip-path="url(#clip56)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        neo-psychedelic</tspan>
+                </text>
+            </g>
+            <g transform="translate(711,429)">
+                <rect id="path57" fill="rgb(170, 23, 4)" width="24" height="6" />
+                <clipPath id="clip57">
+                    <use xmlns:ns114="http://www.w3.org/1999/xlink" ns114:href="#path57" />
+                </clipPath>
+                <text clip-path="url(#clip57)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        soul</tspan>
+                </text>
+            </g>
+            <g transform="translate(741,429)">
+                <rect id="path58" fill="rgb(247, 97, 24)" width="0" height="4" />
+                <clipPath id="clip58">
+                    <use xmlns:ns115="http://www.w3.org/1999/xlink" ns115:href="#path58" />
+                </clipPath>
+                <text clip-path="url(#clip58)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">catholic
+                        music</tspan>
+                </text>
+            </g>
+            <g transform="translate(741,435)">
+                <rect id="path59" fill="rgb(247, 97, 24)" width="0" height="0" />
+                <clipPath id="clip59">
+                    <use xmlns:ns116="http://www.w3.org/1999/xlink" ns116:href="#path59" />
+                </clipPath>
+                <text clip-path="url(#clip59)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        christian</tspan>
+                </text>
+            </g>
+            <g transform="translate(711,451)">
+                <rect id="path60" fill="rgb(57, 135, 249)" width="28" height="14" />
+                <clipPath id="clip60">
+                    <use xmlns:ns117="http://www.w3.org/1999/xlink" ns117:href="#path60" />
+                </clipPath>
+                <text clip-path="url(#clip60)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        candombe</tspan>
+                </text>
+            </g>
+            <g transform="translate(742,451)">
+                <rect id="path61" fill="rgb(255, 123, 28)" width="0" height="14" />
+                <clipPath id="clip61">
+                    <use xmlns:ns118="http://www.w3.org/1999/xlink" ns118:href="#path61" />
+                </clipPath>
+                <text clip-path="url(#clip61)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        rap</tspan>
+                </text>
+            </g>
+            <g transform="translate(746,429)">
+                <rect id="path62" fill="rgb(35, 23, 27)" width="12" height="5" />
+                <clipPath id="clip62">
+                    <use xmlns:ns119="http://www.w3.org/1999/xlink" ns119:href="#path62" />
+                </clipPath>
+                <text clip-path="url(#clip62)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">alternative
+                        dance</tspan>
+                </text>
+            </g>
+            <g transform="translate(764,429)">
+                <rect id="path63" fill="rgb(247, 196, 42)" width="15" height="5" />
+                <clipPath id="clip63">
+                    <use xmlns:ns120="http://www.w3.org/1999/xlink" ns120:href="#path63" />
+                </clipPath>
+                <text clip-path="url(#clip63)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">new
+                        wave</tspan>
+                </text>
+            </g>
+            <g transform="translate(783,425)">
+                <rect id="path64" fill="rgb(254, 185, 39)" width="0" height="0" />
+                <clipPath id="clip64">
+                    <use xmlns:ns121="http://www.w3.org/1999/xlink" ns121:href="#path64" />
+                </clipPath>
+                <text clip-path="url(#clip64)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">nu
+                        metal</tspan>
+                </text>
+            </g>
+            <g transform="translate(783,435)">
+                <rect id="path65" fill="rgb(239, 84, 22)" width="0" height="0" />
+                <clipPath id="clip65">
+                    <use xmlns:ns122="http://www.w3.org/1999/xlink" ns122:href="#path65" />
+                </clipPath>
+                <text clip-path="url(#clip65)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        rkt</tspan>
+                </text>
+            </g>
+            <g transform="translate(746,450)">
+                <rect id="path66" fill="rgb(146, 12, 0)" width="35" height="15" />
+                <clipPath id="clip66">
+                    <use xmlns:ns123="http://www.w3.org/1999/xlink" ns123:href="#path66" />
+                </clipPath>
+                <text clip-path="url(#clip66)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        trova</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,481)">
+                <rect id="path67" fill="rgb(53, 236, 162)" width="11" height="13" />
+                <clipPath id="clip67">
+                    <use xmlns:ns124="http://www.w3.org/1999/xlink" ns124:href="#path67" />
+                </clipPath>
+                <text clip-path="url(#clip67)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">folklore
+                        argentino</tspan>
+                </text>
+            </g>
+            <g transform="translate(673,481)">
+                <rect id="path68" fill="rgb(42, 221, 186)" width="0" height="0" />
+                <clipPath id="clip68">
+                    <use xmlns:ns125="http://www.w3.org/1999/xlink" ns125:href="#path68" />
+                </clipPath>
+                <text clip-path="url(#clip68)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">nu
+                        disco</tspan>
+                </text>
+            </g>
+            <g transform="translate(673,483)">
+                <rect id="path69" fill="rgb(42, 221, 186)" width="0" height="0" />
+                <clipPath id="clip69">
+                    <use xmlns:ns126="http://www.w3.org/1999/xlink" ns126:href="#path69" />
+                </clipPath>
+                <text clip-path="url(#clip69)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        disco</tspan>
+                </text>
+            </g>
+            <g transform="translate(679,481)">
+                <rect id="path70" fill="rgb(72, 96, 230)" width="5" height="1" />
+                <clipPath id="clip70">
+                    <use xmlns:ns127="http://www.w3.org/1999/xlink" ns127:href="#path70" />
+                </clipPath>
+                <text clip-path="url(#clip70)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">big
+                        beat</tspan>
+                </text>
+            </g>
+            <g transform="translate(672,496)">
+                <rect id="path71" fill="rgb(149, 251, 81)" width="0" height="0" />
+                <clipPath id="clip71">
+                    <use xmlns:ns128="http://www.w3.org/1999/xlink" ns128:href="#path71" />
+                </clipPath>
+                <text clip-path="url(#clip71)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        lounge</tspan>
+                </text>
+            </g>
+            <g transform="translate(677,496)">
+                <rect id="path72" fill="rgb(37, 194, 220)" width="7" height="0" />
+                <clipPath id="clip72">
+                    <use xmlns:ns129="http://www.w3.org/1999/xlink" ns129:href="#path72" />
+                </clipPath>
+                <text clip-path="url(#clip72)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">corridos
+                        tumbados</tspan>
+                </text>
+            </g>
+            <g transform="translate(653,510)">
+                <rect id="path73" fill="rgb(53, 34, 82)" width="0" height="12" />
+                <clipPath id="clip73">
+                    <use xmlns:ns130="http://www.w3.org/1999/xlink" ns130:href="#path73" />
+                </clipPath>
+                <text clip-path="url(#clip73)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        alté</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,510)">
+                <rect id="path74" fill="rgb(217, 224, 52)" width="28" height="12" />
+                <clipPath id="clip74">
+                    <use xmlns:ns131="http://www.w3.org/1999/xlink" ns131:href="#path74" />
+                </clipPath>
+                <text clip-path="url(#clip74)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        mpb</tspan>
+                </text>
+            </g>
+            <g transform="translate(690,475)">
+                <rect id="path75" fill="rgb(144, 12, 0)" width="7" height="0" />
+                <clipPath id="clip75">
+                    <use xmlns:ns132="http://www.w3.org/1999/xlink" ns132:href="#path75" />
+                </clipPath>
+                <text clip-path="url(#clip75)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">uk
+                        garage</tspan>
+                </text>
+            </g>
+            <g transform="translate(690,483)">
+                <rect id="path76" fill="rgb(255, 149, 32)" width="7" height="0" />
+                <clipPath id="clip76">
+                    <use xmlns:ns133="http://www.w3.org/1999/xlink" ns133:href="#path76" />
+                </clipPath>
+                <text clip-path="url(#clip76)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        punk</tspan>
+                </text>
+            </g>
+            <g transform="translate(703,481)">
+                <rect id="path77" fill="rgb(194, 39, 10)" width="2" height="0" />
+                <clipPath id="clip77">
+                    <use xmlns:ns134="http://www.w3.org/1999/xlink" ns134:href="#path77" />
+                </clipPath>
+                <text clip-path="url(#clip77)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        singer-songwriter</tspan>
+                </text>
+            </g>
+            <g transform="translate(711,481)">
+                <rect id="path78" fill="rgb(218, 60, 16)" width="4" height="0" />
+                <clipPath id="clip78">
+                    <use xmlns:ns135="http://www.w3.org/1999/xlink" ns135:href="#path78" />
+                </clipPath>
+                <text clip-path="url(#clip78)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        salsa</tspan>
+                </text>
+            </g>
+            <g transform="translate(690,496)">
+                <rect id="path79" fill="rgb(192, 238, 61)" width="25" height="3" />
+                <clipPath id="clip79">
+                    <use xmlns:ns136="http://www.w3.org/1999/xlink" ns136:href="#path79" />
+                </clipPath>
+                <text clip-path="url(#clip79)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        merengue</tspan>
+                </text>
+            </g>
+            <g transform="translate(689,512)">
+                <rect id="path80" fill="rgb(74, 83, 214)" width="0" height="0" />
+                <clipPath id="clip80">
+                    <use xmlns:ns137="http://www.w3.org/1999/xlink" ns137:href="#path80" />
+                </clipPath>
+                <text clip-path="url(#clip80)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        bachata</tspan>
+                </text>
+            </g>
+            <g transform="translate(689,516)">
+                <rect id="path81" fill="rgb(255, 162, 35)" width="0" height="0" />
+                <clipPath id="clip81">
+                    <use xmlns:ns138="http://www.w3.org/1999/xlink" ns138:href="#path81" />
+                </clipPath>
+                <text clip-path="url(#clip81)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        post-punk</tspan>
+                </text>
+            </g>
+            <g transform="translate(693,512)">
+                <rect id="path82" fill="rgb(163, 247, 74)" width="2" height="0" />
+                <clipPath id="clip82">
+                    <use xmlns:ns139="http://www.w3.org/1999/xlink" ns139:href="#path82" />
+                </clipPath>
+                <text clip-path="url(#clip82)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        lullaby</tspan>
+                </text>
+            </g>
+            <g transform="translate(690,523)">
+                <rect id="path83" fill="rgb(120, 254, 97)" width="1" height="0" />
+                <clipPath id="clip83">
+                    <use xmlns:ns140="http://www.w3.org/1999/xlink" ns140:href="#path83" />
+                </clipPath>
+                <text clip-path="url(#clip83)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">acid
+                        jazz</tspan>
+                </text>
+            </g>
+            <g transform="translate(693,523)">
+                <rect id="path84" fill="rgb(120, 254, 97)" width="1" height="0" />
+                <clipPath id="clip84">
+                    <use xmlns:ns141="http://www.w3.org/1999/xlink" ns141:href="#path84" />
+                </clipPath>
+                <text clip-path="url(#clip84)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">brazilian
+                        jazz</tspan>
+                </text>
+            </g>
+            <g transform="translate(696,523)">
+                <rect id="path85" fill="rgb(120, 254, 97)" width="0" height="0" />
+                <clipPath id="clip85">
+                    <use xmlns:ns142="http://www.w3.org/1999/xlink" ns142:href="#path85" />
+                </clipPath>
+                <text clip-path="url(#clip85)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">smooth
+                        jazz</tspan>
+                </text>
+            </g>
+            <g transform="translate(701,515)">
+                <rect id="path86" fill="rgb(42, 171, 238)" width="14" height="7" />
+                <clipPath id="clip86">
+                    <use xmlns:ns143="http://www.w3.org/1999/xlink" ns143:href="#path86" />
+                </clipPath>
+                <text clip-path="url(#clip86)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        christmas</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,538)">
+                <rect id="path87" fill="rgb(181, 30, 7)" width="1" height="0" />
+                <clipPath id="clip87">
+                    <use xmlns:ns144="http://www.w3.org/1999/xlink" ns144:href="#path87" />
+                </clipPath>
+                <text clip-path="url(#clip87)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        ska</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,551)">
+                <rect id="path88" fill="rgb(106, 253, 106)" width="1" height="0" />
+                <clipPath id="clip88">
+                    <use xmlns:ns145="http://www.w3.org/1999/xlink" ns145:href="#path88" />
+                </clipPath>
+                <text clip-path="url(#clip88)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">jam
+                        band</tspan>
+                </text>
+            </g>
+            <g transform="translate(663,538)">
+                <rect id="path89" fill="rgb(229, 216, 48)" width="22" height="10" />
+                <clipPath id="clip89">
+                    <use xmlns:ns146="http://www.w3.org/1999/xlink" ns146:href="#path89" />
+                </clipPath>
+                <text clip-path="url(#clip89)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        musicals</tspan>
+                </text>
+            </g>
+            <g transform="translate(688,538)">
+                <rect id="path90" fill="rgb(39, 183, 230)" width="0" height="10" />
+                <clipPath id="clip90">
+                    <use xmlns:ns147="http://www.w3.org/1999/xlink" ns147:href="#path90" />
+                </clipPath>
+                <text clip-path="url(#clip90)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        corrido</tspan>
+                </text>
+            </g>
+            <g transform="translate(656,564)">
+                <rect id="path91" fill="rgb(151, 13, 0)" width="29" height="12" />
+                <clipPath id="clip91">
+                    <use xmlns:ns148="http://www.w3.org/1999/xlink" ns148:href="#path91" />
+                </clipPath>
+                <text clip-path="url(#clip91)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">trip
+                        hop</tspan>
+                </text>
+            </g>
+            <g transform="translate(691,538)">
+                <rect id="path92" fill="rgb(46, 229, 174)" width="8" height="8" />
+                <clipPath id="clip92">
+                    <use xmlns:ns149="http://www.w3.org/1999/xlink" ns149:href="#path92" />
+                </clipPath>
+                <text clip-path="url(#clip92)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        downtempo</tspan>
+                </text>
+            </g>
+            <g transform="translate(705,538)">
+                <rect id="path93" fill="rgb(65, 45, 126)" width="10" height="0" />
+                <clipPath id="clip93">
+                    <use xmlns:ns150="http://www.w3.org/1999/xlink" ns150:href="#path93" />
+                </clipPath>
+                <text clip-path="url(#clip93)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        ambient</tspan>
+                </text>
+            </g>
+            <g transform="translate(705,550)">
+                <rect id="path94" fill="rgb(178, 243, 67)" width="2" height="0" />
+                <clipPath id="clip94">
+                    <use xmlns:ns151="http://www.w3.org/1999/xlink" ns151:href="#path94" />
+                </clipPath>
+                <text clip-path="url(#clip94)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        mariachi</tspan>
+                </text>
+            </g>
+            <g transform="translate(713,547)">
+                <rect id="path95" fill="rgb(255, 137, 30)" width="2" height="0" />
+                <clipPath id="clip95">
+                    <use xmlns:ns152="http://www.w3.org/1999/xlink" ns152:href="#path95" />
+                </clipPath>
+                <text clip-path="url(#clip95)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        r&amp;b</tspan>
+                </text>
+            </g>
+            <g transform="translate(713,551)">
+                <rect id="path96" fill="rgb(72, 57, 163)" width="2" height="0" />
+                <clipPath id="clip96">
+                    <use xmlns:ns153="http://www.w3.org/1999/xlink" ns153:href="#path96" />
+                </clipPath>
+                <text clip-path="url(#clip96)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        anti-folk</tspan>
+                </text>
+            </g>
+            <g transform="translate(691,560)">
+                <rect id="path97" fill="rgb(61, 241, 150)" width="15" height="0" />
+                <clipPath id="clip97">
+                    <use xmlns:ns154="http://www.w3.org/1999/xlink" ns154:href="#path97" />
+                </clipPath>
+                <text clip-path="url(#clip97)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">brazilian
+                        funk</tspan>
+                </text>
+            </g>
+            <g transform="translate(708,560)">
+                <rect id="path98" fill="rgb(61, 241, 150)" width="2" height="0" />
+                <clipPath id="clip98">
+                    <use xmlns:ns155="http://www.w3.org/1999/xlink" ns155:href="#path98" />
+                </clipPath>
+                <text clip-path="url(#clip98)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">brega
+                        funk</tspan>
+                </text>
+            </g>
+            <g transform="translate(712,560)">
+                <rect id="path99" fill="rgb(61, 241, 150)" width="3" height="0" />
+                <clipPath id="clip99">
+                    <use xmlns:ns156="http://www.w3.org/1999/xlink" ns156:href="#path99" />
+                </clipPath>
+                <text clip-path="url(#clip99)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        g-funk</tspan>
+                </text>
+            </g>
+            <g transform="translate(691,574)">
+                <rect id="path100" fill="rgb(206, 49, 13)" width="17" height="2" />
+                <clipPath id="clip100">
+                    <use xmlns:ns157="http://www.w3.org/1999/xlink" ns157:href="#path100" />
+                </clipPath>
+                <text clip-path="url(#clip100)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        sertanejo</tspan>
+                </text>
+            </g>
+            <g transform="translate(710,574)">
+                <rect id="path101" fill="rgb(206, 49, 13)" width="0" height="2" />
+                <clipPath id="clip101">
+                    <use xmlns:ns158="http://www.w3.org/1999/xlink" ns158:href="#path101" />
+                </clipPath>
+                <text clip-path="url(#clip101)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">sertanejo
+                        universitário</tspan>
+                </text>
+            </g>
+            <g transform="translate(716,574)">
+                <rect id="path102" fill="rgb(37, 204, 210)" width="0" height="2" />
+                <clipPath id="clip102">
+                    <use xmlns:ns159="http://www.w3.org/1999/xlink" ns159:href="#path102" />
+                </clipPath>
+                <text clip-path="url(#clip102)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        cuarteto</tspan>
+                </text>
+            </g>
+            <g transform="translate(721,481)">
+                <rect id="path103" fill="rgb(75, 70, 192)" width="56" height="4" />
+                <clipPath id="clip103">
+                    <use xmlns:ns160="http://www.w3.org/1999/xlink" ns160:href="#path103" />
+                </clipPath>
+                <text clip-path="url(#clip103)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        axé</tspan>
+                </text>
+            </g>
+            <g transform="translate(782,473)">
+                <rect id="path104" fill="rgb(46, 160, 244)" width="0" height="0" />
+                <clipPath id="clip104">
+                    <use xmlns:ns161="http://www.w3.org/1999/xlink" ns161:href="#path104" />
+                </clipPath>
+                <text clip-path="url(#clip104)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">
+                        chanson</tspan>
+                </text>
+            </g>
+            <g transform="translate(782,482)">
+                <rect id="path105" fill="rgb(51, 147, 248)" width="0" height="3" />
+                <clipPath id="clip105">
+                    <use xmlns:ns162="http://www.w3.org/1999/xlink" ns162:href="#path105" />
+                </clipPath>
+                <text clip-path="url(#clip105)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">cha
+                        cha cha</tspan>
+                </text>
+            </g>
+            <g transform="translate(721,501)">
+                <rect id="path106" fill="rgb(62, 122, 247)" width="60" height="75" />
+                <clipPath id="clip106">
+                    <use xmlns:ns163="http://www.w3.org/1999/xlink" ns163:href="#path106" />
+                </clipPath>
+                <text clip-path="url(#clip106)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">bossa
+                        nova</tspan>
+                </text>
+            </g>
+            <g transform="translate(721,584)">
+                <rect id="path107" fill="rgb(70, 246, 138)" width="60" height="0" />
+                <clipPath id="clip107">
+                    <use xmlns:ns164="http://www.w3.org/1999/xlink" ns164:href="#path107" />
+                </clipPath>
+                <text clip-path="url(#clip107)" font-family="Arial, sans-serif" font-size="10"
+                    dominant-baseline="text-before-edge" class="txt">
+                    <tspan x="3" y="0.2em"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">west
+                        coast hip hop</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

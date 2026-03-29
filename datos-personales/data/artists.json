@@ -1,0 +1,4856 @@
+[
+    {
+        "name": "Sports",
+        "genres": [],
+        "spotifyId": "4AGNJdJiVltImYk1UTLE0K",
+        "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+    },
+    {
+        "name": "Ozonezzz",
+        "genres": [],
+        "spotifyId": "3D4ZyZNY4vP7YHF9CtWQzZ",
+        "url": "https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ"
+    },
+    {
+        "name": "Parcels",
+        "genres": [
+            "indie soul"
+        ],
+        "spotifyId": "3oKRxpszQKUjjaHz388fVA",
+        "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+    },
+    {
+        "name": "despejado",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "4kTfrhAyBXPkQDze0FXKyZ",
+        "url": "https://open.spotify.com/artist/4kTfrhAyBXPkQDze0FXKyZ"
+    },
+    {
+        "name": "Niall Horan",
+        "genres": [],
+        "spotifyId": "1Hsdzj7Dlq2I7tHP7501T4",
+        "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+    },
+    {
+        "name": "Bauti Mascia",
+        "genres": [
+            "cumbia",
+            "cuarteto"
+        ],
+        "spotifyId": "4cV73y9UlkKTCIWbuP2hbG",
+        "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+    },
+    {
+        "name": "Kungs",
+        "genres": [],
+        "spotifyId": "7keGfmQR4X5w0two1xKZ7d",
+        "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+    },
+    {
+        "name": "Xuxa",
+        "genres": [
+            "lullaby",
+            "children's music"
+        ],
+        "spotifyId": "4DOlsUBpxw706SXx05Xoi2",
+        "url": "https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2"
+    },
+    {
+        "name": "The Reytons",
+        "genres": [],
+        "spotifyId": "3RHoFGKe6KE3LLml7ujPKJ",
+        "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+    },
+    {
+        "name": "Rod Stewart",
+        "genres": [
+            "soft rock"
+        ],
+        "spotifyId": "2y8Jo9CKhJvtfeKOsYzRdT",
+        "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+    },
+    {
+        "name": "Chico De Neón",
+        "genres": [],
+        "spotifyId": "4vllv4d7oHuS7Nhert1cf2",
+        "url": "https://open.spotify.com/artist/4vllv4d7oHuS7Nhert1cf2"
+    },
+    {
+        "name": "La T y La M",
+        "genres": [
+            "cumbia",
+            "cuarteto",
+            "rkt",
+            "turreo"
+        ],
+        "spotifyId": "1FxPMQ9A0882eNDx3ZkD6B",
+        "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+    },
+    {
+        "name": "Plan B",
+        "genres": [
+            "reggaeton"
+        ],
+        "spotifyId": "2jSGzJw0ebJLu7OLVSOcBP",
+        "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+    },
+    {
+        "name": "Laza Bossa",
+        "genres": [
+            "bossa nova"
+        ],
+        "spotifyId": "2We4jc3vE6qvySVXKR1XgF",
+        "url": "https://open.spotify.com/artist/2We4jc3vE6qvySVXKR1XgF"
+    },
+    {
+        "name": "Fatboy Slim",
+        "genres": [
+            "big beat"
+        ],
+        "spotifyId": "4Y7tXHSEejGu1vQ9bwDdXW",
+        "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+    },
+    {
+        "name": "Daniel Andrés",
+        "genres": [],
+        "spotifyId": "3osQVuvWyX0Cxs0XTrB96q",
+        "url": "https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q"
+    },
+    {
+        "name": "Shakira",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "0EmeFodog0BfCgMzAIvKQp",
+        "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+    },
+    {
+        "name": "American Authors",
+        "genres": [],
+        "spotifyId": "0MlOPi3zIDMVrfA9R04Fe3",
+        "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+    },
+    {
+        "name": "Wheatus",
+        "genres": [],
+        "spotifyId": "4mYFgEjpQT4IKOrjOUKyXu",
+        "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+    },
+    {
+        "name": "Molotov",
+        "genres": [
+            "rock en español",
+            "mexican rock",
+            "latin rock",
+            "ska",
+            "latin alternative",
+            "mexican hip hop",
+            "latin hip hop"
+        ],
+        "spotifyId": "27Owkm4TGlMqb0BqaEt3PW",
+        "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+    },
+    {
+        "name": "Leo Maslíah",
+        "genres": [
+            "candombe",
+            "murga"
+        ],
+        "spotifyId": "1V91O7M7AAOZxWnTRDlJy7",
+        "url": "https://open.spotify.com/artist/1V91O7M7AAOZxWnTRDlJy7"
+    },
+    {
+        "name": "Jet",
+        "genres": [],
+        "spotifyId": "5ypxebeHEIXjMtJb17uJlI",
+        "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+    },
+    {
+        "name": "CeeLo Green",
+        "genres": [],
+        "spotifyId": "5nLYd9ST4Cnwy6NHaCxbj8",
+        "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+    },
+    {
+        "name": "Bossa Bros",
+        "genres": [
+            "bossa nova"
+        ],
+        "spotifyId": "5jd0MgoI9F3hxcQHBPEk6V",
+        "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+    },
+    {
+        "name": "Boza",
+        "genres": [
+            "reggaeton",
+            "latin afrobeats",
+            "urbano latino"
+        ],
+        "spotifyId": "2NfSBtmWe7oPw1EmetJVso",
+        "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+    },
+    {
+        "name": "Lukas Graham",
+        "genres": [
+            "dansk pop"
+        ],
+        "spotifyId": "25u4wHJWxCA9vO0CzxAbK7",
+        "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+    },
+    {
+        "name": "Zak Downtown",
+        "genres": [],
+        "spotifyId": "2qcAIycColPoLfaz16NvbI",
+        "url": "https://open.spotify.com/artist/2qcAIycColPoLfaz16NvbI"
+    },
+    {
+        "name": "Relaxing Noises",
+        "genres": [],
+        "spotifyId": "3uMJsDLenRrP1soBlu3YKq",
+        "url": "https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq"
+    },
+    {
+        "name": "El Cuarteto De Nos",
+        "genres": [
+            "cuarteto",
+            "argentine rock",
+            "rock en español",
+            "latin rock"
+        ],
+        "spotifyId": "13JJKrUewC1CJYmIDXQNoH",
+        "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+    },
+    {
+        "name": "Tom Odell",
+        "genres": [],
+        "spotifyId": "2txHhyCwHjUEpJjWrEyqyX",
+        "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+    },
+    {
+        "name": "Manu Chao",
+        "genres": [
+            "latin alternative"
+        ],
+        "spotifyId": "6wH6iStAh4KIaWfuhf0NYM",
+        "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+    },
+    {
+        "name": "Lilly Wood and The Prick",
+        "genres": [
+            "french indie pop"
+        ],
+        "spotifyId": "50OApTJurDusIo9dGTqSU4",
+        "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+    },
+    {
+        "name": "Beck",
+        "genres": [
+            "anti-folk"
+        ],
+        "spotifyId": "3vbKDsSS70ZX9D2OcvbZmS",
+        "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+    },
+    {
+        "name": "De La Rivera",
+        "genres": [
+            "latin alternative",
+            "latin indie"
+        ],
+        "spotifyId": "4U48zETkokPB76fnXQiO2b",
+        "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+    },
+    {
+        "name": "La Franela",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "5P57GCRyvU7ln5GwNXU8ku",
+        "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+    },
+    {
+        "name": "Vicentico",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español"
+        ],
+        "spotifyId": "25THA9HUHoxpCT4LBp7UsZ",
+        "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+    },
+    {
+        "name": "BROODS",
+        "genres": [],
+        "spotifyId": "5r5Va4lVQ1zjEfbJSrmCsS",
+        "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+    },
+    {
+        "name": "Rawayana",
+        "genres": [
+            "reggae en español"
+        ],
+        "spotifyId": "2AbQwU2cuEGfD465wCXlg2",
+        "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+    },
+    {
+        "name": "LCD Soundsystem",
+        "genres": [
+            "alternative dance",
+            "new rave"
+        ],
+        "spotifyId": "066X20Nz7iquqkkCW6Jxy6",
+        "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+    },
+    {
+        "name": "Radiohead",
+        "genres": [
+            "art rock",
+            "alternative rock"
+        ],
+        "spotifyId": "4Z8W4fKeB5YxbusRsdQVPb",
+        "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    {
+        "name": "Sky Travis",
+        "genres": [],
+        "spotifyId": "5IkHDfUNRiqyATjgbDHuGy",
+        "url": "https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy"
+    },
+    {
+        "name": "WALK THE MOON",
+        "genres": [],
+        "spotifyId": "6DIS6PRrLS3wbnZsf7vYic",
+        "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+    },
+    {
+        "name": "Charly García",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español"
+        ],
+        "spotifyId": "3jO7X5KupvwmWTHGtHgcgo",
+        "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+    },
+    {
+        "name": "TX Phoenix",
+        "genres": [],
+        "spotifyId": "7eRjokfkxztzC4Cp41EPz6",
+        "url": "https://open.spotify.com/artist/7eRjokfkxztzC4Cp41EPz6"
+    },
+    {
+        "name": "Daft Punk",
+        "genres": [
+            "french house",
+            "electronic",
+            "electro"
+        ],
+        "spotifyId": "4tZwfgrHOc3mvqYlEYSvVi",
+        "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    {
+        "name": "Bakar",
+        "genres": [],
+        "spotifyId": "3K2Srho6NCF3o9MswGR76H",
+        "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+    },
+    {
+        "name": "Ben Platt",
+        "genres": [
+            "musicals"
+        ],
+        "spotifyId": "6qGkLCMQkNGOJ079iEcC5k",
+        "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+    },
+    {
+        "name": "Young Cister",
+        "genres": [
+            "chilean trap",
+            "reggaeton chileno",
+            "chilean mambo"
+        ],
+        "spotifyId": "0Yg29FX1M4ayqjXs0ttZFq",
+        "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+    },
+    {
+        "name": "Young the Giant",
+        "genres": [],
+        "spotifyId": "4j56EQDQu5XnL7R3E9iFJT",
+        "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+    },
+    {
+        "name": "Bob Marley & The Wailers",
+        "genres": [
+            "reggae",
+            "roots reggae"
+        ],
+        "spotifyId": "2QsynagSdAqZj3U9HgDzjD",
+        "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+    },
+    {
+        "name": "Declan McKenna",
+        "genres": [],
+        "spotifyId": "2D4FOOOtWycb3Aw9nY5n3c",
+        "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+    },
+    {
+        "name": "Yusuf / Cat Stevens",
+        "genres": [
+            "folk rock",
+            "folk",
+            "singer-songwriter"
+        ],
+        "spotifyId": "08F3Y3SctIlsOEmKd6dnH8",
+        "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+    },
+    {
+        "name": "Coldplay",
+        "genres": [],
+        "spotifyId": "4gzpq5DPGxSnKTe4SA8HAU",
+        "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    {
+        "name": "Nylana",
+        "genres": [],
+        "spotifyId": "0xlINdzWCaaz7cIzrUDhfW",
+        "url": "https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW"
+    },
+    {
+        "name": "BAMBI",
+        "genres": [],
+        "spotifyId": "0nDw7H8W4oU0QPzL4LC9Aj",
+        "url": "https://open.spotify.com/artist/0nDw7H8W4oU0QPzL4LC9Aj"
+    },
+    {
+        "name": "Tom Grennan",
+        "genres": [],
+        "spotifyId": "5SHxzwjek1Pipl1Yk11UHv",
+        "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+    },
+    {
+        "name": "The Whitest Boy Alive",
+        "genres": [],
+        "spotifyId": "1qcU8NabUQ5efQf8UGW6CV",
+        "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+    },
+    {
+        "name": "Celia Cruz",
+        "genres": [
+            "salsa",
+            "son cubano",
+            "bolero",
+            "cha cha cha",
+            "merengue",
+            "mambo",
+            "latin dance",
+            "latin jazz"
+        ],
+        "spotifyId": "2weA6hhVqTIN2gSn9PUB9U",
+        "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+    },
+    {
+        "name": "XANDDY HARMONIA",
+        "genres": [
+            "axé",
+            "pagode baiano",
+            "pagode",
+            "samba"
+        ],
+        "spotifyId": "3VZXmYrB3MxMfTZKIVZA1J",
+        "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+    },
+    {
+        "name": "José Octavio I",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "379umh6o5MFHzFNbk5btZw",
+        "url": "https://open.spotify.com/artist/379umh6o5MFHzFNbk5btZw"
+    },
+    {
+        "name": "overpass",
+        "genres": [],
+        "spotifyId": "2y3PEaAgTdxYfbyeSXORv8",
+        "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+    },
+    {
+        "name": "Tears For Fears",
+        "genres": [
+            "new wave",
+            "synthpop"
+        ],
+        "spotifyId": "4bthk9UfsYUYdcFyqxmSUU",
+        "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+    },
+    {
+        "name": "Zimmer90",
+        "genres": [],
+        "spotifyId": "7cViIoKAQrjHURdxb9ACCX",
+        "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+    },
+    {
+        "name": "Cumulus Clouds",
+        "genres": [],
+        "spotifyId": "5uhJr7gBXHomu0djGtzIgT",
+        "url": "https://open.spotify.com/artist/5uhJr7gBXHomu0djGtzIgT"
+    },
+    {
+        "name": "Kameleba",
+        "genres": [
+            "reggae en español",
+            "reggae",
+            "roots reggae"
+        ],
+        "spotifyId": "2oSUm3Sv4yNsTLaYuROuST",
+        "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+    },
+    {
+        "name": "Silvestre y La Naranja",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "1hE5imhaIrCEKoHLHW9aCO",
+        "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+    },
+    {
+        "name": "Papanegro",
+        "genres": [
+            "funk rock",
+            "funk"
+        ],
+        "spotifyId": "3YIlnLkPcxVni4w8FGWJnm",
+        "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+    },
+    {
+        "name": "Noise Sucre",
+        "genres": [],
+        "spotifyId": "0VaiZ9oyrhoCIqIzyVJdgq",
+        "url": "https://open.spotify.com/artist/0VaiZ9oyrhoCIqIzyVJdgq"
+    },
+    {
+        "name": "Steve Lacy",
+        "genres": [],
+        "spotifyId": "57vWImR43h4CaDao012Ofp",
+        "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+    },
+    {
+        "name": "The Royston Club",
+        "genres": [],
+        "spotifyId": "5N5jf98OOEf3uAIJpi1deD",
+        "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+    },
+    {
+        "name": "Hannah Montana",
+        "genres": [],
+        "spotifyId": "7nU4hB040gTmHm45YYMvqc",
+        "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+    },
+    {
+        "name": "Moby",
+        "genres": [
+            "downtempo",
+            "trip hop"
+        ],
+        "spotifyId": "3OsRAKCvk37zwYcnzRf5XF",
+        "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+    },
+    {
+        "name": "New Order",
+        "genres": [
+            "new wave",
+            "synthpop",
+            "post-punk",
+            "madchester"
+        ],
+        "spotifyId": "0yNLKJebCb8Aueb54LYya3",
+        "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+    },
+    {
+        "name": "Dread Mar I",
+        "genres": [
+            "reggae en español",
+            "reggae"
+        ],
+        "spotifyId": "1aw0Cdl1DIrtUrUA6fGbAR",
+        "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+    },
+    {
+        "name": "Winyah",
+        "genres": [],
+        "spotifyId": "4iyP4VOGOLzbt2Vxcyu6zG",
+        "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+    },
+    {
+        "name": "Robbie Williams",
+        "genres": [],
+        "spotifyId": "2HcwFjNelS49kFbfvMxQYw",
+        "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+    },
+    {
+        "name": "Cocoon",
+        "genres": [
+            "french indie pop",
+            "folk pop"
+        ],
+        "spotifyId": "15h5B5quwDm2C1rhbtvUPD",
+        "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+    },
+    {
+        "name": "Skylar Grey",
+        "genres": [],
+        "spotifyId": "4utLUGcTvOJFr6aqIJtYWV",
+        "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+    },
+    {
+        "name": "junodream",
+        "genres": [],
+        "spotifyId": "4jPWi4cSe5zK2dUCLWiBaN",
+        "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+    },
+    {
+        "name": "Intoxicados",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "4VgvR7eu3k2T20mo6mXhXF",
+        "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+    },
+    {
+        "name": "Super Flumina",
+        "genres": [
+            "mexican indie",
+            "mexican rock",
+            "latin indie"
+        ],
+        "spotifyId": "39jtNDeklwMnrUYx8M7SgK",
+        "url": "https://open.spotify.com/artist/39jtNDeklwMnrUYx8M7SgK"
+    },
+    {
+        "name": "Lionel Richie",
+        "genres": [
+            "motown"
+        ],
+        "spotifyId": "3gMaNLQm7D9MornNILzdSl",
+        "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+    },
+    {
+        "name": "Virus",
+        "genres": [
+            "latin rock",
+            "argentine rock",
+            "rock en español"
+        ],
+        "spotifyId": "0G7A5LzQAs2egiQl7hO5tV",
+        "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+    },
+    {
+        "name": "Wallows",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "0NIPkIjTV8mB795yEIiPYL",
+        "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+    },
+    {
+        "name": "ROSE BEAT",
+        "genres": [],
+        "spotifyId": "47SxJ59gTjhzswBGMkwWfz",
+        "url": "https://open.spotify.com/artist/47SxJ59gTjhzswBGMkwWfz"
+    },
+    {
+        "name": "KT Tunstall",
+        "genres": [],
+        "spotifyId": "5zzrJD2jXrE9dZ1AklRFcL",
+        "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+    },
+    {
+        "name": "Katy Perry",
+        "genres": [
+            "pop"
+        ],
+        "spotifyId": "6jJ0s89eD6GaHleKKya26X",
+        "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+    },
+    {
+        "name": "Charlie Puth",
+        "genres": [
+            "soft pop"
+        ],
+        "spotifyId": "6VuMaDnrHyPL1p4EHjYLi7",
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+    },
+    {
+        "name": "a-ha",
+        "genres": [
+            "new wave",
+            "synthpop"
+        ],
+        "spotifyId": "2jzc5TC5TVFLXQlBNiIUzE",
+        "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+    },
+    {
+        "name": "ZAYN",
+        "genres": [],
+        "spotifyId": "5ZsFI1h6hIdQRw2ti0hz81",
+        "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+    },
+    {
+        "name": "Bloc Party",
+        "genres": [
+            "indie rock"
+        ],
+        "spotifyId": "3MM8mtgFzaEJsqbjZBSsHJ",
+        "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+    },
+    {
+        "name": "Karen Souza",
+        "genres": [
+            "bossa nova",
+            "vocal jazz",
+            "jazz pop",
+            "lounge",
+            "jazz"
+        ],
+        "spotifyId": "2d5lQo9YQ1DkAsBKTRp7Iu",
+        "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+    },
+    {
+        "name": "Audioslave",
+        "genres": [
+            "grunge",
+            "post-grunge",
+            "alternative metal"
+        ],
+        "spotifyId": "2ziB7fzrXBoh1HUPS6sVFn",
+        "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+    },
+    {
+        "name": "Avril Lavigne",
+        "genres": [],
+        "spotifyId": "0p4nmQO2msCgU4IF37Wi3j",
+        "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+    },
+    {
+        "name": "Daniela Mercury",
+        "genres": [
+            "axé",
+            "pagode baiano",
+            "mpb"
+        ],
+        "spotifyId": "2krrkKvM52JgvfGu2Uewbg",
+        "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+    },
+    {
+        "name": "Los Caballeros De La Quema",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "6Iv9dXeKX45ff7qe0LDuFW",
+        "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+    },
+    {
+        "name": "Benjamín Amadeo",
+        "genres": [],
+        "spotifyId": "6GYXfifD78PYARjZzxQzrG",
+        "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+    },
+    {
+        "name": "Duki",
+        "genres": [
+            "argentine trap",
+            "trap",
+            "trap latino"
+        ],
+        "spotifyId": "1bAftSH8umNcGZ0uyV7LMg",
+        "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+    },
+    {
+        "name": "WOS",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "5YCc6xS5Gpj3EkaYGdjyNK",
+        "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+    },
+    {
+        "name": "Bryant Myers",
+        "genres": [
+            "trap latino",
+            "reggaeton",
+            "trap",
+            "urbano latino"
+        ],
+        "spotifyId": "6w9ToX5slZ4uIdmD17hJ3c",
+        "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+    },
+    {
+        "name": "Janaína",
+        "genres": [
+            "bossa nova"
+        ],
+        "spotifyId": "6XhfIDQSH8F4gfr189EL9q",
+        "url": "https://open.spotify.com/artist/6XhfIDQSH8F4gfr189EL9q"
+    },
+    {
+        "name": "The Virgins",
+        "genres": [],
+        "spotifyId": "6RNuLHIAlLt1FQHm03oEru",
+        "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
+    },
+    {
+        "name": "MEMESVICES",
+        "genres": [],
+        "spotifyId": "3j3gK5fx8dfcYzpC6MuwQl",
+        "url": "https://open.spotify.com/artist/3j3gK5fx8dfcYzpC6MuwQl"
+    },
+    {
+        "name": "Los Abuelos De La Nada",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español"
+        ],
+        "spotifyId": "5R3NywPPOyhLfdvutgg0me",
+        "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+    },
+    {
+        "name": "Inner Circle",
+        "genres": [
+            "reggae",
+            "roots reggae"
+        ],
+        "spotifyId": "5os0Ltvz8Q8BvXOPOd1frx",
+        "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+    },
+    {
+        "name": "Vampire Weekend",
+        "genres": [
+            "indie",
+            "baroque pop"
+        ],
+        "spotifyId": "5BvJzeQpmsdsFp4HGUYUEx",
+        "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+    },
+    {
+        "name": "Koino Yokan",
+        "genres": [],
+        "spotifyId": "31kgZWvoPhxDcTKgVbgi3J",
+        "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+    },
+    {
+        "name": "Bandalos Chinos",
+        "genres": [
+            "latin indie",
+            "mexican indie",
+            "latin alternative"
+        ],
+        "spotifyId": "0wn2qDKzeFlhjRUtJAwJjp",
+        "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+    },
+    {
+        "name": "TV Girl",
+        "genres": [],
+        "spotifyId": "0Y6dVaC9DZtPNH4591M42W",
+        "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+    },
+    {
+        "name": "Kid Bloom",
+        "genres": [],
+        "spotifyId": "5CXdWANGwYYRPClH6hhC0P",
+        "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+    },
+    {
+        "name": "LeetStreet Boys",
+        "genres": [],
+        "spotifyId": "5t1WXpwXhmO2JoGchjSYH5",
+        "url": "https://open.spotify.com/artist/5t1WXpwXhmO2JoGchjSYH5"
+    },
+    {
+        "name": "Mc_team",
+        "genres": [],
+        "spotifyId": "3MJrefxSroHCVFRnck3EFm",
+        "url": "https://open.spotify.com/artist/3MJrefxSroHCVFRnck3EFm"
+    },
+    {
+        "name": "Neon Trees",
+        "genres": [],
+        "spotifyId": "0RpddSzUHfncUWNJXKOsjy",
+        "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+    },
+    {
+        "name": "C. Tangana",
+        "genres": [],
+        "spotifyId": "5TYxZTjIPqKM8K8NuP9woO",
+        "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+    },
+    {
+        "name": "Plain White T's",
+        "genres": [],
+        "spotifyId": "1g1yxsNVPhMUl9GrMjEb2o",
+        "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+    },
+    {
+        "name": "Shaggy",
+        "genres": [
+            "reggae"
+        ],
+        "spotifyId": "5EvFsr3kj42KNv97ZEnqij",
+        "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+    },
+    {
+        "name": "Eze Gruber",
+        "genres": [],
+        "spotifyId": "3AKE5y1ax9MXWXvb63DRnH",
+        "url": "https://open.spotify.com/artist/3AKE5y1ax9MXWXvb63DRnH"
+    },
+    {
+        "name": "Frank Ocean",
+        "genres": [],
+        "spotifyId": "2h93pZq0e7k5yf4dywlkpM",
+        "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+    },
+    {
+        "name": "Coolio",
+        "genres": [
+            "west coast hip hop",
+            "g-funk"
+        ],
+        "spotifyId": "3y24n3XhZ96wgwRXjvS17T",
+        "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+    },
+    {
+        "name": "PREVIA Y CACHENGUE 2K24",
+        "genres": [
+            "rkt",
+            "guaracha",
+            "turreo"
+        ],
+        "spotifyId": "23mWph3jTabzOkROilYBYK",
+        "url": "https://open.spotify.com/artist/23mWph3jTabzOkROilYBYK"
+    },
+    {
+        "name": "4*TOWN (From Disney and Pixar’s Turning Red)",
+        "genres": [],
+        "spotifyId": "7jLpPyJ5gQxCvwiBsUfFu6",
+        "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+    },
+    {
+        "name": "W Sound",
+        "genres": [],
+        "spotifyId": "5uwa6tAMMfNbBFIHiI6NV4",
+        "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+    },
+    {
+        "name": "L'Impératrice",
+        "genres": [
+            "french indie pop",
+            "french house",
+            "french pop"
+        ],
+        "spotifyId": "4PwlsrN0t5mLN0C827cbEU",
+        "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+    },
+    {
+        "name": "Phillip Phillips",
+        "genres": [
+            "folk pop"
+        ],
+        "spotifyId": "6p5JxpTc7USNnBnLzctyd4",
+        "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+    },
+    {
+        "name": "Braulio Sauce",
+        "genres": [
+            "mexican indie"
+        ],
+        "spotifyId": "5xbovcvBXyYGcB9jnChhax",
+        "url": "https://open.spotify.com/artist/5xbovcvBXyYGcB9jnChhax"
+    },
+    {
+        "name": "Luck Ra",
+        "genres": [
+            "cuarteto",
+            "cumbia",
+            "argentine trap"
+        ],
+        "spotifyId": "4kcQWQDK0u9AftVSpdrAgk",
+        "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+    },
+    {
+        "name": "Evlay",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "2JsDK87cAxuUlz4L4izU7A",
+        "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+    },
+    {
+        "name": "Braga Boys",
+        "genres": [
+            "axé",
+            "pagode baiano"
+        ],
+        "spotifyId": "4I3PGf3JIZjpBOtxg3ijKX",
+        "url": "https://open.spotify.com/artist/4I3PGf3JIZjpBOtxg3ijKX"
+    },
+    {
+        "name": "Goodboys",
+        "genres": [],
+        "spotifyId": "2nm38smINjms1LtczR0Cei",
+        "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+    },
+    {
+        "name": "Airbag",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
+        "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+    },
+    {
+        "name": "Soledad",
+        "genres": [
+            "folklore argentino",
+            "chamamé",
+            "latin folklore",
+            "latin folk"
+        ],
+        "spotifyId": "0K59Fm1y7s3j498ueS4qzY",
+        "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+    },
+    {
+        "name": "Gustavo Cerati",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español",
+            "latin alternative"
+        ],
+        "spotifyId": "1QOmebWGB6FdFtW7Bo3F0W",
+        "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+    },
+    {
+        "name": "Mura Masa",
+        "genres": [],
+        "spotifyId": "5Q81rlcTFh3k6DQJXPdsot",
+        "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+    },
+    {
+        "name": "NONONO",
+        "genres": [],
+        "spotifyId": "513t0jZUP0K98C4h7KHtEb",
+        "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+    },
+    {
+        "name": "Rebounder",
+        "genres": [],
+        "spotifyId": "2g2HWripkxzRZDZJ4KTBSB",
+        "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+    },
+    {
+        "name": "Dr. Dreammaker",
+        "genres": [],
+        "spotifyId": "761jLrJ3YSvCWz7F0NPZJY",
+        "url": "https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY"
+    },
+    {
+        "name": "Mark Ronson",
+        "genres": [],
+        "spotifyId": "3hv9jJF3adDNsBSIQDqcjp",
+        "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+    },
+    {
+        "name": "Gnarls Barkley",
+        "genres": [],
+        "spotifyId": "5SbkVQYYzlw1kte75QIabH",
+        "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+    },
+    {
+        "name": "El Bogueto",
+        "genres": [
+            "reggaeton mexa",
+            "reggaeton"
+        ],
+        "spotifyId": "3S9Hg7sRKhmtWunFZ2yAYP",
+        "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+    },
+    {
+        "name": "Travie McCoy",
+        "genres": [],
+        "spotifyId": "7o9Nl7K1Al6NNAHX6jn6iG",
+        "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+    },
+    {
+        "name": "Tiago PZK",
+        "genres": [
+            "argentine trap",
+            "urbano latino"
+        ],
+        "spotifyId": "5Y3MV9DZ0d87NnVm56qSY1",
+        "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+    },
+    {
+        "name": "Jack Stauber",
+        "genres": [],
+        "spotifyId": "1vVHevk2PD45epYnDi9CCc",
+        "url": "https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc"
+    },
+    {
+        "name": "Bootleg Rascal",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "2cScEQkwCAObAfeFX4CYr4",
+        "url": "https://open.spotify.com/artist/2cScEQkwCAObAfeFX4CYr4"
+    },
+    {
+        "name": "Adam Buxton",
+        "genres": [
+            "children's music"
+        ],
+        "spotifyId": "1tELKM5wjfv7SlSNgVOdAq",
+        "url": "https://open.spotify.com/artist/1tELKM5wjfv7SlSNgVOdAq"
+    },
+    {
+        "name": "Turf",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "0Zncosr79q01riJYbSBNA1",
+        "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+    },
+    {
+        "name": "Relaxing Jazz Music, Smooth Chill Dinner Background Instrumental Songs",
+        "genres": [
+            "smooth jazz"
+        ],
+        "spotifyId": "59eOuKBNSdDsyafIzAw0au",
+        "url": "https://open.spotify.com/artist/59eOuKBNSdDsyafIzAw0au"
+    },
+    {
+        "name": "Rock Mafia",
+        "genres": [],
+        "spotifyId": "4pzAvicKWenQtv9zIQim47",
+        "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+    },
+    {
+        "name": "Snow Patrol",
+        "genres": [],
+        "spotifyId": "3rIZMv9rysU7JkLzEaC5Jp",
+        "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+    },
+    {
+        "name": "Sie7e",
+        "genres": [
+            "reggae en español",
+            "colombian pop"
+        ],
+        "spotifyId": "11wOrJLuakmQqTuhXXW2xz",
+        "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+    },
+    {
+        "name": "Bruno Mars",
+        "genres": [],
+        "spotifyId": "0du5cEVh5yTK9QJze8zA0C",
+        "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+    },
+    {
+        "name": "Aerosmith",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "spotifyId": "7Ey4PD4MYsKc5I2dolUwbH",
+        "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+    },
+    {
+        "name": "Aska Mill",
+        "genres": [],
+        "spotifyId": "3mkmnTAqRXg1NysbtuFS5P",
+        "url": "https://open.spotify.com/artist/3mkmnTAqRXg1NysbtuFS5P"
+    },
+    {
+        "name": "Residente",
+        "genres": [
+            "latin hip hop"
+        ],
+        "spotifyId": "5GcWBUX00IPuWVGMIRK1sS",
+        "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+    },
+    {
+        "name": "Genesis",
+        "genres": [
+            "progressive rock",
+            "art rock"
+        ],
+        "spotifyId": "3CkvROUTQ6nRi9yQOcsB50",
+        "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+    },
+    {
+        "name": "Miranda!",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "2eEmsgWmUFMbtU7agJpnjY",
+        "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+    },
+    {
+        "name": "Lily Allen",
+        "genres": [],
+        "spotifyId": "13saZpZnCDWOI9D4IJhp1f",
+        "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+    },
+    {
+        "name": "Two Feet",
+        "genres": [],
+        "spotifyId": "5sWHDYs0csV6RS48xBl0tH",
+        "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+    },
+    {
+        "name": "Prince Royce",
+        "genres": [
+            "bachata",
+            "latin"
+        ],
+        "spotifyId": "3MHaV05u0io8fQbZ2XPtlC",
+        "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+    },
+    {
+        "name": "The 502s",
+        "genres": [],
+        "spotifyId": "4sIuoDOzSlBqeiNJl631zX",
+        "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+    },
+    {
+        "name": "Eagle-Eye Cherry",
+        "genres": [],
+        "spotifyId": "3ngKsDXZAssmljeXCvEgOe",
+        "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+    },
+    {
+        "name": "Terapia Distópica",
+        "genres": [],
+        "spotifyId": "5If2J9PEL5TTfOBCRlXz3j",
+        "url": "https://open.spotify.com/artist/5If2J9PEL5TTfOBCRlXz3j"
+    },
+    {
+        "name": "Indila",
+        "genres": [
+            "french pop"
+        ],
+        "spotifyId": "0FEJqmeLRzsXj8hgcZaAyB",
+        "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+    },
+    {
+        "name": "Sam Fender",
+        "genres": [],
+        "spotifyId": "6zlR5ttMfMNmwf2lecU9Cc",
+        "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+    },
+    {
+        "name": "Memphis La Blusera",
+        "genres": [
+            "argentine rock",
+            "latin rock"
+        ],
+        "spotifyId": "55j4xUfI5AATqETp8AnrRp",
+        "url": "https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp"
+    },
+    {
+        "name": "Nothing But Thieves",
+        "genres": [],
+        "spotifyId": "1kDGbuxWknIKx4FlgWxiSp",
+        "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+    },
+    {
+        "name": "Phil Collins",
+        "genres": [
+            "soft rock"
+        ],
+        "spotifyId": "4lxfqrEsLX6N1N4OCSkILp",
+        "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+    },
+    {
+        "name": "Pier",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "7E0i3aKAcm8iGK15QePkog",
+        "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+    },
+    {
+        "name": "Ed Sheeran",
+        "genres": [
+            "soft pop"
+        ],
+        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V",
+        "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+        "name": "CA7RIEL & Paco Amoroso",
+        "genres": [],
+        "spotifyId": "6I8TDGeUmmLom8auKPzMdX",
+        "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+    },
+    {
+        "name": "Camila",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "2gRP1Ezbtj3qrERnd0XasU",
+        "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+    },
+    {
+        "name": "MGMT",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "0SwO7SWeDHJijQ3XNS7xEE",
+        "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+    },
+    {
+        "name": "The Beatles",
+        "genres": [
+            "classic rock",
+            "psychedelic rock"
+        ],
+        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2",
+        "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+        "name": "Sublime",
+        "genres": [
+            "reggae rock",
+            "ska punk",
+            "ska"
+        ],
+        "spotifyId": "0EdvGhlC1FkGItLOWQzG4J",
+        "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+    },
+    {
+        "name": "Black Eyed Peas",
+        "genres": [],
+        "spotifyId": "1yxSLGMDHlW21z4YXirZDS",
+        "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+    },
+    {
+        "name": "Counting Crows",
+        "genres": [],
+        "spotifyId": "0vEsuISMWAKNctLlUAhSZC",
+        "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+    },
+    {
+        "name": "The Police",
+        "genres": [],
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE",
+        "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+    },
+    {
+        "name": "Axe Bahia",
+        "genres": [
+            "axé"
+        ],
+        "spotifyId": "2dn7slANEuZTGyraHIhEg0",
+        "url": "https://open.spotify.com/artist/2dn7slANEuZTGyraHIhEg0"
+    },
+    {
+        "name": "Los Fabulosos Cadillacs",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "ska",
+            "argentine rock",
+            "latin alternative",
+            "mexican ska",
+            "murga"
+        ],
+        "spotifyId": "2FS22haX3FYbyOsUAkuYqZ",
+        "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+    },
+    {
+        "name": "Rachel Bay Jones",
+        "genres": [
+            "musicals"
+        ],
+        "spotifyId": "73sIMDrtvzFVs4Y1WkUpTd",
+        "url": "https://open.spotify.com/artist/73sIMDrtvzFVs4Y1WkUpTd"
+    },
+    {
+        "name": "Sean Kingston",
+        "genres": [],
+        "spotifyId": "6S0dmVVn4udvppDhZIWxCr",
+        "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+    },
+    {
+        "name": "Beéle",
+        "genres": [
+            "latin afrobeats",
+            "reggaeton"
+        ],
+        "spotifyId": "7a0XAaPaK2aDSqa8p3QnC7",
+        "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+    },
+    {
+        "name": "The Verve",
+        "genres": [
+            "britpop",
+            "shoegaze"
+        ],
+        "spotifyId": "2cGwlqi3k18jFpUyTrsR84",
+        "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+    },
+    {
+        "name": "Los Animalitos",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "6g8KkddnaonbNU6kpCtGzf",
+        "url": "https://open.spotify.com/artist/6g8KkddnaonbNU6kpCtGzf"
+    },
+    {
+        "name": "Laura Dreyfuss",
+        "genres": [
+            "musicals"
+        ],
+        "spotifyId": "5hqM93qFRmwRv3QGrLO0jK",
+        "url": "https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK"
+    },
+    {
+        "name": "Caesars",
+        "genres": [],
+        "spotifyId": "4rGrN4XDYhP6dUAZMvcuHr",
+        "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
+    },
+    {
+        "name": "The Weeknd",
+        "genres": [],
+        "spotifyId": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+        "name": "Citys Of Collides",
+        "genres": [],
+        "spotifyId": "12h32e6YMBk03yUo8tySbQ",
+        "url": "https://open.spotify.com/artist/12h32e6YMBk03yUo8tySbQ"
+    },
+    {
+        "name": "ChiChi Peralta",
+        "genres": [
+            "merengue",
+            "salsa"
+        ],
+        "spotifyId": "5GNSVtCq2hiXDx7jUA5Iou",
+        "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+    },
+    {
+        "name": "Kygo",
+        "genres": [
+            "tropical house"
+        ],
+        "spotifyId": "23fqKkggKUBHNkbKtXEls4",
+        "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+    },
+    {
+        "name": "Brulet",
+        "genres": [],
+        "spotifyId": "7G6aArLOczEoXx0nHcA0iM",
+        "url": "https://open.spotify.com/artist/7G6aArLOczEoXx0nHcA0iM"
+    },
+    {
+        "name": "No Wyld",
+        "genres": [],
+        "spotifyId": "4xM4nZLhGE0pMKbXA08s6A",
+        "url": "https://open.spotify.com/artist/4xM4nZLhGE0pMKbXA08s6A"
+    },
+    {
+        "name": "Bizarrap",
+        "genres": [
+            "argentine trap",
+            "trap latino",
+            "urbano latino"
+        ],
+        "spotifyId": "716NhGYqD1jl2wI1Qkgq36",
+        "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+    },
+    {
+        "name": "Joaquín Sabina",
+        "genres": [
+            "trova",
+            "singer-songwriter",
+            "nueva trova"
+        ],
+        "spotifyId": "4aeIWo5CMF1uRmqgJdwkZW",
+        "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+    },
+    {
+        "name": "Zaz",
+        "genres": [
+            "chanson",
+            "french jazz",
+            "french pop"
+        ],
+        "spotifyId": "1mbgj8ERPs8lWi7t5cYrdy",
+        "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+    },
+    {
+        "name": "Manuel Medrano",
+        "genres": [
+            "colombian pop"
+        ],
+        "spotifyId": "0i5iO6icb7kxg48thi9gBM",
+        "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+    },
+    {
+        "name": "Surf Curse",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "1gl0S9pS0Zw0qfa14rDD3D",
+        "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+    },
+    {
+        "name": "Guasones",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "2wjmZuSHtRx96Qxb8HiP2o",
+        "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+    },
+    {
+        "name": "Peter Bjorn and John",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "6u11Qbko2N2hP4lTBYjX86",
+        "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+    },
+    {
+        "name": "Una Noche en Bogotá",
+        "genres": [],
+        "spotifyId": "7oWMrZIuTLI7j0ea7Rx8S8",
+        "url": "https://open.spotify.com/artist/7oWMrZIuTLI7j0ea7Rx8S8"
+    },
+    {
+        "name": "Serú Girán",
+        "genres": [
+            "argentine rock",
+            "rock en español",
+            "latin rock"
+        ],
+        "spotifyId": "6CrQKZeuSKNYgrE7PeYqJ1",
+        "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+    },
+    {
+        "name": "Inmigrantes",
+        "genres": [
+            "rock en español"
+        ],
+        "spotifyId": "5hkwobspQ4nluFwhOcv612",
+        "url": "https://open.spotify.com/artist/5hkwobspQ4nluFwhOcv612"
+    },
+    {
+        "name": "Diego Torres",
+        "genres": [
+            "latin pop",
+            "colombian pop"
+        ],
+        "spotifyId": "0LALueHEQunQ2d61fXGeZh",
+        "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+    },
+    {
+        "name": "Divididos",
+        "genres": [
+            "argentine rock",
+            "rock en español",
+            "latin rock"
+        ],
+        "spotifyId": "6ZIgPKHzpcswB8zh7sRIhx",
+        "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+    },
+    {
+        "name": "La Oreja de Van Gogh",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "4U7lXyKdSf1JbM1aXvsodC",
+        "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+    },
+    {
+        "name": "Catfish and the Bottlemen",
+        "genres": [
+            "indie",
+            "indie rock"
+        ],
+        "spotifyId": "2xaAOVImG2O6lURwqperlD",
+        "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+    },
+    {
+        "name": "TOTO",
+        "genres": [
+            "yacht rock",
+            "soft rock"
+        ],
+        "spotifyId": "0PFtn5NtBbbUNbU9EAmIWF",
+        "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+    },
+    {
+        "name": "The Vaccines",
+        "genres": [
+            "indie",
+            "indie rock"
+        ],
+        "spotifyId": "0Ak6DLKHtpR6TEEnmcorKA",
+        "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+    },
+    {
+        "name": "John Frusciante",
+        "genres": [],
+        "spotifyId": "7rN3Agir6FaZNfhf5V7mfN",
+        "url": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+    },
+    {
+        "name": "Red Hot Chili Peppers",
+        "genres": [
+            "funk rock",
+            "alternative rock",
+            "rock"
+        ],
+        "spotifyId": "0L8ExT028jH3ddEcZwqJJ5",
+        "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    {
+        "name": "Cat Janice",
+        "genres": [],
+        "spotifyId": "7kNpF2nj7eVgcVo8k6pWkz",
+        "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+    },
+    {
+        "name": "The Flaming Lips",
+        "genres": [
+            "neo-psychedelic"
+        ],
+        "spotifyId": "16eRpMNXSQ15wuJoeqguaB",
+        "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+    },
+    {
+        "name": "Rusted Root",
+        "genres": [
+            "jam band"
+        ],
+        "spotifyId": "2M3vnW1p5w4uPRkLYTbvdB",
+        "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+    },
+    {
+        "name": "goodperro",
+        "genres": [],
+        "spotifyId": "564x4Q5hL4tQjV6XYikn09",
+        "url": "https://open.spotify.com/artist/564x4Q5hL4tQjV6XYikn09"
+    },
+    {
+        "name": "Gilberto Gil",
+        "genres": [
+            "mpb",
+            "bossa nova",
+            "forró tradicional",
+            "samba"
+        ],
+        "spotifyId": "7oEkUINVIj1Nr3Wnj8tzqr",
+        "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+    },
+    {
+        "name": "Yann Muller",
+        "genres": [
+            "lounge",
+            "tropical house"
+        ],
+        "spotifyId": "41HOzTOe9JNerhym1HWxti",
+        "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+    },
+    {
+        "name": "Empire Of The Sun",
+        "genres": [],
+        "spotifyId": "67hb7towEyKvt5Z8Bx306c",
+        "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+    },
+    {
+        "name": "Zoe Gotusso",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "3XBw8ImFEo86mEB2dYh0vS",
+        "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+    },
+    {
+        "name": "The Rasmus",
+        "genres": [
+            "finnish rock"
+        ],
+        "spotifyId": "76ptJV8617638xrpeoUtzl",
+        "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+    },
+    {
+        "name": "Michel Teló",
+        "genres": [
+            "sertanejo",
+            "sertanejo universitário",
+            "sertanejo tradicional"
+        ],
+        "spotifyId": "1sDVuztNhGcetCLChkleDA",
+        "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+    },
+    {
+        "name": "Luis Miguel",
+        "genres": [
+            "mariachi",
+            "bolero",
+            "latin pop",
+            "ranchera",
+            "villancicos"
+        ],
+        "spotifyId": "2nszmSgqreHSdJA3zWPyrW",
+        "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+    },
+    {
+        "name": "É O Tchan",
+        "genres": [
+            "axé",
+            "pagode baiano",
+            "pagode"
+        ],
+        "spotifyId": "78oxdhJ0pr4Dkyk0paWUAf",
+        "url": "https://open.spotify.com/artist/78oxdhJ0pr4Dkyk0paWUAf"
+    },
+    {
+        "name": "João Lucas & Marcelo",
+        "genres": [
+            "sertanejo universitário",
+            "sertanejo",
+            "arrocha"
+        ],
+        "spotifyId": "07qXCavgZGcwnfNHSvSPtG",
+        "url": "https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG"
+    },
+    {
+        "name": "Los Auténticos Decadentes",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "ska",
+            "rock en español",
+            "murga",
+            "latin alternative"
+        ],
+        "spotifyId": "3HrbmsYpKjWH1lzhad7alj",
+        "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+    },
+    {
+        "name": "Bossa Nova Covers",
+        "genres": [
+            "bossa nova",
+            "lounge"
+        ],
+        "spotifyId": "6lkrkVSqgzJZz2jguafSAy",
+        "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+    },
+    {
+        "name": "Eddie Sierra",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "4QILOFSgMcb9gUF8GEkD3V",
+        "url": "https://open.spotify.com/artist/4QILOFSgMcb9gUF8GEkD3V"
+    },
+    {
+        "name": "Bill Withers",
+        "genres": [
+            "soul"
+        ],
+        "spotifyId": "1ThoqLcyIYvZn7iWbj8fsj",
+        "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+    },
+    {
+        "name": "Passenger",
+        "genres": [
+            "folk pop"
+        ],
+        "spotifyId": "0gadJ2b9A4SKsB1RFkBb66",
+        "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+    },
+    {
+        "name": "Coti",
+        "genres": [
+            "argentine rock",
+            "latin pop"
+        ],
+        "spotifyId": "1OUDQLymoysITxprkd0Qvj",
+        "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+    },
+    {
+        "name": "Carlos Baute",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "3smfreCkyJt7bShaTYpG77",
+        "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+    },
+    {
+        "name": "Blur",
+        "genres": [
+            "britpop",
+            "madchester",
+            "alternative rock"
+        ],
+        "spotifyId": "7MhMgCo0Bl0Kukl93PZbYS",
+        "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+    },
+    {
+        "name": "Tainy",
+        "genres": [
+            "reggaeton"
+        ],
+        "spotifyId": "0GM7qgcRCORpGnfcN2tCiB",
+        "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+    },
+    {
+        "name": "Letters to Lions",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "3H19dUT6SMuMawC1sLwCpx",
+        "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+    },
+    {
+        "name": "La Beriso",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "0Dy32zfSrQ332Bz8wsthKJ",
+        "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+    },
+    {
+        "name": "Her's",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "77mJc3M7ZT5oOVM7gNdXim",
+        "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+    },
+    {
+        "name": "James Blunt",
+        "genres": [],
+        "spotifyId": "7KMqksf0UMdyA0UCf4R3ux",
+        "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+    },
+    {
+        "name": "Miami Sound Machine",
+        "genres": [],
+        "spotifyId": "18xgcedCGxFbqLbIQn5R8F",
+        "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+    },
+    {
+        "name": "Eslabon Armado",
+        "genres": [
+            "corridos tumbados",
+            "sad sierreño",
+            "corrido",
+            "sierreño",
+            "música mexicana",
+            "corridos bélicos"
+        ],
+        "spotifyId": "0XeEobZplHxzM9QzFQWLiR",
+        "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+    },
+    {
+        "name": "Lully Hill",
+        "genres": [
+            "bossa nova"
+        ],
+        "spotifyId": "4CnQQJwzE4Hv2WDDVwLc8M",
+        "url": "https://open.spotify.com/artist/4CnQQJwzE4Hv2WDDVwLc8M"
+    },
+    {
+        "name": "Myke Towers",
+        "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino"
+        ],
+        "spotifyId": "7iK8PXO48WeuP03g8YR51W",
+        "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+    },
+    {
+        "name": "Noise Chillantro",
+        "genres": [],
+        "spotifyId": "5on19ok7di3nj6e4OEh5PU",
+        "url": "https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU"
+    },
+    {
+        "name": "Fabiana Cantilo",
+        "genres": [
+            "argentine rock",
+            "latin rock"
+        ],
+        "spotifyId": "5R6YR0pasdxlynyq0Abq7x",
+        "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+    },
+    {
+        "name": "Jeites",
+        "genres": [],
+        "spotifyId": "6qRjJ8pFQAtjZiiR6bRRI0",
+        "url": "https://open.spotify.com/artist/6qRjJ8pFQAtjZiiR6bRRI0"
+    },
+    {
+        "name": "The Lumineers",
+        "genres": [
+            "folk pop",
+            "indie folk"
+        ],
+        "spotifyId": "16oZKvXb6WkQlVAjwo2Wbg",
+        "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+    },
+    {
+        "name": "Athenas",
+        "genres": [
+            "catholic music",
+            "worship"
+        ],
+        "spotifyId": "71IIrUaZMShJKwuwIZVVwu",
+        "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+    },
+    {
+        "name": "Miike Snow",
+        "genres": [
+            "alternative dance"
+        ],
+        "spotifyId": "4l1cKWYW591xnwEGxpUg3J",
+        "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+    },
+    {
+        "name": "The Smiths",
+        "genres": [
+            "new wave",
+            "madchester",
+            "jangle pop"
+        ],
+        "spotifyId": "3yY2gUcIsjMr8hjo51PoJ8",
+        "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    {
+        "name": "Fitz and The Tantrums",
+        "genres": [],
+        "spotifyId": "4AcHt3JxKy59IX7JNNlZn4",
+        "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+    },
+    {
+        "name": "EXO",
+        "genres": [
+            "k-pop"
+        ],
+        "spotifyId": "3cjEqqelV9zb4BYE3qDQ4O",
+        "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+    },
+    {
+        "name": "Liam Gallagher",
+        "genres": [
+            "britpop",
+            "madchester"
+        ],
+        "spotifyId": "6sN51vEARnAAdBw1IKZ8Q9",
+        "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+    },
+    {
+        "name": "The Jungle Giants",
+        "genres": [],
+        "spotifyId": "6wFwvxJkurQPU2UdeD4qVt",
+        "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+    },
+    {
+        "name": "Capital Cities",
+        "genres": [],
+        "spotifyId": "4gwpcMTbLWtBUlOijbVpuu",
+        "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+    },
+    {
+        "name": "Of Monsters and Men",
+        "genres": [
+            "folk pop"
+        ],
+        "spotifyId": "4dwdTW1Lfiq0cM8nBAqIIz",
+        "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+    },
+    {
+        "name": "Maroon 5",
+        "genres": [
+            "pop"
+        ],
+        "spotifyId": "04gDigrS5kc9YWfZHwBETP",
+        "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+    },
+    {
+        "name": "Electric Light Orchestra",
+        "genres": [
+            "art rock",
+            "soft rock"
+        ],
+        "spotifyId": "7jefIIksOi1EazgRTfW2Pk",
+        "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+    },
+    {
+        "name": "Simon Grossmann",
+        "genres": [
+            "latin indie",
+            "latin folk"
+        ],
+        "spotifyId": "6t38N9HASTn9ca0PIxfReQ",
+        "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+    },
+    {
+        "name": "Alex Marquez Oficial",
+        "genres": [
+            "worship",
+            "christian"
+        ],
+        "spotifyId": "0mWEEdgUmHziltREUUbcAt",
+        "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+    },
+    {
+        "name": "All Tvvins",
+        "genres": [],
+        "spotifyId": "7F0pUx0AO9CXaNbCoxbbNX",
+        "url": "https://open.spotify.com/artist/7F0pUx0AO9CXaNbCoxbbNX"
+    },
+    {
+        "name": "Gwen Stefani",
+        "genres": [],
+        "spotifyId": "4yiQZ8tQPux8cPriYMWUFP",
+        "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+    },
+    {
+        "name": "Greta Van Fleet",
+        "genres": [
+            "rock"
+        ],
+        "spotifyId": "4NpFxQe2UvRCAjto3JqlSl",
+        "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+    },
+    {
+        "name": "Nonpalidece",
+        "genres": [
+            "reggae en español",
+            "reggae",
+            "roots reggae",
+            "reggae rock"
+        ],
+        "spotifyId": "0W1EfnztQTHuv03MuMzWPe",
+        "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+    },
+    {
+        "name": "Joze",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "259qApebOoC9k42UAqXea0",
+        "url": "https://open.spotify.com/artist/259qApebOoC9k42UAqXea0"
+    },
+    {
+        "name": "Phoenix",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "1xU878Z1QtBldR7ru9owdU",
+        "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+    },
+    {
+        "name": "Rauw Alejandro",
+        "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino",
+            "latin"
+        ],
+        "spotifyId": "1mcTU81TzQhprhouKaTkpq",
+        "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+    },
+    {
+        "name": "Bruno Borlone",
+        "genres": [],
+        "spotifyId": "3tDix7cw0fgoa5idDGJ6Wo",
+        "url": "https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo"
+    },
+    {
+        "name": "Jungle",
+        "genres": [],
+        "spotifyId": "59oA5WbbQvomJz2BuRG071",
+        "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+    },
+    {
+        "name": "Kali Uchis",
+        "genres": [],
+        "spotifyId": "1U1el3k54VvEUzo3ybLPlM",
+        "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+    },
+    {
+        "name": "Catupecu Machu",
+        "genres": [
+            "argentine rock",
+            "latin rock"
+        ],
+        "spotifyId": "059ysTnWcrm4yFwTr0NDjc",
+        "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+    },
+    {
+        "name": "Roze Oficial",
+        "genres": [
+            "rkt",
+            "turreo",
+            "cumbia",
+            "cuarteto"
+        ],
+        "spotifyId": "2Hxu0Wmd7FUm0euCVInVrN",
+        "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+    },
+    {
+        "name": "Alejandro Sanz",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "5sUrlPAHlS9NEirDB8SEbF",
+        "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+    },
+    {
+        "name": "La Vela Puerca",
+        "genres": [
+            "argentine rock",
+            "murga",
+            "latin rock"
+        ],
+        "spotifyId": "6nVcjUJemqpJjc1WevwTvL",
+        "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+    },
+    {
+        "name": "Wavelab",
+        "genres": [],
+        "spotifyId": "7AbQo3tDp5SYr5ctDcNC21",
+        "url": "https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21"
+    },
+    {
+        "name": "Sérgio Mendes",
+        "genres": [
+            "brazilian jazz",
+            "bossa nova",
+            "samba"
+        ],
+        "spotifyId": "65c5si0ePAwkOCn4M35Ho7",
+        "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+    },
+    {
+        "name": "Chino & Nacho",
+        "genres": [
+            "merengue",
+            "reggaeton",
+            "latin"
+        ],
+        "spotifyId": "5NS0854TqZQVoRmJKSWtFZ",
+        "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+    },
+    {
+        "name": "Macaco",
+        "genres": [
+            "reggae en español",
+            "latin alternative"
+        ],
+        "spotifyId": "7mUBMaZW1MXGswaneb0JTT",
+        "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+    },
+    {
+        "name": "Sam Smith",
+        "genres": [
+            "soft pop"
+        ],
+        "spotifyId": "2wY79sveU1sp5g7SokKOiI",
+        "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+    },
+    {
+        "name": "Lo' Pibitos",
+        "genres": [
+            "candombe"
+        ],
+        "spotifyId": "7f4QZ3v32jtmstrh7VHfJL",
+        "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+    },
+    {
+        "name": "Romina Marroquín Payró",
+        "genres": [],
+        "spotifyId": "5f0gcyyPRCUTePOs4YRT5Y",
+        "url": "https://open.spotify.com/artist/5f0gcyyPRCUTePOs4YRT5Y"
+    },
+    {
+        "name": "Callinsick",
+        "genres": [],
+        "spotifyId": "05I6krIHdVi1OFeF5ShrNb",
+        "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
+    },
+    {
+        "name": "Rachu Resiliencia",
+        "genres": [
+            "indie punk"
+        ],
+        "spotifyId": "59cO5w2UdvTFrGgawbSeSa",
+        "url": "https://open.spotify.com/artist/59cO5w2UdvTFrGgawbSeSa"
+    },
+    {
+        "name": "GROUPLOVE",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "3kVUvbeRdcrqQ3oHk5hPdx",
+        "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+    },
+    {
+        "name": "Pentadecimal",
+        "genres": [],
+        "spotifyId": "6N70t9WnJfxcRSzxMmFF1R",
+        "url": "https://open.spotify.com/artist/6N70t9WnJfxcRSzxMmFF1R"
+    },
+    {
+        "name": "Dillom",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "4cJD9t5QBFTUQcd3xfbOb2",
+        "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+    },
+    {
+        "name": "El Kuelgue",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "6jRUKVZllu1wtgXHbqvUmT",
+        "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+    },
+    {
+        "name": "Maxi Trusso",
+        "genres": [],
+        "spotifyId": "1V7tGmh5DDSNE0VsUcorJL",
+        "url": "https://open.spotify.com/artist/1V7tGmh5DDSNE0VsUcorJL"
+    },
+    {
+        "name": "Disko Junkie",
+        "genres": [
+            "disco house",
+            "funky house",
+            "nu disco"
+        ],
+        "spotifyId": "0E3yCtI9D8vUfIIWDOO7zP",
+        "url": "https://open.spotify.com/artist/0E3yCtI9D8vUfIIWDOO7zP"
+    },
+    {
+        "name": "La Sonora Dinamita",
+        "genres": [
+            "cumbia",
+            "cumbia sonidera",
+            "tropical music",
+            "salsa"
+        ],
+        "spotifyId": "13or1Wf6ipcvSIiurZATvw",
+        "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+    },
+    {
+        "name": "Justice",
+        "genres": [
+            "french house",
+            "new rave"
+        ],
+        "spotifyId": "1gR0gsQYfi6joyO1dlp76N",
+        "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+    },
+    {
+        "name": "No Doubt",
+        "genres": [],
+        "spotifyId": "0cQbJU1aAzvbEmTuljWLlF",
+        "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+    },
+    {
+        "name": "Jason Mraz",
+        "genres": [
+            "soft pop",
+            "acoustic pop"
+        ],
+        "spotifyId": "4phGZZrJZRo4ElhRtViYdl",
+        "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+    },
+    {
+        "name": "Izzie",
+        "genres": [],
+        "spotifyId": "2koJktD5DLx0aJBUpVpX0I",
+        "url": "https://open.spotify.com/artist/2koJktD5DLx0aJBUpVpX0I"
+    },
+    {
+        "name": "Tchakabum",
+        "genres": [
+            "axé",
+            "pagode baiano"
+        ],
+        "spotifyId": "7iJl63aJyNd8C6NZlMv6kp",
+        "url": "https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp"
+    },
+    {
+        "name": "Ratones Paranoicos",
+        "genres": [
+            "argentine rock",
+            "latin rock"
+        ],
+        "spotifyId": "5fVtUielMhdztOA34ArB6c",
+        "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+    },
+    {
+        "name": "Royal Blood",
+        "genres": [
+            "garage rock",
+            "rock"
+        ],
+        "spotifyId": "2S5hlvw4CMtMGswFtfdK15",
+        "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+    },
+    {
+        "name": "Kyle Sparkman",
+        "genres": [],
+        "spotifyId": "38HHAoD3GTvA78R8KmjMrW",
+        "url": "https://open.spotify.com/artist/38HHAoD3GTvA78R8KmjMrW"
+    },
+    {
+        "name": "Duncan Laurence",
+        "genres": [],
+        "spotifyId": "3klZnJvYGIbWritVwQD434",
+        "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+    },
+    {
+        "name": "Michael Park",
+        "genres": [
+            "musicals"
+        ],
+        "spotifyId": "2fPpoCU3oYJkQERSp1nXY2",
+        "url": "https://open.spotify.com/artist/2fPpoCU3oYJkQERSp1nXY2"
+    },
+    {
+        "name": "Recordings From Earth",
+        "genres": [],
+        "spotifyId": "3ZQb2yyHzgU02WZWbMOnyU",
+        "url": "https://open.spotify.com/artist/3ZQb2yyHzgU02WZWbMOnyU"
+    },
+    {
+        "name": "MC's Zaac",
+        "genres": [
+            "brazilian funk"
+        ],
+        "spotifyId": "13ySOy7rghkjVk5f5ChBW8",
+        "url": "https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8"
+    },
+    {
+        "name": "Björk",
+        "genres": [
+            "art pop",
+            "trip hop"
+        ],
+        "spotifyId": "7w29UYBi0qsHi5RTcv3lmA",
+        "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+    },
+    {
+        "name": "Los Tipitos",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "1SykQGBiBwkQ1fcGpJ1BJt",
+        "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+    },
+    {
+        "name": "Brunico",
+        "genres": [],
+        "spotifyId": "7DsRXrSbtE3BnNhwRc0Izn",
+        "url": "https://open.spotify.com/artist/7DsRXrSbtE3BnNhwRc0Izn"
+    },
+    {
+        "name": "Two Door Cinema Club",
+        "genres": [
+            "indie",
+            "indie rock"
+        ],
+        "spotifyId": "536BYVgOnRky0xjsPT96zl",
+        "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+    },
+    {
+        "name": "ROSALÍA",
+        "genres": [
+            "latin"
+        ],
+        "spotifyId": "7ltDVBr6mKbRvohxheJ9h1",
+        "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+    },
+    {
+        "name": "The K's",
+        "genres": [],
+        "spotifyId": "6DlKk9ibc9dCgvyNPGNXdH",
+        "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+    },
+    {
+        "name": "The Moving Stills",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "5MXKeoHi08yq7nnRNe3t4w",
+        "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+    },
+    {
+        "name": "Pacific Avenue",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "0I31FkQFn7gxEVAsWGNjvZ",
+        "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+    },
+    {
+        "name": "Sarah Menescal",
+        "genres": [
+            "bossa nova",
+            "lounge",
+            "jazz pop"
+        ],
+        "spotifyId": "4DpQLwz0jhUU7wuT9phTlD",
+        "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
+    },
+    {
+        "name": "Xella Machina",
+        "genres": [],
+        "spotifyId": "66uHiAJ1D3MCLQmX9xYJqI",
+        "url": "https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI"
+    },
+    {
+        "name": "Bon Iver",
+        "genres": [],
+        "spotifyId": "4LEiUm1SRbFMgfqnQTwUbQ",
+        "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+    },
+    {
+        "name": "Sting",
+        "genres": [
+            "soft rock"
+        ],
+        "spotifyId": "0Ty63ceoRnnJKVEYP0VQpk",
+        "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+    },
+    {
+        "name": "Ruth B.",
+        "genres": [],
+        "spotifyId": "2WzaAvm2bBCf4pEhyuDgCY",
+        "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+    },
+    {
+        "name": "Portishead",
+        "genres": [
+            "trip hop",
+            "downtempo"
+        ],
+        "spotifyId": "6liAMWkVf5LH7YR9yfFy1Y",
+        "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+    },
+    {
+        "name": "Sueño Tsunami",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "3t3BhxRxSzyOBq9vQKKWr6",
+        "url": "https://open.spotify.com/artist/3t3BhxRxSzyOBq9vQKKWr6"
+    },
+    {
+        "name": "Milo j",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "19HM5j0ULGSmEoRcrSe5x3",
+        "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+    },
+    {
+        "name": "Green Day",
+        "genres": [
+            "punk",
+            "pop punk"
+        ],
+        "spotifyId": "7oPftvlwr6VrsViSDV7fJY",
+        "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+    },
+    {
+        "name": "Taburete",
+        "genres": [],
+        "spotifyId": "40Ippe6JeofRURQ4nbF8DT",
+        "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+    },
+    {
+        "name": "DEGrande",
+        "genres": [],
+        "spotifyId": "01vtihVej8MCPiDog4X3cy",
+        "url": "https://open.spotify.com/artist/01vtihVej8MCPiDog4X3cy"
+    },
+    {
+        "name": "Franz Ferdinand",
+        "genres": [
+            "indie rock"
+        ],
+        "spotifyId": "0XNa1vTidXlvJ2gHSsRi4A",
+        "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+    },
+    {
+        "name": "Oasis",
+        "genres": [
+            "britpop",
+            "madchester"
+        ],
+        "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4",
+        "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    {
+        "name": "Fontane",
+        "genres": [],
+        "spotifyId": "1i5yd57RUIKncQmCoy9NjW",
+        "url": "https://open.spotify.com/artist/1i5yd57RUIKncQmCoy9NjW"
+    },
+    {
+        "name": "Romaric",
+        "genres": [],
+        "spotifyId": "3e6u95VEoeFpZKbDISofWC",
+        "url": "https://open.spotify.com/artist/3e6u95VEoeFpZKbDISofWC"
+    },
+    {
+        "name": "Pescado Rabioso",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español"
+        ],
+        "spotifyId": "3q1NXsv9XypOUCJfEatXH9",
+        "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+    },
+    {
+        "name": "Blues Motel",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "2VD4qhDrH6pU7dbaK9nuni",
+        "url": "https://open.spotify.com/artist/2VD4qhDrH6pU7dbaK9nuni"
+    },
+    {
+        "name": "Portugal. The Man",
+        "genres": [],
+        "spotifyId": "4kI8Ie27vjvonwaB2ePh8T",
+        "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+    },
+    {
+        "name": "The Backseat Lovers",
+        "genres": [],
+        "spotifyId": "6p2HnfM955TI1bX34dkLnI",
+        "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+    },
+    {
+        "name": "X Ambassadors",
+        "genres": [],
+        "spotifyId": "3NPpFNZtSTHheNBaWC82rB",
+        "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+    },
+    {
+        "name": "Los Pericos",
+        "genres": [
+            "reggae en español",
+            "reggae",
+            "argentine rock",
+            "latin rock",
+            "rock en español",
+            "ska",
+            "latin alternative"
+        ],
+        "spotifyId": "7FnZWGw9lwOr7WzieTKEPR",
+        "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+    },
+    {
+        "name": "Miguel Mateos - Zas",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "argentine rock"
+        ],
+        "spotifyId": "3YG18nhGaJkR1F6VpcnSG6",
+        "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+    },
+    {
+        "name": "All He Tano Faz",
+        "genres": [],
+        "spotifyId": "2VafYEIwuCCTlnRzrXSU7W",
+        "url": "https://open.spotify.com/artist/2VafYEIwuCCTlnRzrXSU7W"
+    },
+    {
+        "name": "Broken Bells",
+        "genres": [],
+        "spotifyId": "6dgwEwnK0YtDfS9XhRwBTG",
+        "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+    },
+    {
+        "name": "Gorillaz",
+        "genres": [],
+        "spotifyId": "3AA28KZvwAUcZuOKwyblJQ",
+        "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+    },
+    {
+        "name": "Madness",
+        "genres": [
+            "ska"
+        ],
+        "spotifyId": "4AYkFtEBnNnGuoo8HaHErd",
+        "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+    },
+    {
+        "name": "Pappo's Blues",
+        "genres": [
+            "argentine rock",
+            "latin rock"
+        ],
+        "spotifyId": "59dLJG3ZVwkMZLFKByQCJB",
+        "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+    },
+    {
+        "name": "Bruce Springsteen",
+        "genres": [],
+        "spotifyId": "3eqjTLE0HfPfh78zjh6TqT",
+        "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+    },
+    {
+        "name": "Bacilos",
+        "genres": [
+            "colombian pop",
+            "latin pop"
+        ],
+        "spotifyId": "1mux8L6xg2Cmrc7k0wQczl",
+        "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+    },
+    {
+        "name": "Navío Prisma",
+        "genres": [],
+        "spotifyId": "3DNw0d1FJuIPAI7iPYUoCt",
+        "url": "https://open.spotify.com/artist/3DNw0d1FJuIPAI7iPYUoCt"
+    },
+    {
+        "name": "Cazzu",
+        "genres": [
+            "argentine trap",
+            "trap latino",
+            "turreo"
+        ],
+        "spotifyId": "6w3SkAHYPsQ1bxV7VDlG5y",
+        "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+    },
+    {
+        "name": "Bunbury",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "mexican rock"
+        ],
+        "spotifyId": "4uqzzJg3ww5eH7IgGV7DMT",
+        "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+    },
+    {
+        "name": "Florence + The Machine",
+        "genres": [
+            "baroque pop"
+        ],
+        "spotifyId": "1moxjboGR7GNWYIMWsRjgG",
+        "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+    },
+    {
+        "name": "Eliminar",
+        "genres": [],
+        "spotifyId": "5s1Y0J4ZWpBzj3OO0NKpuy",
+        "url": "https://open.spotify.com/artist/5s1Y0J4ZWpBzj3OO0NKpuy"
+    },
+    {
+        "name": "MAGIC!",
+        "genres": [],
+        "spotifyId": "0DxeaLnv6SyYk2DOqkLO8c",
+        "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+    },
+    {
+        "name": "Kilo Herz",
+        "genres": [],
+        "spotifyId": "1cDJHAhR1MlgitRpErRmzL",
+        "url": "https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL"
+    },
+    {
+        "name": "Andrés Calamaro",
+        "genres": [
+            "argentine rock",
+            "rock en español",
+            "latin rock"
+        ],
+        "spotifyId": "3tAICgiSR5PfYY4B8qsoAU",
+        "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+    },
+    {
+        "name": "Gusttavo Lima",
+        "genres": [
+            "sertanejo",
+            "sertanejo universitário",
+            "arrocha",
+            "agronejo",
+            "piseiro",
+            "forró"
+        ],
+        "spotifyId": "7MiDcPa6UiV3In7lIM71IN",
+        "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+    },
+    {
+        "name": "Tan Bionica",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "37MCoi4pcUf9EKsPXeuCqU",
+        "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+    },
+    {
+        "name": "Rels B",
+        "genres": [
+            "trap latino",
+            "urbano latino"
+        ],
+        "spotifyId": "2IMZYfNi21MGqxopj9fWx8",
+        "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+    },
+    {
+        "name": "Still Woozy",
+        "genres": [
+            "bedroom pop"
+        ],
+        "spotifyId": "4iMO20EPodreIaEl8qW66y",
+        "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+    },
+    {
+        "name": "Axel",
+        "genres": [],
+        "spotifyId": "32x1uogH2zajP85pzZAtuE",
+        "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+    },
+    {
+        "name": "Toploader",
+        "genres": [],
+        "spotifyId": "6xeFne1rkxMhKSW3ipvkdV",
+        "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+    },
+    {
+        "name": "BØRNS",
+        "genres": [],
+        "spotifyId": "1KP6TWI40m7p3QBTU6u2xo",
+        "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+    },
+    {
+        "name": "Juanes",
+        "genres": [
+            "latin pop",
+            "colombian pop",
+            "rock en español"
+        ],
+        "spotifyId": "0UWZUmn7sybxMCqrw9tGa7",
+        "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+    },
+    {
+        "name": "Federico Kempff",
+        "genres": [
+            "post-punk",
+            "nueva trova"
+        ],
+        "spotifyId": "48H3wHKP0TTL2Rt1rOJ4bW",
+        "url": "https://open.spotify.com/artist/48H3wHKP0TTL2Rt1rOJ4bW"
+    },
+    {
+        "name": "MIKA",
+        "genres": [],
+        "spotifyId": "5MmVJVhhYKQ86izuGHzJYA",
+        "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+    },
+    {
+        "name": "Queen",
+        "genres": [
+            "classic rock",
+            "rock",
+            "glam rock"
+        ],
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d",
+        "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+        "name": "Franz Schubert",
+        "genres": [
+            "chamber music",
+            "classical",
+            "classical piano"
+        ],
+        "spotifyId": "2p0UyoPfYfI76PCStuXfOP",
+        "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+    },
+    {
+        "name": "Los Piojos",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "0SnyKkoyBaB2fG8IJH4xmU",
+        "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+    },
+    {
+        "name": "Juan Freer",
+        "genres": [
+            "corrido",
+            "sierreño",
+            "corridos tumbados",
+            "corridos bélicos"
+        ],
+        "spotifyId": "0a9vSkyCTnB36E2iZbRVtl",
+        "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+    },
+    {
+        "name": "Fanny Lu",
+        "genres": [
+            "colombian pop",
+            "latin pop"
+        ],
+        "spotifyId": "6GRC8segVAr34gm6pjfSoQ",
+        "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+    },
+    {
+        "name": "Taylor Swift",
+        "genres": [],
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+        "name": "Linxes",
+        "genres": [
+            "latin indie",
+            "latin alternative"
+        ],
+        "spotifyId": "6dk5stiRd8YEY9knhBEUhx",
+        "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
+    },
+    {
+        "name": "Filhos De Jorge",
+        "genres": [
+            "axé",
+            "pagode baiano"
+        ],
+        "spotifyId": "2V9RQWP2Dk6IEauL7D14vE",
+        "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+    },
+    {
+        "name": "La Bomba de Tiempo",
+        "genres": [
+            "candombe",
+            "tango"
+        ],
+        "spotifyId": "2kzyHS3WRPwclRl5gsydu8",
+        "url": "https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8"
+    },
+    {
+        "name": "Chayanne",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "1JbemQ1fPt2YmSLjAFhPBv",
+        "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+    },
+    {
+        "name": "Lewis Capaldi",
+        "genres": [
+            "soft pop"
+        ],
+        "spotifyId": "4GNC7GD6oZMSxPGyXy4MNB",
+        "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+    },
+    {
+        "name": "Weezer",
+        "genres": [
+            "alternative rock"
+        ],
+        "spotifyId": "3jOstUTkEu2JkjvRdBA5Gu",
+        "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+    },
+    {
+        "name": "Viejas Locas",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "7wTu5u7W3kc9Id5JAvSAFV",
+        "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+    },
+    {
+        "name": "Jesse & Joy",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "1mX1TWKpNxDSAH16LgDfiR",
+        "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+    },
+    {
+        "name": "Seal",
+        "genres": [],
+        "spotifyId": "5GtMEZEeFFsuHY8ad4kOxv",
+        "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+    },
+    {
+        "name": "Kaiser Chiefs",
+        "genres": [
+            "britpop"
+        ],
+        "spotifyId": "0LbLWjaweRbO4FDKYlbfNt",
+        "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+    },
+    {
+        "name": "Muse",
+        "genres": [
+            "alternative rock",
+            "rock"
+        ],
+        "spotifyId": "12Chz98pHFMPJEknJQMWvI",
+        "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    {
+        "name": "Arctic Monkeys",
+        "genres": [
+            "indie",
+            "garage rock"
+        ],
+        "spotifyId": "7Ln80lUS6He07XvHI8qqHH",
+        "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+        "name": "No Te Va Gustar",
+        "genres": [
+            "argentine rock",
+            "murga",
+            "latin rock",
+            "rock en español",
+            "latin alternative"
+        ],
+        "spotifyId": "4ZDoy7AWNgQVmX7T0u0B1j",
+        "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+    },
+    {
+        "name": "Guaynaa",
+        "genres": [
+            "reggaeton"
+        ],
+        "spotifyId": "0BqURncJM5B1BBu7UM51eq",
+        "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+    },
+    {
+        "name": "Indios",
+        "genres": [
+            "latin indie",
+            "argentine rock",
+            "latin rock"
+        ],
+        "spotifyId": "49ynGmq4dpplOn1Rsiejfp",
+        "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+    },
+    {
+        "name": "Bertt Que",
+        "genres": [],
+        "spotifyId": "5qNqYfocxlYpB3uATOHEXJ",
+        "url": "https://open.spotify.com/artist/5qNqYfocxlYpB3uATOHEXJ"
+    },
+    {
+        "name": "Hillsong en Español",
+        "genres": [
+            "christian",
+            "worship"
+        ],
+        "spotifyId": "3phVKYqeq84Ai91CHTQfNq",
+        "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+    },
+    {
+        "name": "Orishas",
+        "genres": [
+            "latin hip hop",
+            "latin alternative",
+            "son cubano",
+            "latin"
+        ],
+        "spotifyId": "2gKYxTUOqw9aPt7ljMwSHT",
+        "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+    },
+    {
+        "name": "Natalia Lafourcade",
+        "genres": [
+            "latin folk",
+            "bolero",
+            "latin indie",
+            "latin alternative",
+            "latin folklore"
+        ],
+        "spotifyId": "1hcdI2N1023RvSwLzTtdsp",
+        "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+    },
+    {
+        "name": "El Reino Infantil",
+        "genres": [
+            "lullaby",
+            "children's music"
+        ],
+        "spotifyId": "6EMoWayH9WulC8F8b6m3BH",
+        "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+    },
+    {
+        "name": "Kakkmaddafakka",
+        "genres": [],
+        "spotifyId": "4HV7yKF3SRpY6I0gxu7hm9",
+        "url": "https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9"
+    },
+    {
+        "name": "The Kooks",
+        "genres": [
+            "indie",
+            "indie rock"
+        ],
+        "spotifyId": "1GLtl8uqKmnyCWxHmw9tL4",
+        "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+    },
+    {
+        "name": "Natalie Imbruglia",
+        "genres": [],
+        "spotifyId": "0dlOr0VIysztGWvU1dpjmP",
+        "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+    },
+    {
+        "name": "Delaossa",
+        "genres": [],
+        "spotifyId": "5Uox3n7m4W2CoM9MmHPJwQ",
+        "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+    },
+    {
+        "name": "Circa Waves",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "6hl5k4gLl1p3sjhHcb57t2",
+        "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+    },
+    {
+        "name": "Ella Es Tan Cargosa",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "2fGM1BtKeCWjnriro6BaPS",
+        "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+    },
+    {
+        "name": "Likko Sol",
+        "genres": [],
+        "spotifyId": "2Or8PQp1nSscZ2gnIkx17E",
+        "url": "https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E"
+    },
+    {
+        "name": "Árbol",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "6OO01j5rLKCyPg4i3FuzIT",
+        "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+    },
+    {
+        "name": "João Bosco & Vinícius",
+        "genres": [
+            "sertanejo",
+            "sertanejo universitário",
+            "agronejo",
+            "arrocha",
+            "sertanejo tradicional"
+        ],
+        "spotifyId": "7zIRO89G0FBAQtGMHO1Wa0",
+        "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+    },
+    {
+        "name": "Rex Orange County",
+        "genres": [
+            "bedroom pop"
+        ],
+        "spotifyId": "7pbDxGE6nQSZVfiFdq9lOL",
+        "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+    },
+    {
+        "name": "Ramiro Pietropaolo",
+        "genres": [],
+        "spotifyId": "12hoFPPpSmeHM4aSQatsZh",
+        "url": "https://open.spotify.com/artist/12hoFPPpSmeHM4aSQatsZh"
+    },
+    {
+        "name": "Gorux",
+        "genres": [],
+        "spotifyId": "6RqHqE3HSYAituSVyLThkI",
+        "url": "https://open.spotify.com/artist/6RqHqE3HSYAituSVyLThkI"
+    },
+    {
+        "name": "Los Enanitos Verdes",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "argentine rock",
+            "mexican rock",
+            "latin alternative"
+        ],
+        "spotifyId": "4TK1gDgb7QKoPFlzRrBRgR",
+        "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+    },
+    {
+        "name": "Train",
+        "genres": [
+            "soft pop"
+        ],
+        "spotifyId": "3FUY2gzHeIiaesXtOAdB7A",
+        "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+    },
+    {
+        "name": "filous",
+        "genres": [
+            "tropical house"
+        ],
+        "spotifyId": "2IjiuEObrCKyZvSb8xLxG9",
+        "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+    },
+    {
+        "name": "Callejeros",
+        "genres": [
+            "argentine rock",
+            "rock"
+        ],
+        "spotifyId": "2osoVujXgV0PA8lhqDKYFw",
+        "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+    },
+    {
+        "name": "Sebastian Guerschuny",
+        "genres": [],
+        "spotifyId": "6ie0d5D1D2PBqzhUExEplY",
+        "url": "https://open.spotify.com/artist/6ie0d5D1D2PBqzhUExEplY"
+    },
+    {
+        "name": "ACRU",
+        "genres": [
+            "latin hip hop",
+            "argentine trap"
+        ],
+        "spotifyId": "0bYQe0JDIjxkSHQoXlfngl",
+        "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+    },
+    {
+        "name": "The Snuts",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "4AzAfQNuAyKOFG4DZMsdAo",
+        "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+    },
+    {
+        "name": "Atmosphere of Calm",
+        "genres": [],
+        "spotifyId": "42KcSR239KEB90nE0wzA09",
+        "url": "https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09"
+    },
+    {
+        "name": "NEIL FRANCES",
+        "genres": [
+            "indie soul"
+        ],
+        "spotifyId": "587PA35pRGL1JwQr6idJbb",
+        "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+    },
+    {
+        "name": "Dessu",
+        "genres": [
+            "mexican indie"
+        ],
+        "spotifyId": "49wqLYFVfLPKY9qO12ZoAs",
+        "url": "https://open.spotify.com/artist/49wqLYFVfLPKY9qO12ZoAs"
+    },
+    {
+        "name": "Bersuit Vergarabat",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español",
+            "latin alternative",
+            "murga"
+        ],
+        "spotifyId": "6MxyNXnnmwQwdW2PD0gXYO",
+        "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+    },
+    {
+        "name": "The Clear Mind",
+        "genres": [],
+        "spotifyId": "17poofi2R6BSgWBubaEbGs",
+        "url": "https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs"
+    },
+    {
+        "name": "Tai Verdes",
+        "genres": [],
+        "spotifyId": "2kCO8LXN1usaOPL3iEE28I",
+        "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+    },
+    {
+        "name": "Medrana",
+        "genres": [],
+        "spotifyId": "4TLEKuWT4t2sgAAsIwkJl6",
+        "url": "https://open.spotify.com/artist/4TLEKuWT4t2sgAAsIwkJl6"
+    },
+    {
+        "name": "Pacifica",
+        "genres": [],
+        "spotifyId": "4YcQuAswXPWdO2WAxTRXse",
+        "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+    },
+    {
+        "name": "El sueño del ciego",
+        "genres": [],
+        "spotifyId": "6SfvDqhgUkNx1Z5H8vXWDv",
+        "url": "https://open.spotify.com/artist/6SfvDqhgUkNx1Z5H8vXWDv"
+    },
+    {
+        "name": "Jay King",
+        "genres": [],
+        "spotifyId": "2tmpR1Cuq6rOUj7ZiYIt5n",
+        "url": "https://open.spotify.com/artist/2tmpR1Cuq6rOUj7ZiYIt5n"
+    },
+    {
+        "name": "Cassian",
+        "genres": [
+            "melodic techno",
+            "melodic house",
+            "progressive house"
+        ],
+        "spotifyId": "1ChtRJ3f4rbv4vtz87i6CD",
+        "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+    },
+    {
+        "name": "Carmen Sarahi",
+        "genres": [],
+        "spotifyId": "2q8I4WTdPTd07a0IsKLch7",
+        "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
+    },
+    {
+        "name": "Milky Chance",
+        "genres": [],
+        "spotifyId": "1hzfo8twXdOegF3xireCYs",
+        "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+    },
+    {
+        "name": "Cristian Castro",
+        "genres": [
+            "latin pop"
+        ],
+        "spotifyId": "2AZOALDIBORfbzKTuliwdJ",
+        "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+    },
+    {
+        "name": "Playing For Change",
+        "genres": [],
+        "spotifyId": "645m90txZTycwJGdZTWscc",
+        "url": "https://open.spotify.com/artist/645m90txZTycwJGdZTWscc"
+    },
+    {
+        "name": "MC Kevinho",
+        "genres": [
+            "brazilian funk",
+            "funk pop"
+        ],
+        "spotifyId": "1mXAhKnZEdF6rotyyd4GBi",
+        "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+    },
+    {
+        "name": "Natasha Bedingfield",
+        "genres": [],
+        "spotifyId": "7o95ZoZt5ZYn31e9z1Hc0a",
+        "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+    },
+    {
+        "name": "Ro Ransom",
+        "genres": [],
+        "spotifyId": "5tLx2xpkiHdzvX9CIymCfR",
+        "url": "https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR"
+    },
+    {
+        "name": "Reality Sound",
+        "genres": [],
+        "spotifyId": "34yGVl5CKVdhqRost8UeJ1",
+        "url": "https://open.spotify.com/artist/34yGVl5CKVdhqRost8UeJ1"
+    },
+    {
+        "name": "Matt-Felix",
+        "genres": [],
+        "spotifyId": "4T052xBzxDNV7ytuTFysnu",
+        "url": "https://open.spotify.com/artist/4T052xBzxDNV7ytuTFysnu"
+    },
+    {
+        "name": "Snoop Dogg",
+        "genres": [
+            "g-funk",
+            "west coast hip hop",
+            "gangster rap",
+            "old school hip hop",
+            "hip hop",
+            "rap"
+        ],
+        "spotifyId": "7hJcb9fa4alzcOq3EaNPoG",
+        "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+    },
+    {
+        "name": "Vilma Palma e Vampiros",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "argentine rock"
+        ],
+        "spotifyId": "5VQCk9RiLwri99OgOT34kq",
+        "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+    },
+    {
+        "name": "Paolo Nutini",
+        "genres": [],
+        "spotifyId": "7x5rK9BClDQ8wmCkYAGsQp",
+        "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+    },
+    {
+        "name": "Taekoma",
+        "genres": [],
+        "spotifyId": "2T7PXFO7TnyryQ8dvpD9Di",
+        "url": "https://open.spotify.com/artist/2T7PXFO7TnyryQ8dvpD9Di"
+    },
+    {
+        "name": "Hockey Dad",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "1GJ1uwDfaA8GVVpVc2I2d2",
+        "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+    },
+    {
+        "name": "Los Cocoa",
+        "genres": [],
+        "spotifyId": "16nss8D4fSP84Jci370KXV",
+        "url": "https://open.spotify.com/artist/16nss8D4fSP84Jci370KXV"
+    },
+    {
+        "name": "Michael Jackson",
+        "genres": [],
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm",
+        "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+    },
+    {
+        "name": "The Cure",
+        "genres": [
+            "new wave",
+            "post-punk",
+            "gothic rock",
+            "darkwave"
+        ],
+        "spotifyId": "7bu3H8JO7d0UbMoVzbo70s",
+        "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+    },
+    {
+        "name": "Saint Motel",
+        "genres": [],
+        "spotifyId": "1dWEYMPtNmvSVaDNLgB6NV",
+        "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+    },
+    {
+        "name": "Lago Robot",
+        "genres": [],
+        "spotifyId": "5G44saxO6GUFnbJwwAHPEF",
+        "url": "https://open.spotify.com/artist/5G44saxO6GUFnbJwwAHPEF"
+    },
+    {
+        "name": "Papa Roach",
+        "genres": [
+            "nu metal",
+            "rap metal",
+            "alternative metal",
+            "rap rock",
+            "rock"
+        ],
+        "spotifyId": "4RddZ3iHvSpGV4dvATac9X",
+        "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+    },
+    {
+        "name": "John Mayer",
+        "genres": [
+            "singer-songwriter"
+        ],
+        "spotifyId": "0hEurMDQu99nJRq8pTxO14",
+        "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+    },
+    {
+        "name": "Mancha De Rolando",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "4DuhYdfd2jHMdaqYVYZp04",
+        "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+    },
+    {
+        "name": "Amy Macdonald",
+        "genres": [],
+        "spotifyId": "1hJuGCUpefX24GFmss9bjH",
+        "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
+    },
+    {
+        "name": "Airbag",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "1wKDGglKV4FsFS85r2Dmpr",
+        "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+    },
+    {
+        "name": "Rio Branco",
+        "genres": [
+            "bossa nova",
+            "lounge",
+            "jazz pop"
+        ],
+        "spotifyId": "3n4PootMSIDqpViSB9SA1D",
+        "url": "https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D"
+    },
+    {
+        "name": "Paul Cless",
+        "genres": [],
+        "spotifyId": "6KnLzK5qtwkJvihcSZsnqr",
+        "url": "https://open.spotify.com/artist/6KnLzK5qtwkJvihcSZsnqr"
+    },
+    {
+        "name": "Rata Blanca",
+        "genres": [
+            "rock en español",
+            "argentine rock",
+            "latin rock",
+            "mexican rock"
+        ],
+        "spotifyId": "632M26jlmnCrL8CqD5i7Kd",
+        "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+    },
+    {
+        "name": "Bastille",
+        "genres": [],
+        "spotifyId": "7EQ0qTo7fWT7DPxmxtSYEc",
+        "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+    },
+    {
+        "name": "Terra Samba",
+        "genres": [
+            "axé",
+            "pagode baiano",
+            "pagode"
+        ],
+        "spotifyId": "6cUxFmglW7PeSS5dKaWOtP",
+        "url": "https://open.spotify.com/artist/6cUxFmglW7PeSS5dKaWOtP"
+    },
+    {
+        "name": "Las Pastillas del Abuelo",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "0D5U7oXEE4dut2DPyUDLca",
+        "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+    },
+    {
+        "name": "Beastie Boys",
+        "genres": [
+            "rap rock",
+            "old school hip hop",
+            "east coast hip hop",
+            "hip hop"
+        ],
+        "spotifyId": "03r4iKL2g2442PT9n2UKsx",
+        "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+    },
+    {
+        "name": "Baby, no one's home",
+        "genres": [],
+        "spotifyId": "6czIq9geczGfArIZUEQoaL",
+        "url": "https://open.spotify.com/artist/6czIq9geczGfArIZUEQoaL"
+    },
+    {
+        "name": "Hippie Sabotage",
+        "genres": [],
+        "spotifyId": "4dM6NDYSfLcspt8GLoT5aE",
+        "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+    },
+    {
+        "name": "The Hives",
+        "genres": [
+            "garage rock"
+        ],
+        "spotifyId": "4DToQR3aKrHQSSRzSz8Nzt",
+        "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+    },
+    {
+        "name": "Estelares",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "6Nm62oNQCdPxVoiQtFSksF",
+        "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+    },
+    {
+        "name": "The Royal Concept",
+        "genres": [],
+        "spotifyId": "7LAucJAvbQa7ZIA0qP8YI2",
+        "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+    },
+    {
+        "name": "Cruzando El Charco",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "4STEdt6oH8RopaxpfWrO5Z",
+        "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+    },
+    {
+        "name": "El Plan De La Mariposa",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "3LY3yBRRL9yxCZxaxkdUir",
+        "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+    },
+    {
+        "name": "Waves Of Time",
+        "genres": [],
+        "spotifyId": "5doCIxxFrIe9mTSjcGKmQd",
+        "url": "https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd"
+    },
+    {
+        "name": "Marconi Union",
+        "genres": [
+            "ambient"
+        ],
+        "spotifyId": "3nZ3ed6p4CKc1McTLypr6H",
+        "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+    },
+    {
+        "name": "Billy Joel",
+        "genres": [
+            "soft rock"
+        ],
+        "spotifyId": "6zFYqv1mOsgBRQbae3JJ9e",
+        "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+    },
+    {
+        "name": "Kevin Johansen",
+        "genres": [
+            "latin folk",
+            "trova",
+            "latin alternative"
+        ],
+        "spotifyId": "7qjoG7bwhAjSd7nJTcjgAk",
+        "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+    },
+    {
+        "name": "Bobby Caldwell",
+        "genres": [
+            "yacht rock"
+        ],
+        "spotifyId": "4V4Z3qMCwYofWHtip6ePF6",
+        "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+    },
+    {
+        "name": "Bad Bunny",
+        "genres": [
+            "reggaeton",
+            "trap latino",
+            "latin",
+            "urbano latino"
+        ],
+        "spotifyId": "4q3ewBCX7sLwd24euuV69X",
+        "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+        "name": "Lime Cordiale",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "6yrtCy4XJHXM6tczo4RlTs",
+        "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+    },
+    {
+        "name": "The Griswolds",
+        "genres": [],
+        "spotifyId": "3nUbzTTtP2w4HqvT5y5vkV",
+        "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
+    },
+    {
+        "name": "Peaceful Melody",
+        "genres": [
+            "lo-fi"
+        ],
+        "spotifyId": "6piO5Ac23WJnRQifD42dfv",
+        "url": "https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv"
+    },
+    {
+        "name": "Kool & The Gang",
+        "genres": [
+            "disco",
+            "funk"
+        ],
+        "spotifyId": "3VNITwohbvU5Wuy5PC6dsI",
+        "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+    },
+    {
+        "name": "Attaque 77",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español"
+        ],
+        "spotifyId": "5rI6C5mJm6GYXbGHhpHTu9",
+        "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+    },
+    {
+        "name": "The Fray",
+        "genres": [],
+        "spotifyId": "0zOcE3mg9nS6l3yxt1Y0bK",
+        "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+    },
+    {
+        "name": "Usted Señalemelo",
+        "genres": [
+            "latin indie",
+            "argentine rock"
+        ],
+        "spotifyId": "1a1v0OJC5GqtsLwzoqJm7j",
+        "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+    },
+    {
+        "name": "Canserbero",
+        "genres": [
+            "latin hip hop",
+            "rap"
+        ],
+        "spotifyId": "1wGIhYkKWSq4yACtTkCkSX",
+        "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+    },
+    {
+        "name": "boy pablo",
+        "genres": [
+            "bedroom pop"
+        ],
+        "spotifyId": "7wbkl3zgDZEoZer357mVIw",
+        "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+    },
+    {
+        "name": "Israel Kamakawiwo'ole",
+        "genres": [],
+        "spotifyId": "4ogvuDRerGhZfSf7TtzHlr",
+        "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+    },
+    {
+        "name": "Riddim",
+        "genres": [
+            "reggae en español",
+            "reggae",
+            "roots reggae"
+        ],
+        "spotifyId": "4nrP6H78NuKzQr9bQxAFVk",
+        "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+    },
+    {
+        "name": "Babasonicos",
+        "genres": [
+            "argentine rock",
+            "rock en español",
+            "latin rock",
+            "latin alternative"
+        ],
+        "spotifyId": "2F9pvj94b52wGKs0OqiNi2",
+        "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+    },
+    {
+        "name": "*NSYNC",
+        "genres": [],
+        "spotifyId": "6Ff53KvcvAj5U7Z1vojB5o",
+        "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+    },
+    {
+        "name": "Conociendo Rusia",
+        "genres": [
+            "latin indie",
+            "argentine rock"
+        ],
+        "spotifyId": "79R7PUc6T6j09G8mJzNml2",
+        "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+    },
+    {
+        "name": "The Marías",
+        "genres": [
+            "bedroom pop"
+        ],
+        "spotifyId": "2sSGPbdZJkaSE2AbcGOACx",
+        "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+    },
+    {
+        "name": "Keane",
+        "genres": [],
+        "spotifyId": "53A0W3U0s8diEn9RhXQhVz",
+        "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+    },
+    {
+        "name": "Los Nocheros",
+        "genres": [
+            "folklore argentino",
+            "chamamé",
+            "latin folklore",
+            "folclor andino"
+        ],
+        "spotifyId": "2ydE5oBt6cwsDxH1TpIFmO",
+        "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+    },
+    {
+        "name": "The Black Keys",
+        "genres": [
+            "blues rock",
+            "garage rock",
+            "modern blues",
+            "rock"
+        ],
+        "spotifyId": "7mnBLXK823vNxN3UWB7Gfz",
+        "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+    },
+    {
+        "name": "LOUTA",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "5l4GdLELvdnXZVT5g947i3",
+        "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+    },
+    {
+        "name": "Ciro y los Persas",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "2Eo4Yaukt9d6dnZrY5hQKi",
+        "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+    },
+    {
+        "name": "Jack Johnson",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "3GBPw9NK25X1Wt2OUvOwY3",
+        "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+    },
+    {
+        "name": "Blossoms",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "22RISwgVJyZu9lpqAcv1F5",
+        "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+    },
+    {
+        "name": "Mild High Club",
+        "genres": [
+            "neo-psychedelic"
+        ],
+        "spotifyId": "5J81VungUjSVHxlPpTI9KG",
+        "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+    },
+    {
+        "name": "Gauchito Club",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "58gIcdW6E0jd0846aI1sVj",
+        "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+    },
+    {
+        "name": "Lonely God",
+        "genres": [],
+        "spotifyId": "6pF6MN603wSrisJcf7HS5v",
+        "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
+    },
+    {
+        "name": "Glee Cast",
+        "genres": [
+            "christmas"
+        ],
+        "spotifyId": "0SCbttzoZTnLFebDYmAWCm",
+        "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+    },
+    {
+        "name": "Britney Spears",
+        "genres": [
+            "pop"
+        ],
+        "spotifyId": "26dSoYclwsYLMAKD3tpOr4",
+        "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+    },
+    {
+        "name": "Foster The People",
+        "genres": [],
+        "spotifyId": "7gP3bB2nilZXLfPHJhMdvc",
+        "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+    },
+    {
+        "name": "Supergrass",
+        "genres": [
+            "britpop"
+        ],
+        "spotifyId": "0sHeX8oQ6o7xic3wMf4NBU",
+        "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+    },
+    {
+        "name": "Silvestre y La Naranja",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "1hE5imhaIrCEKoHLHW9aCO",
+        "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+    },
+    {
+        "name": "Fidel Nadal",
+        "genres": [
+            "reggae en español",
+            "reggae",
+            "ska",
+            "roots reggae"
+        ],
+        "spotifyId": "7l2wptrNdI4wEHxTlWa6SS",
+        "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+    },
+    {
+        "name": "Sampling Specialists",
+        "genres": [],
+        "spotifyId": "7199IIJK2wW5yNXTaZtYmI",
+        "url": "https://open.spotify.com/artist/7199IIJK2wW5yNXTaZtYmI"
+    },
+    {
+        "name": "Camilo",
+        "genres": [
+            "colombian pop",
+            "pop urbano"
+        ],
+        "spotifyId": "28gNT5KBp7IjEOQoevXf9N",
+        "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+    },
+    {
+        "name": "The Strokes",
+        "genres": [
+            "garage rock",
+            "indie rock",
+            "alternative rock"
+        ],
+        "spotifyId": "0epOFNiUfyON9EYx7Tpr6V",
+        "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+    },
+    {
+        "name": "Nicki Nicole",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "2UZIAOlrnyZmyzt1nuXr9y",
+        "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+    },
+    {
+        "name": "Bakermat",
+        "genres": [
+            "tropical house"
+        ],
+        "spotifyId": "3MyFDtqB80WZvbtCZRsekM",
+        "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+    },
+    {
+        "name": "Sound Carrie",
+        "genres": [],
+        "spotifyId": "6VSLsTLt5SnJSaiKVwHSKn",
+        "url": "https://open.spotify.com/artist/6VSLsTLt5SnJSaiKVwHSKn"
+    },
+    {
+        "name": "Sticky Fingers",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "3ZGr7nQBXDU2WhyXgRVbt0",
+        "url": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
+    },
+    {
+        "name": "Companhia do Pagode",
+        "genres": [
+            "axé",
+            "pagode baiano"
+        ],
+        "spotifyId": "31lKYX3dReQS1XXQtFsmDt",
+        "url": "https://open.spotify.com/artist/31lKYX3dReQS1XXQtFsmDt"
+    },
+    {
+        "name": "Shag Rock",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "0SJxTOELZJa2Cf19TjNEfm",
+        "url": "https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm"
+    },
+    {
+        "name": "MC L da Vinte",
+        "genres": [
+            "brazilian funk",
+            "funk de bh",
+            "funk carioca"
+        ],
+        "spotifyId": "0lHB0Qc4pmD5RkTLlHeESo",
+        "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+    },
+    {
+        "name": "Nito Mestre",
+        "genres": [
+            "argentine rock",
+            "trova",
+            "nueva trova"
+        ],
+        "spotifyId": "46JHFFEjLKbXhMQsU5vSGm",
+        "url": "https://open.spotify.com/artist/46JHFFEjLKbXhMQsU5vSGm"
+    },
+    {
+        "name": "Foals",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "6FQqZYVfTNQ1pCqfkwVFEa",
+        "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+    },
+    {
+        "name": "Timbalada",
+        "genres": [
+            "axé",
+            "pagode baiano"
+        ],
+        "spotifyId": "1Da4NyNC4CLayaNGGmL9uZ",
+        "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+    },
+    {
+        "name": "Jorge Drexler",
+        "genres": [
+            "trova",
+            "singer-songwriter",
+            "latin folk",
+            "nueva trova",
+            "candombe"
+        ],
+        "spotifyId": "4ssUf5gLb1GBLxi1BhPrVt",
+        "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+    },
+    {
+        "name": "Dayglow",
+        "genres": [
+            "indie rock"
+        ],
+        "spotifyId": "6eJa3zG1QZLRB3xgRuyxbm",
+        "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+    },
+    {
+        "name": "The Wombats",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "0Ya43ZKWHTKkAbkoJJkwIB",
+        "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+    },
+    {
+        "name": "Mercedes Sosa",
+        "genres": [
+            "trova",
+            "folklore argentino",
+            "nueva trova",
+            "latin folklore",
+            "latin folk",
+            "folclor andino",
+            "chamamé"
+        ],
+        "spotifyId": "2HvyR5FsU37QMqVzIbGwl7",
+        "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+    },
+    {
+        "name": "No Vacation",
+        "genres": [
+            "bedroom pop",
+            "dream pop"
+        ],
+        "spotifyId": "32zeX1IoVKAGWMyy1isKUq",
+        "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+    },
+    {
+        "name": "Parcels",
+        "genres": [
+            "indie soul"
+        ],
+        "spotifyId": "3oKRxpszQKUjjaHz388fVA",
+        "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+    },
+    {
+        "name": "Jamiroquai",
+        "genres": [
+            "acid jazz"
+        ],
+        "spotifyId": "6J7biCazzYhU3gM9j1wfid",
+        "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+    },
+    {
+        "name": "Los Nota Lokos",
+        "genres": [
+            "rkt",
+            "turreo",
+            "cumbia"
+        ],
+        "spotifyId": "76iFMHDqONZusQlTu2ckKQ",
+        "url": "https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ"
+    },
+    {
+        "name": "Lavender Balm",
+        "genres": [],
+        "spotifyId": "4N8OrA1MLAkEU05eVyYyFa",
+        "url": "https://open.spotify.com/artist/4N8OrA1MLAkEU05eVyYyFa"
+    },
+    {
+        "name": "Titan Pulse",
+        "genres": [],
+        "spotifyId": "2LxEiPDLSX3rxS0VYnqaIY",
+        "url": "https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY"
+    },
+    {
+        "name": "Hum Humming",
+        "genres": [],
+        "spotifyId": "4Pv75nATrtWwA5uYCDvxYF",
+        "url": "https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF"
+    },
+    {
+        "name": "Soda Stereo",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "argentine rock",
+            "latin alternative"
+        ],
+        "spotifyId": "7An4yvF7hDYDolN4m5zKBp",
+        "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+    },
+    {
+        "name": "Inkie",
+        "genres": [],
+        "spotifyId": "70vyFZzRbineUE9fQILJYq",
+        "url": "https://open.spotify.com/artist/70vyFZzRbineUE9fQILJYq"
+    },
+    {
+        "name": "Asana Ventus",
+        "genres": [],
+        "spotifyId": "3D8uKbNS9NX6q57gX9b08V",
+        "url": "https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V"
+    },
+    {
+        "name": "Mike Faist",
+        "genres": [
+            "musicals"
+        ],
+        "spotifyId": "3OPl8pWnz8rdYTiaNQ0eMv",
+        "url": "https://open.spotify.com/artist/3OPl8pWnz8rdYTiaNQ0eMv"
+    },
+    {
+        "name": "Pablo Cepeda",
+        "genres": [
+            "bossa nova",
+            "lounge"
+        ],
+        "spotifyId": "1uj8EOCKAXn4w2TR7CVnQb",
+        "url": "https://open.spotify.com/artist/1uj8EOCKAXn4w2TR7CVnQb"
+    },
+    {
+        "name": "Cumbia rocha",
+        "genres": [
+            "cumbia",
+            "cuarteto"
+        ],
+        "spotifyId": "5Szju6DGR9hcbFOJeXCN0x",
+        "url": "https://open.spotify.com/artist/5Szju6DGR9hcbFOJeXCN0x"
+    },
+    {
+        "name": "Backstreet Boys",
+        "genres": [],
+        "spotifyId": "5rSXSAkZ67PYJSvpUpkOr7",
+        "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+    },
+    {
+        "name": "The FO's",
+        "genres": [],
+        "spotifyId": "594dFaDdAeBqmtRqGKKo4h",
+        "url": "https://open.spotify.com/artist/594dFaDdAeBqmtRqGKKo4h"
+    },
+    {
+        "name": "mustbejohn",
+        "genres": [
+            "uk garage"
+        ],
+        "spotifyId": "5hgZ7PGI0EM2UfiWAIKdFc",
+        "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+    },
+    {
+        "name": "El Niño de la Hipoteca",
+        "genres": [
+            "singer-songwriter"
+        ],
+        "spotifyId": "3Znu3IpegNZzamLA9vRsE0",
+        "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
+    },
+    {
+        "name": "Corella",
+        "genres": [],
+        "spotifyId": "5LoyxydilSHtcohX3rSRXe",
+        "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+    },
+    {
+        "name": "Ziggy Alberts",
+        "genres": [
+            "folk pop"
+        ],
+        "spotifyId": "6tuPdaFPIytg3l2f51L7Hw",
+        "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+    },
+    {
+        "name": "Hormonental",
+        "genres": [],
+        "spotifyId": "04vpuXDmz03XLF53WTsbXE",
+        "url": "https://open.spotify.com/artist/04vpuXDmz03XLF53WTsbXE"
+    },
+    {
+        "name": "Reynaldo FM",
+        "genres": [],
+        "spotifyId": "7stNpkCSMje6jC7pIxppFR",
+        "url": "https://open.spotify.com/artist/7stNpkCSMje6jC7pIxppFR"
+    },
+    {
+        "name": "Creedence Clearwater Revival",
+        "genres": [
+            "classic rock",
+            "southern rock",
+            "country rock"
+        ],
+        "spotifyId": "3IYUhFvPQItj6xySrBmZkd",
+        "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+    },
+    {
+        "name": "Tobiah Frei",
+        "genres": [
+            "alté",
+            "afro soul",
+            "afro r&b",
+            "afrobeats"
+        ],
+        "spotifyId": "1hqQ69HmawimUpu85TjODs",
+        "url": "https://open.spotify.com/artist/1hqQ69HmawimUpu85TjODs"
+    },
+    {
+        "name": "Vance Joy",
+        "genres": [
+            "folk pop"
+        ],
+        "spotifyId": "10exVja0key0uqUkk6LJRT",
+        "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+    },
+    {
+        "name": "San Cisco",
+        "genres": [],
+        "spotifyId": "0Ou0138wEd8XWebhc4j7O0",
+        "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+    },
+    {
+        "name": "Talk Talk",
+        "genres": [
+            "new wave",
+            "synthpop"
+        ],
+        "spotifyId": "7Fo8TAyGJr4VmhE68QamMf",
+        "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+    },
+    {
+        "name": "Razorlight",
+        "genres": [
+            "britpop",
+            "indie"
+        ],
+        "spotifyId": "450iujbtN6XgiA9pv6fVZz",
+        "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+    },
+    {
+        "name": "The Temper Trap",
+        "genres": [],
+        "spotifyId": "4W48hZAnAHVOC2c8WH8pcq",
+        "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+    },
+    {
+        "name": "Noizu Deluxe",
+        "genres": [],
+        "spotifyId": "11OG3LRKgXcTxtDxqkYbH0",
+        "url": "https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0"
+    },
+    {
+        "name": "Salvapantallas",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "1VZQhmsaBc4voNvRGvFUgK",
+        "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+    },
+    {
+        "name": "Calle 13",
+        "genres": [
+            "latin hip hop",
+            "latin alternative",
+            "reggaeton"
+        ],
+        "spotifyId": "0yNSzH5nZmHzeE2xn6Xshb",
+        "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+    },
+    {
+        "name": "Triángles",
+        "genres": [],
+        "spotifyId": "6o6YSy8gJUvzLNFr9uMHOr",
+        "url": "https://open.spotify.com/artist/6o6YSy8gJUvzLNFr9uMHOr"
+    },
+    {
+        "name": "Massive Attack",
+        "genres": [
+            "trip hop",
+            "downtempo"
+        ],
+        "spotifyId": "6FXMGgJwohJLUSr5nVlf9X",
+        "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+    },
+    {
+        "name": "Tame Impala",
+        "genres": [
+            "neo-psychedelic",
+            "indie"
+        ],
+        "spotifyId": "5INjqkS1o8h1imAzPqGZBb",
+        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+        "name": "Dream Son",
+        "genres": [],
+        "spotifyId": "6Tl4693vgmUKDblSuqOKoo",
+        "url": "https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo"
+    },
+    {
+        "name": "NatuREM",
+        "genres": [],
+        "spotifyId": "03eX3RX46RbMeY7FA8xF99",
+        "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+    },
+    {
+        "name": "Alicia Keys",
+        "genres": [
+            "r&b",
+            "neo soul"
+        ],
+        "spotifyId": "3DiDSECUqqY1AuBP8qtaIa",
+        "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+    },
+    {
+        "name": "Scientists of Noise",
+        "genres": [],
+        "spotifyId": "14XJ27kUY0HXLJFApJBHRA",
+        "url": "https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA"
+    },
+    {
+        "name": "Los Rodriguez",
+        "genres": [
+            "latin rock",
+            "argentine rock",
+            "rock en español"
+        ],
+        "spotifyId": "3XkJyJgJDxnjdQgH0zfT8K",
+        "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+    },
+    {
+        "name": "Kapanga",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "2MLiASzGQHVMyORIApRGsp",
+        "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+    },
+    {
+        "name": "Callejero Fino",
+        "genres": [
+            "rkt",
+            "turreo",
+            "cumbia"
+        ],
+        "spotifyId": "6GRwwWAtmusrgAL5JF9Dfr",
+        "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+    },
+    {
+        "name": "Joan Manuel Serrat",
+        "genres": [
+            "trova",
+            "nueva trova",
+            "singer-songwriter"
+        ],
+        "spotifyId": "1t7t8q4zoYHp22JLIx3FM7",
+        "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+    },
+    {
+        "name": "Cuba Cuba",
+        "genres": [
+            "cha cha cha"
+        ],
+        "spotifyId": "6tIqzhdC2Xo1MRrmqDxMg8",
+        "url": "https://open.spotify.com/artist/6tIqzhdC2Xo1MRrmqDxMg8"
+    },
+    {
+        "name": "Jaime Urrutia",
+        "genres": [],
+        "spotifyId": "21gW1NJCe2sHZ485DBDNlb",
+        "url": "https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb"
+    },
+    {
+        "name": "Miles Kane",
+        "genres": [
+            "baroque pop"
+        ],
+        "spotifyId": "3M0H4efyA5YcijrKlaKbYn",
+        "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+    },
+    {
+        "name": "The Last Shadow Puppets",
+        "genres": [
+            "baroque pop"
+        ],
+        "spotifyId": "2Z7UcsdweVlRbAk5wH5fsf",
+        "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+    },
+    {
+        "name": "Bob Moses",
+        "genres": [],
+        "spotifyId": "6LHsnRBUYhFyt01PdKXAF5",
+        "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+    },
+    {
+        "name": "Los Cafres",
+        "genres": [
+            "reggae en español",
+            "reggae",
+            "roots reggae",
+            "argentine rock",
+            "rock en español"
+        ],
+        "spotifyId": "2ST5XwWB4uXGKk2NXP8DUI",
+        "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+    },
+    {
+        "name": "Fito Paez",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español",
+            "trova"
+        ],
+        "spotifyId": "1bZNv4q3OxYq7mmnLha7Tu",
+        "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+    },
+    {
+        "name": "MC Bruninho",
+        "genres": [
+            "brega funk",
+            "brazilian funk"
+        ],
+        "spotifyId": "3shPgAzHMyRwWOkXeoWKeB",
+        "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+    },
+    {
+        "name": "Bob Sinclar",
+        "genres": [
+            "french house",
+            "disco house"
+        ],
+        "spotifyId": "5YFS41yoX0YuFY39fq21oN",
+        "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+    },
+    {
+        "name": "fun.",
+        "genres": [],
+        "spotifyId": "5nCi3BB41mBaMH9gfr6Su0",
+        "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+    },
+    {
+        "name": "Michael Bublé",
+        "genres": [
+            "christmas"
+        ],
+        "spotifyId": "1GxkXlMwML1oSg5eLPiAz3",
+        "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+    },
+    {
+        "name": "Powfu",
+        "genres": [],
+        "spotifyId": "6bmlMHgSheBauioMgKv2tn",
+        "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+    },
+    {
+        "name": "Noise Library",
+        "genres": [],
+        "spotifyId": "1wFEHvHdcbuWVxo6reRywR",
+        "url": "https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR"
+    },
+    {
+        "name": "La Renga",
+        "genres": [
+            "argentine rock",
+            "latin rock"
+        ],
+        "spotifyId": "30fEdZPXgWfC4sNttcyB3C",
+        "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+    },
+    {
+        "name": "Poncho",
+        "genres": [
+            "electropop"
+        ],
+        "spotifyId": "4ADdzb8h9qQTE8XPmSxY8r",
+        "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+    },
+    {
+        "name": "Jake Bugg",
+        "genres": [],
+        "spotifyId": "4hf3caW9H8uFwwbv5pFjcg",
+        "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+    },
+    {
+        "name": "Chano",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "14lvrkdaXxggonwjKZpePM",
+        "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+    },
+    {
+        "name": "Indio Solari",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "0nUGkxUncFeXt0Dr0hhrc4",
+        "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+    },
+    {
+        "name": "Ruben Rada",
+        "genres": [
+            "candombe",
+            "murga"
+        ],
+        "spotifyId": "5AfGpwSbYKelc5nJjUVRmb",
+        "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+    },
+    {
+        "name": "Maria Becerra",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "1DxLCyH42yaHKGK3cl5bvG",
+        "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+    },
+    {
+        "name": "Vansire",
+        "genres": [
+            "bedroom pop"
+        ],
+        "spotifyId": "6ft7JnxMyZhp7N52qzHymY",
+        "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+    },
+    {
+        "name": "Marcela Mangabeira",
+        "genres": [
+            "bossa nova",
+            "lounge"
+        ],
+        "spotifyId": "4H5EtQdvxwz7wEGNlguKAg",
+        "url": "https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg"
+    },
+    {
+        "name": "Irasema Terrazas",
+        "genres": [],
+        "spotifyId": "1lLbqV8uwF5D9MK8w4im3j",
+        "url": "https://open.spotify.com/artist/1lLbqV8uwF5D9MK8w4im3j"
+    },
+    {
+        "name": "Carlos Vives",
+        "genres": [
+            "colombian pop",
+            "vallenato",
+            "latin",
+            "latin pop"
+        ],
+        "spotifyId": "4vhNDa5ycK0ST968ek7kRr",
+        "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+    },
+    {
+        "name": "Libronics",
+        "genres": [],
+        "spotifyId": "3aRPewMsLWgCfDyogfVWja",
+        "url": "https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja"
+    },
+    {
+        "name": "Juan Luis Guerra 4.40",
+        "genres": [
+            "merengue",
+            "bachata",
+            "salsa"
+        ],
+        "spotifyId": "3nlpTZci9O5W8RsNoNH559",
+        "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+    },
+    {
+        "name": "Donna Murphy",
+        "genres": [],
+        "spotifyId": "5BuTOT6mPoNZ5EmaPheBI9",
+        "url": "https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9"
+    },
+    {
+        "name": "CUERO",
+        "genres": [],
+        "spotifyId": "7ANFpDZMOEak6T457qZ1xh",
+        "url": "https://open.spotify.com/artist/7ANFpDZMOEak6T457qZ1xh"
+    },
+    {
+        "name": "Julio Iglesias",
+        "genres": [
+            "bolero"
+        ],
+        "spotifyId": "4etuCZVdP8yiNPn4xf0ie5",
+        "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+    },
+    {
+        "name": "Dick Dale & His Del-Tones",
+        "genres": [
+            "surf rock",
+            "rockabilly"
+        ],
+        "spotifyId": "7J77vP6EbI63lB3snZeRj4",
+        "url": "https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4"
+    },
+    {
+        "name": "Stealth",
+        "genres": [],
+        "spotifyId": "6f3R3mqKR3kHp1KBNMUn80",
+        "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
+    },
+    {
+        "name": "Dani Ribba",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "6cC67GpmPCjQjOYLpmOGhN",
+        "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+    },
+    {
+        "name": "Billie Eilish",
+        "genres": [],
+        "spotifyId": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+        "name": "Neo Pistea",
+        "genres": [
+            "argentine trap",
+            "trap"
+        ],
+        "spotifyId": "01m2XZ7m7rAz6KY3scTdaV",
+        "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+    },
+    {
+        "name": "Royel Otis",
+        "genres": [
+            "indie"
+        ],
+        "spotifyId": "5b5bt4mZQpJMoCRbiQ7diH",
+        "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+    },
+    {
+        "name": "George Ezra",
+        "genres": [],
+        "spotifyId": "2ysnwxxNtSgbb9t1m2Ur4j",
+        "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+    },
+    {
+        "name": "Abel Pintos",
+        "genres": [
+            "folklore argentino",
+            "cuarteto"
+        ],
+        "spotifyId": "6HTUcOExehqydqa7C3usAa",
+        "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+    },
+    {
+        "name": "The Manatees",
+        "genres": [],
+        "spotifyId": "2cWGltn2fZoaAiIhuQyw5h",
+        "url": "https://open.spotify.com/artist/2cWGltn2fZoaAiIhuQyw5h"
+    },
+    {
+        "name": "Zenon Pereyra",
+        "genres": [
+            "latin indie"
+        ],
+        "spotifyId": "73lBjMjlN5WczHNWLIIVee",
+        "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+    },
+    {
+        "name": "SUN SILVA",
+        "genres": [],
+        "spotifyId": "5f84MJAiHgRVmGpDOQI1fU",
+        "url": "https://open.spotify.com/artist/5f84MJAiHgRVmGpDOQI1fU"
+    },
+    {
+        "name": "Danna Paola",
+        "genres": [],
+        "spotifyId": "5xSx2FM8mQnrfgM1QsHniB",
+        "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+    },
+    {
+        "name": "Wunderhorse",
+        "genres": [],
+        "spotifyId": "41pd7r1XBRsvdxY3vHEgib",
+        "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+    },
+    {
+        "name": "Joao Das Nieves",
+        "genres": [],
+        "spotifyId": "55C96KjkobyMrlzfgP7vJd",
+        "url": "https://open.spotify.com/artist/55C96KjkobyMrlzfgP7vJd"
+    },
+    {
+        "name": "John Travolta",
+        "genres": [
+            "musicals"
+        ],
+        "spotifyId": "4hKkEHkaqCsyxNxXEsszVH",
+        "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+    },
+    {
+        "name": "Everybody Loves an Outlaw",
+        "genres": [],
+        "spotifyId": "5RCWMaArEntbkeWYVxCiFW",
+        "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
+    },
+    {
+        "name": "Illya Kuryaki & The Valderramas",
+        "genres": [
+            "rock en español",
+            "argentine rock",
+            "latin rock",
+            "latin alternative"
+        ],
+        "spotifyId": "2Rc3Tb5XUPF1YlnQwuPgjg",
+        "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+    },
+    {
+        "name": "Trueno",
+        "genres": [
+            "argentine trap"
+        ],
+        "spotifyId": "2x7PC78TmgqpEIjaGAZ0Oz",
+        "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+    },
+    {
+        "name": "Jósean Log",
+        "genres": [
+            "mexican indie",
+            "latin indie"
+        ],
+        "spotifyId": "1LMyTeRhjaitILs98h3MaF",
+        "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+    },
+    {
+        "name": "The xx",
+        "genres": [],
+        "spotifyId": "3iOvXCl6edW5Um0fXEBRXy",
+        "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+    },
+    {
+        "name": "Baby Keem",
+        "genres": [],
+        "spotifyId": "5SXuuuRpukkTvsLuUknva1",
+        "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+    },
+    {
+        "name": "Beach Fossils",
+        "genres": [
+            "dream pop",
+            "surf rock",
+            "shoegaze"
+        ],
+        "spotifyId": "1bwUhKRmEkOZ1wuTnV9XjC",
+        "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+    },
+    {
+        "name": "Imagine Dragons",
+        "genres": [],
+        "spotifyId": "53XhwfbYqKCa1cC15pYq2q",
+        "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+    },
+    {
+        "name": "Patricio Rey y sus Redonditos de Ricota",
+        "genres": [
+            "argentine rock"
+        ],
+        "spotifyId": "6byQKddO1b34lXC2ZEjehQ",
+        "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+    },
+    {
+        "name": "Dire Straits",
+        "genres": [
+            "classic rock"
+        ],
+        "spotifyId": "0WwSkZ7LtFUFjGjMZBMt6T",
+        "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+    },
+    {
+        "name": "George Michael",
+        "genres": [],
+        "spotifyId": "19ra5tSw0tWufvUp8GotLo",
+        "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+    },
+    {
+        "name": "Balu Brigada",
+        "genres": [],
+        "spotifyId": "6O9vGMmTwzihULICPCsNf2",
+        "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+    },
+    {
+        "name": "J. Cole",
+        "genres": [
+            "rap"
+        ],
+        "spotifyId": "6l3HvQ5sa6mXTsMTB19rO5",
+        "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+    },
+    {
+        "name": "Aum Balti",
+        "genres": [],
+        "spotifyId": "0Tvw6JStyvQslAwq4tkfvE",
+        "url": "https://open.spotify.com/artist/0Tvw6JStyvQslAwq4tkfvE"
+    },
+    {
+        "name": "Talking Heads",
+        "genres": [
+            "new wave",
+            "post-punk"
+        ],
+        "spotifyId": "2x9SpqnPi8rlE9pjHBwmSC",
+        "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+    },
+    {
+        "name": "Twenty One Pilots",
+        "genres": [],
+        "spotifyId": "3YQKmKGau1PzlVlkL1iodx",
+        "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+    },
+    {
+        "name": "Adrián Berra",
+        "genres": [
+            "candombe",
+            "latin folk"
+        ],
+        "spotifyId": "3w9xEAItKEIFjQoR88mtsO",
+        "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+    },
+    {
+        "name": "Maná",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "mexican rock",
+            "latin pop"
+        ],
+        "spotifyId": "7okwEbXzyT2VffBmyQBWLz",
+        "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+    },
+    {
+        "name": "Crystal Fighters",
+        "genres": [],
+        "spotifyId": "75EZuo5MHV2572NRpMWotC",
+        "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+    },
+    {
+        "name": "Cage The Elephant",
+        "genres": [],
+        "spotifyId": "26T3LtbuGT1Fu9m0eRq5X3",
+        "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+    },
+    {
+        "name": "The Skinner Brothers",
+        "genres": [],
+        "spotifyId": "4PY51S3HuOMhnZA0Sx8FRN",
+        "url": "https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN"
+    },
+    {
+        "name": "State of Waves",
+        "genres": [],
+        "spotifyId": "1qC3nE1aPdL2nJ41op52RY",
+        "url": "https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY"
+    },
+    {
+        "name": "The Killers",
+        "genres": [
+            "alternative rock"
+        ],
+        "spotifyId": "0C0XlULifJtAgn6ZNCW2eu",
+        "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+    },
+    {
+        "name": "Julieta Venegas",
+        "genres": [
+            "latin pop",
+            "latin rock"
+        ],
+        "spotifyId": "2QWIScpFDNxmS6ZEMIUvgm",
+        "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+    },
+    {
+        "name": "LAZY GHOST",
+        "genres": [
+            "surf rock"
+        ],
+        "spotifyId": "46tdza9HtvQ3nCEU7LRTKz",
+        "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+    },
+    {
+        "name": "The Fratellis",
+        "genres": [],
+        "spotifyId": "3M4ThdJR28z9eSMcQHAZ5G",
+        "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+    },
+    {
+        "name": "Discotron",
+        "genres": [
+            "nu disco",
+            "disco house",
+            "funky house"
+        ],
+        "spotifyId": "3kxReOjCeEoZxRo80bAHFf",
+        "url": "https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf"
+    },
+    {
+        "name": "hard life",
+        "genres": [],
+        "spotifyId": "7uwY65fDg3FVJ8MkJ5QuZK",
+        "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+    }
+]
