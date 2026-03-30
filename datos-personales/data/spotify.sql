@@ -41,22 +41,140 @@ ALTER TABLE mis_artistas
         ELSE genre
     END) STORED;
 
+-- axé: #FF0000
+-- mariachi: #FF7F00
+-- trova: #FFFF00
+-- downtempo: #00FF00
+-- latin: #00FFFF
+-- NULL: #0000FF
+-- punk: #4B0082
+-- candombe: #9400D3
+-- bossa nova: #FF1493
+-- singer-songwriter: #FFB6C1
+-- ska: #FFC0CB
+-- cuarteto: #FFD700
+-- lo-fi: #FFA500
+-- rock: #FF4500
+-- chamber music: #FF6347
+-- r&b: #FF69B4
+-- folklore: #FF8C00
+-- soul: #FFA07A
+-- indie: #FFB347
+-- salsa: #FFDAB9
+-- house: #FFE4B5
+-- anti-folk: #FFFACD
+-- post-punk: #2F4F4F
+-- merengue: #FF1744
+-- bolero: #BA55D3
+-- motown: #32CD32
+-- rap: #00008B
+-- corrido: #8B0000
+-- uk garage: #00BFFF
+-- ambient: #E0FFFF
+-- jam band: #DAA520
+-- alté: #8A2BE2
+-- trip hop: #4B0082
+-- pop: #FF10F0
+-- big beat: #00FF7F
+-- neo-psychedelic: #7FFF00
+-- musicals: #ADFF2F
+-- lounge: #9ACD32
+-- disco: #FFD700
+-- nu metal: #696969
+-- trap: #DC143C
+-- bachata: #FF69B4
+-- grunge: #800080
+-- funk: #32CD32
+-- jazz: #CD853F
+-- hip hop: #FF0000
+-- sertanejo: #20B2AA
+-- new wave: #1E90FF
+-- cumbia: #FF8C00
+-- cha cha cha: #FFB347
+-- mpb: #6495ED
+-- melodic techno: #00FA9A
+-- religious: #808080
+-- christmas: #00FF00
+-- corridos tumbados: #FF1493
+-- alternative: #4169E1
+-- reggae: #008000
+-- lullaby: #FFC0CB
+-- rkt: #FF4500
+-- chanson: #FFE4B5
+-- children's music: #87CEEB
+ALTER TABLE mis_artistas
+    DROP COLUMN IF EXISTS genre_color;
+
+ALTER TABLE mis_artistas
+    ADD COLUMN genre_color VARCHAR(7) GENERATED ALWAYS AS (CASE
+        WHEN genre IS NULL OR genre = '' THEN '#0000FF'
+        WHEN genre ILIKE '%rock%' THEN '#FF4500'
+        WHEN genre ILIKE '%pop%' THEN '#FF10F0'
+        WHEN genre ILIKE '%indie%' THEN '#FFB347'
+        WHEN genre ILIKE '%latin%' THEN '#00FFFF'
+        WHEN genre ILIKE '%reggae%' THEN '#008000'
+        WHEN genre ILIKE '%alternative%' THEN '#4169E1'
+        WHEN genre ILIKE '%folklore%' THEN '#FF8C00'
+        WHEN genre ILIKE '%house%' THEN '#FFE4B5'
+        WHEN genre ILIKE '%electronic%' THEN '#000000'
+        WHEN genre ILIKE '%funk%' THEN '#32CD32'
+        WHEN genre ILIKE '%trap%' THEN '#DC143C'
+        WHEN genre ILIKE '%rap%' THEN '#00008B'
+        WHEN genre ILIKE '%hip hop%' THEN '#FF0000'
+        WHEN genre ILIKE '%soul%' THEN '#FFA07A'
+        WHEN genre ILIKE '%jazz%' THEN '#CD853F'
+        WHEN genre ILIKE '%disco%' THEN '#FFD700'
+        WHEN genre ILIKE '%worship%' OR genre ILIKE '%christian%' OR genre ILIKE '%catholic%' THEN '#808080'
+        WHEN genre ILIKE '%sertanejo%' THEN '#20B2AA'
+        WHEN genre = 'axé' THEN '#FF0000'
+        WHEN genre = 'mariachi' THEN '#FF7F00'
+        WHEN genre = 'trova' THEN '#FFFF00'
+        WHEN genre = 'downtempo' THEN '#00FF00'
+        WHEN genre = 'punk' THEN '#4B0082'
+        WHEN genre = 'candombe' THEN '#9400D3'
+        WHEN genre = 'bossa nova' THEN '#FF1493'
+        WHEN genre = 'singer-songwriter' THEN '#FFB6C1'
+        WHEN genre = 'ska' THEN '#FFC0CB'
+        WHEN genre = 'cuarteto' THEN '#FFD700'
+        WHEN genre = 'lo-fi' THEN '#FFA500'
+        WHEN genre = 'chamber music' THEN '#FF6347'
+        WHEN genre = 'r&b' THEN '#FF69B4'
+        WHEN genre = 'salsa' THEN '#FFDAB9'
+        WHEN genre = 'anti-folk' THEN '#FFFACD'
+        WHEN genre = 'post-punk' THEN '#2F4F4F'
+        WHEN genre = 'merengue' THEN '#FF1744'
+        WHEN genre = 'bolero' THEN '#BA55D3'
+        WHEN genre = 'motown' THEN '#32CD32'
+        WHEN genre = 'corrido' THEN '#8B0000'
+        WHEN genre = 'uk garage' THEN '#00BFFF'
+        WHEN genre = 'ambient' THEN '#E0FFFF'
+        WHEN genre = 'jam band' THEN '#DAA520'
+        WHEN genre = 'alté' THEN '#8A2BE2'
+        WHEN genre = 'trip hop' THEN '#4B0082'
+        WHEN genre = 'big beat' THEN '#00FF7F'
+        WHEN genre = 'neo-psychedelic' THEN '#7FFF00'
+        WHEN genre = 'musicals' THEN '#ADFF2F'
+        WHEN genre = 'lounge' THEN '#9ACD32'
+        WHEN genre = 'nu metal' THEN '#696969'
+        WHEN genre = 'bachata' THEN '#FF69B4'
+        WHEN genre = 'grunge' THEN '#800080'
+        WHEN genre = 'new wave' THEN '#1E90FF'
+        WHEN genre = 'cumbia' THEN '#FF8C00'
+        WHEN genre = 'cha cha cha' THEN '#FFB347'
+        WHEN genre = 'mpb' THEN '#6495ED'
+        WHEN genre = 'melodic techno' THEN '#00FA9A'
+        WHEN genre = 'christmas' THEN '#00FF00'
+        WHEN genre = 'corridos tumbados' THEN '#FF1493'
+        WHEN genre = 'lullaby' THEN '#FFC0CB'
+        WHEN genre = 'rkt' THEN '#FF4500'
+        WHEN genre = 'chanson' THEN '#FFE4B5'
+        WHEN genre = 'children''s music' THEN '#87CEEB'
+        ELSE '#000000'
+    END) STORED;
+
 SELECT * FROM mi_musica WHERE artistname = 'Sports';
 
 SELECT * FROM mis_artistas WHERE artistname = 'El Cuarteto De Nos';
-
-SELECT
-    m.id,
-    m.trackname,
-    m.started_at::TIMESTAMP(0) AS starttime,
-    m.endtime,
-    m.msplayed,
-    m.artistname,
-    a.genre AS artist_genre,
-    a.general_genre AS artist_general_genre
-FROM mi_musica m
-    JOIN mis_artistas a ON m.artistname = a.artistname
-WHERE a.genre IS NOT NULL;
 
 UPDATE mis_artistas
 SET genre = 'rock argentino'
@@ -71,3 +189,65 @@ DROP TABLE IF EXISTS mi_musica;
 COPY mi_musica FROM '/tmp/musica.csv' WITH (FORMAT csv, HEADER true);
 
 COPY mis_artistas FROM '/tmp/artists.csv' WITH (FORMAT csv, HEADER true);
+
+-- Data select
+-- all music
+SELECT
+    m.id,
+    m.trackname,
+    m.started_at::TIMESTAMP(0) AS starttime,
+    m.endtime,
+    m.msplayed,
+    m.msplayed / (60 * 1000.0) AS "minutes played",
+    m.artistname,
+    a.genre AS artist_genre,
+    a.general_genre AS artist_general_genre
+FROM mi_musica m
+    JOIN mis_artistas a ON m.artistname = a.artistname
+WHERE a.genre IS NOT NULL;
+
+-- music with non null genre
+SELECT
+    m.id,
+    m.trackname,
+    m.started_at::TIMESTAMP(0) AS starttime,
+    m.endtime,
+    m.msplayed,
+    m.msplayed / (60 * 1000.0) AS "minutes played",
+    m.artistname,
+    a.genre AS artist_genre,
+    a.general_genre AS artist_general_genre
+FROM mi_musica m
+    JOIN mis_artistas a ON m.artistname = a.artistname
+WHERE a.genre IS NOT NULL;
+
+-- general genres
+SELECT DISTINCT artistname, genre_color
+FROM mis_artistas;
+
+-- artists
+SELECT artistname, general_genre FROM mis_artistas;
+
+SELECT artistname, genre FROM mis_artistas;
+
+SELECT
+    m.id,
+    m.trackname,
+    m.started_at::TIMESTAMP(0) AS starttime,
+    m.endtime,
+    m.msplayed,
+    m.msplayed / (60 * 1000.0) AS "minutes played",
+    m.artistname,
+    a.genre AS artist_genre,
+    a.general_genre AS artist_general_genre
+FROM mi_musica m
+    JOIN mis_artistas a ON m.artistname = a.artistname
+WHERE a.general_genre IN (
+    SELECT
+        a2.general_genre AS artist_general_genre
+    FROM mi_musica m2
+        JOIN mis_artistas a2 ON m2.artistname = a2.artistname
+    GROUP BY a2.general_genre
+    ORDER BY SUM(m2.msplayed) DESC
+    LIMIT 15
+);

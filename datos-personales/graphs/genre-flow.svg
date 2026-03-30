@@ -1,0 +1,974 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1500">
+    <link rel="icon" href="../../favicon.ico" type="image/png" />
+    <rect width="900" height="1500" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g transform="translate(65,20)" id="visualization">
+        <g>
+            <rect x="0" y="114.99999999999989" height="654.7234678243938" width="5" fill="black">
+                <title>rock: 869256492</title>
+            </rect>
+            <rect x="790" y="-3.410605131648481e-13" height="488.39516071565265" width="5"
+                fill="black">
+                <title>argentine rock: 648427443</title>
+            </rect>
+            <rect x="0" y="774.7234678243937" height="228.6593987379705" width="5" fill="black">
+                <title>indie: 303584149</title>
+            </rect>
+            <rect x="790" y="493.3951607156523" height="212.10348542765735" width="5" fill="black">
+                <title>indie: 281603365</title>
+            </rect>
+            <rect x="0" y="1008.3828665623641" height="99.58999648377676" width="5" fill="black">
+                <title>reggae: 132222618</title>
+            </rect>
+            <rect x="0" y="1112.972863046141" height="93.23167018027789" width="5" fill="black">
+                <title>pop: 123780861</title>
+            </rect>
+            <rect x="790" y="710.4986461433097" height="79.96380817590773" width="5" fill="black">
+                <title>reggae en español: 106165523</title>
+            </rect>
+            <rect x="790" y="795.4624543192174" height="61.69241921118328" width="5" fill="black">
+                <title>funk rock: 81907154</title>
+            </rect>
+            <rect x="0" y="1211.2045332264188" height="38.402797067828715" width="5" fill="black">
+                <title>trap: 50986229</title>
+            </rect>
+            <rect x="790" y="862.1548735304007" height="38.2906343792456" width="5" fill="black">
+                <title>argentine trap: 50837314</title>
+            </rect>
+            <rect x="790" y="905.4455079096463" height="28.45429084284558" width="5" fill="black">
+                <title>rock en español: 37777899</title>
+            </rect>
+            <rect x="790" y="938.8997987524918" height="24.651884186150028" width="5" fill="black">
+                <title>soft pop: 32729559</title>
+            </rect>
+            <rect x="790" y="968.5516829386419" height="21.28718806250879" width="5" fill="black">
+                <title>folk pop: 28262354</title>
+            </rect>
+            <rect x="790" y="994.8388710011507" height="18.37347309214215" width="5" fill="black">
+                <title>reggae: 24393903</title>
+            </rect>
+            <rect x="0" y="1254.6073302942475" height="16.242281833542393" width="5" fill="black">
+                <title>bossa nova: 21564385</title>
+            </rect>
+            <rect x="790" y="1018.2123440932928" height="16.242281833542393" width="5" fill="black">
+                <title>bossa nova: 21564385</title>
+            </rect>
+            <rect x="0" y="1275.84961212779" height="15.7617376038354" width="5" fill="black">
+                <title>latin: 20926381</title>
+            </rect>
+            <rect x="790" y="1039.4546259268352" height="14.935520794901095" width="5" fill="black">
+                <title>surf rock: 19829438</title>
+            </rect>
+            <rect x="790" y="1059.3901467217363" height="14.737946800808459" width="5" fill="black">
+                <title>garage rock: 19567125</title>
+            </rect>
+            <rect x="790" y="1079.1280935225448" height="13.217109922429927" width="5" fill="black">
+                <title>latin hip hop: 17547956</title>
+            </rect>
+            <rect x="790" y="1097.3452034449747" height="11.129535687858379" width="5" fill="black">
+                <title>britpop: 14776347</title>
+            </rect>
+            <rect x="790" y="1113.474739132833" height="9.960746468424986" width="5" fill="black">
+                <title>bedroom pop: 13224581</title>
+            </rect>
+            <rect x="790" y="1128.435485601258" height="8.884774010997717" width="5" fill="black">
+                <title>pop: 11796045</title>
+            </rect>
+            <rect x="0" y="1296.6113497316253" height="8.88252797038831" width="5" fill="black">
+                <title>house: 11793063</title>
+            </rect>
+            <rect x="790" y="1142.3202596122558" height="8.789299208310922" width="5" fill="black">
+                <title>alternative rock: 11669286</title>
+            </rect>
+            <rect x="790" y="1156.1095588205667" height="8.751209161476481" width="5" fill="black">
+                <title>classic rock: 11618715</title>
+            </rect>
+            <rect x="790" y="1169.8607679820432" height="8.126216350925006" width="5" fill="black">
+                <title>latin indie: 10788931</title>
+            </rect>
+            <rect x="790" y="1182.9869843329682" height="7.378756330805118" width="5" fill="black">
+                <title>indie soul: 9796551</title>
+            </rect>
+            <rect x="790" y="1195.3657406637733" height="7.106392649135387" width="5" fill="black">
+                <title>rock argentino: 9434942</title>
+            </rect>
+            <rect x="790" y="1207.4721333129087" height="6.556388370802551" width="5" fill="black">
+                <title>latin pop: 8704718</title>
+            </rect>
+            <rect x="790" y="1219.0285216837112" height="6.3830696569734755" width="5" fill="black">
+                <title>tropical house: 8474608</title>
+            </rect>
+            <rect x="790" y="1230.4115913406847" height="5.957435923091452" width="5" fill="black">
+                <title>soft rock: 7909507</title>
+            </rect>
+            <rect x="790" y="1241.3690272637762" height="5.795083039320389" width="5" fill="black">
+                <title>indie rock: 7693956</title>
+            </rect>
+            <rect x="790" y="1252.1641103030965" height="5.372816859953673" width="5" fill="black">
+                <title>latin rock: 7133326</title>
+            </rect>
+            <rect x="0" y="1310.4938777020136" height="4.512669171269408" width="5" fill="black">
+                <title>neo-psychedelic: 5991334</title>
+            </rect>
+            <rect x="790" y="1262.5369271630502" height="4.512669171269408" width="5" fill="black">
+                <title>neo-psychedelic: 5991334</title>
+            </rect>
+            <rect x="0" y="1320.006546873283" height="3.5081580132725776" width="5" fill="black">
+                <title>trova: 4657675</title>
+            </rect>
+            <rect x="790" y="1272.0495963343196" height="3.5081580132725776" width="5" fill="black">
+                <title>trova: 4657675</title>
+            </rect>
+            <rect x="0" y="1328.5147048865556" height="3.314493124063574" width="5" fill="black">
+                <title>axé: 4400552</title>
+            </rect>
+            <rect x="790" y="1280.5577543475922" height="3.314493124063574" width="5" fill="black">
+                <title>axé: 4400552</title>
+            </rect>
+            <rect x="0" y="1336.8291980106192" height="2.77765703083287" width="5" fill="black">
+                <title>motown: 3687811</title>
+            </rect>
+            <rect x="790" y="1288.8722474716558" height="2.77765703083287" width="5" fill="black">
+                <title>motown: 3687811</title>
+            </rect>
+            <rect x="790" y="1296.6499045024887" height="2.7746751144100017" width="5" fill="black">
+                <title>dansk pop: 3683852</title>
+            </rect>
+            <rect x="0" y="1344.606855041452" height="2.71709527991311" width="5" fill="black">
+                <title>candombe: 3607405</title>
+            </rect>
+            <rect x="790" y="1304.4245796168987" height="2.71709527991311" width="5" fill="black">
+                <title>candombe: 3607405</title>
+            </rect>
+            <rect x="0" y="1352.3239503213651" height="2.6760496786350814" width="5" fill="black">
+                <title>trip hop: 3552910</title>
+            </rect>
+            <rect x="790" y="1312.1416748968118" height="2.6760496786350814" width="5" fill="black">
+                <title>trip hop: 3552910</title>
+            </rect>
+            <rect x="790" y="1319.8177245754468" height="2.3452497747509824" width="5" fill="black">
+                <title>colombian pop: 3113717</title>
+            </rect>
+            <rect x="790" y="1327.1629743501978" height="2.2466198197794256" width="5" fill="black">
+                <title>folk rock: 2982769</title>
+            </rect>
+            <rect x="790" y="1334.4095941699773" height="2.201191351195348" width="5" fill="black">
+                <title>french house: 2922455</title>
+            </rect>
+            <rect x="790" y="1341.6107855211726" height="1.9394628450470464" width="5" fill="black">
+                <title>french indie pop: 2574966</title>
+            </rect>
+            <rect x="790" y="1348.5502483662196" height="1.7217852057810887" width="5" fill="black">
+                <title>dream pop: 2285962</title>
+            </rect>
+            <rect x="790" y="1355.2720335720007" height="1.5892070474733373" width="5" fill="black">
+                <title>baroque pop: 2109942</title>
+            </rect>
+            <rect x="790" y="1361.861240619474" height="1.3851389681578894" width="5" fill="black">
+                <title>latin alternative: 1839007</title>
+            </rect>
+            <rect x="790" y="1368.246379587632" height="1.1766722043489608" width="5" fill="black">
+                <title>yacht rock: 1562232</title>
+            </rect>
+            <rect x="790" y="1374.423051791981" height="1.1134991111109684" width="5" fill="black">
+                <title>reggaeton: 1478359</title>
+            </rect>
+            <rect x="790" y="1380.536550903092" height="1.050940628583021" width="5" fill="black">
+                <title>mexican indie: 1395302</title>
+            </rect>
+            <rect x="790" y="1386.587491531675" height="0.6856622689854248" width="5" fill="black">
+                <title>latin folk: 910333</title>
+            </rect>
+            <rect x="790" y="1392.2731538006603" height="0.3841610685442447" width="5" fill="black">
+                <title>progressive rock: 510039</title>
+            </rect>
+            <rect x="790" y="1397.6573148692046" height="0.3505337281521861" width="5" fill="black">
+                <title>art rock: 465393</title>
+            </rect>
+            <rect x="790" y="1403.0078485973568" height="0.344695679606275" width="5" fill="black">
+                <title>blues rock: 457642</title>
+            </rect>
+            <rect x="790" y="1408.352544276963" height="0.29826696221948623" width="5" fill="black">
+                <title>disco house: 396000</title>
+            </rect>
+            <rect x="790" y="1413.6508112391825" height="0.239096370590687" width="5" fill="black">
+                <title>latin afrobeats: 317441</title>
+            </rect>
+            <rect x="790" y="1418.8899076097732" height="0.20324709197006996" width="5" fill="black">
+                <title>french pop: 269845</title>
+            </rect>
+            <rect x="790" y="1424.0931547017433" height="0.19426518913041946" width="5" fill="black">
+                <title>finnish rock: 257920</title>
+            </rect>
+            <rect x="790" y="1429.2874198908737" height="0.17823710590823794" width="5" fill="black">
+                <title>art pop: 236640</title>
+            </rect>
+            <rect x="790" y="1434.465656996782" height="0.1472858829827146" width="5" fill="black">
+                <title>latin: 195547</title>
+            </rect>
+            <rect x="790" y="1439.6129428797647" height="0.1392161046160254" width="5" fill="black">
+                <title>reggaeton mexa: 184833</title>
+            </rect>
+            <rect x="790" y="1444.7521589843807" height="0.11216268858311196" width="5" fill="black">
+                <title>chilean trap: 148915</title>
+            </rect>
+            <rect x="790" y="1449.8643216729638" height="0.08744419068898424" width="5" fill="black">
+                <title>trap latino: 116097</title>
+            </rect>
+            <rect x="790" y="1454.9517658636528" height="0.020530709232843947" width="5"
+                fill="black">
+                <title>rap rock: 27258</title>
+            </rect>
+            <rect x="790" y="1459.9722965728856" height="0.01671876707177944" width="5" fill="black">
+                <title>reggae rock: 22197</title>
+            </rect>
+            <rect x="790" y="1464.9890153399574" height="0.00928920819455925" width="5" fill="black">
+                <title>electropop: 12333</title>
+            </rect>
+            <rect x="790" y="1469.998304548152" height="0.001695451848263474" width="5" fill="black">
+                <title>rock: 2251</title>
+            </rect>
+        </g>
+        <g fill="none" stroke-opacity="0.6">
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,744.309043059746C397.5,744.309043059746,397.5,1198.918936988341,790,1198.918936988341"
+                    stroke="rgb(255, 116, 27)" stroke-width="7.106392649135397" />
+                <title>rock → rock argentino: 9434942</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1175.0218442168705C397.5,1175.0218442168705,397.5,1118.4551123670456,790,1118.4551123670456"
+                    stroke="rgb(231, 214, 47)" stroke-width="9.960746468425098" />
+                <title>pop → bedroom pop: 13224581</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,727.6099879695465C397.5,727.6099879695465,397.5,1146.7149092164111,790,1146.7149092164111"
+                    stroke="rgb(255, 116, 27)" stroke-width="8.78929920831083" />
+                <title>rock → alternative rock: 11669286</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,359.1975803578262C397.5,359.1975803578262,397.5,244.19758035782598,790,244.19758035782598"
+                    stroke="rgb(255, 116, 27)" stroke-width="488.39516071565265" />
+                <title>rock → argentine rock: 648427443</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,701.009631167132C397.5,701.009631167132,397.5,1046.9223863242858,790,1046.9223863242858"
+                    stroke="rgb(255, 116, 27)" stroke-width="14.935520794901134" />
+                <title>rock → surf rock: 19829438</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1148.2683412635454C397.5,1148.2683412635454,397.5,979.1952769698962,790,979.1952769698962"
+                    stroke="rgb(231, 214, 47)" stroke-width="21.287188062508744" />
+                <title>pop → folk pop: 28262354</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1125.298805139216C397.5,1125.298805139216,397.5,951.2257408455669,790,951.2257408455669"
+                    stroke="rgb(231, 214, 47)" stroke-width="24.651884186150085" />
+                <title>pop → soft pop: 32729559</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1338.2180265260356C397.5,1338.2180265260356,397.5,1290.2610759870722,790,1290.2610759870722"
+                    stroke="rgb(119, 254, 98)" stroke-width="2.7776570308329034" />
+                <title>motown → motown: 3687811</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,679.3147253482588C397.5,679.3147253482588,397.5,919.6726533310691,790,919.6726533310691"
+                    stroke="rgb(255, 116, 27)" stroke-width="28.45429084284561" />
+                <title>rock → rock en español: 37777899</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,990.8900614275135C397.5,990.8900614275135,397.5,1173.9238761575057,790,1173.9238761575057"
+                    stroke="rgb(40, 218, 191)" stroke-width="8.126216350924999" />
+                <title>indie → latin indie: 10788931</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1230.3498504160416C397.5,1230.3498504160416,397.5,881.3001907200235,790,881.3001907200235"
+                    stroke="rgb(221, 64, 17)" stroke-width="38.290634379245574" />
+                <title>trap → argentine trap: 50837314</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1048.364770650318C397.5,1048.364770650318,397.5,750.4805502312635,790,750.4805502312635"
+                    stroke="rgb(255, 169, 36)" stroke-width="79.96380817590769" />
+                <title>reggae → reggae en español: 106165523</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1097.533411284343C397.5,1097.533411284343,397.5,1004.0256075472217,790,1004.0256075472217"
+                    stroke="rgb(255, 169, 36)" stroke-width="18.373473092142156" />
+                <title>reggae → reggae: 24393903</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1282.458167089005C397.5,1282.458167089005,397.5,1085.7366484837598,790,1085.7366484837598"
+                    stroke="rgb(68, 245, 141)" stroke-width="13.217109922429982" />
+                <title>latin → latin hip hop: 17547956</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,762.3011667767026C397.5,762.3011667767026,397.5,1254.8505187330734,790,1254.8505187330734"
+                    stroke="rgb(255, 116, 27)" stroke-width="5.372816859953819" />
+                <title>rock → latin rock: 7133326</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,880.7752105382223C397.5,880.7752105382223,397.5,599.4469034294809,790,599.4469034294809"
+                    stroke="rgb(40, 218, 191)" stroke-width="212.10348542765732" />
+                <title>indie → indie: 281603365</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1192.165185647482C397.5,1192.165185647482,397.5,1210.75032749831,790,1210.75032749831"
+                    stroke="rgb(231, 214, 47)" stroke-width="6.556388370802552" />
+                <title>pop → latin pop: 8704718</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1184.4446044565818C397.5,1184.4446044565818,397.5,1132.877872606757,790,1132.877872606757"
+                    stroke="rgb(231, 214, 47)" stroke-width="8.884774010997667" />
+                <title>pop → pop: 11796045</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,750.8409573458595C397.5,750.8409573458595,397.5,1233.3903093022304,790,1233.3903093022304"
+                    stroke="rgb(255, 116, 27)" stroke-width="5.957435923091521" />
+                <title>rock → soft rock: 7909507</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,766.1108851165692C397.5,766.1108851165692,397.5,1328.2862842600875,790,1328.2862842600875"
+                    stroke="rgb(255, 116, 27)" stroke-width="2.246619819779384" />
+                <title>rock → folk rock: 2982769</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1289.7592915342987C397.5,1289.7592915342987,397.5,1362.553810103553,790,1362.553810103553"
+                    stroke="rgb(68, 245, 141)" stroke-width="1.385138968157784" />
+                <title>latin → latin alternative: 1839007</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1164.4767031387287C397.5,1164.4767031387287,397.5,1102.9099712889038,790,1102.9099712889038"
+                    stroke="rgb(231, 214, 47)" stroke-width="11.129535687858375" />
+                <title>pop → britpop: 14776347</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1299.802884560112C397.5,1299.802884560112,397.5,1222.220056512198,790,1222.220056512198"
+                    stroke="rgb(40, 177, 234)" stroke-width="6.383069656973411" />
+                <title>house → tropical house: 8474608</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,715.8463649649868C397.5,715.8463649649868,397.5,1066.7591201221405,790,1066.7591201221405"
+                    stroke="rgb(255, 116, 27)" stroke-width="14.737946800808468" />
+                <title>rock → garage rock: 19567125</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1312.7502122876483C397.5,1312.7502122876483,397.5,1264.793261748685,790,1264.793261748685"
+                    stroke="rgb(179, 243, 67)" stroke-width="4.512669171269413" />
+                <title>neo-psychedelic → neo-psychedelic: 5991334</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1201.5330361445676C397.5,1201.5330361445676,397.5,1342.580516943696,790,1342.580516943696"
+                    stroke="rgb(231, 214, 47)" stroke-width="1.9394628450470153" />
+                <title>pop → french indie pop: 2574966</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,634.2413703212442C397.5,634.2413703212442,397.5,826.308663924809,790,826.308663924809"
+                    stroke="rgb(255, 116, 27)" stroke-width="61.69241921118338" />
+                <title>rock → funk rock: 81907154</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1196.8307173900882C397.5,1196.8307173900882,397.5,1298.0372420596937,790,1298.0372420596937"
+                    stroke="rgb(231, 214, 47)" stroke-width="2.7746751144101074" />
+                <title>pop → dansk pop: 3683852</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1206.1998886223214C397.5,1206.1998886223214,397.5,1464.9936599440548,790,1464.9936599440548"
+                    stroke="rgb(231, 214, 47)" stroke-width="1" />
+                <title>pop → electropop: 12333</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1290.7946921528703C397.5,1290.7946921528703,397.5,1386.9303226661675,790,1386.9303226661675"
+                    stroke="rgb(68, 245, 141)" stroke-width="1" />
+                <title>latin → latin folk: 910333</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1199.3906798346686C397.5,1199.3906798346686,397.5,1320.9903494628222,790,1320.9903494628222"
+                    stroke="rgb(231, 214, 47)" stroke-width="2.3452497747509122" />
+                <title>pop → colombian pop: 3113717</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1345.9654026814087C397.5,1345.9654026814087,397.5,1305.7831272568553,790,1305.7831272568553"
+                    stroke="rgb(61, 126, 248)" stroke-width="2.717095279913144" />
+                <title>candombe → candombe: 3607405</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1304.0950150641963C397.5,1304.0950150641963,397.5,1335.5101898455748,790,1335.5101898455748"
+                    stroke="rgb(40, 177, 234)" stroke-width="2.201191351195268" />
+                <title>house → french house: 2922455</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,756.7172168270655C397.5,756.7172168270655,397.5,1244.2665687834362,790,1244.2665687834362"
+                    stroke="rgb(255, 116, 27)" stroke-width="5.795083039320345" />
+                <title>rock → indie rock: 7693956</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,998.6425477683786C397.5,998.6425477683786,397.5,1186.6763624983707,790,1186.6763624983707"
+                    stroke="rgb(40, 218, 191)" stroke-width="7.378756330805215" />
+                <title>indie → indie soul: 9796551</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1321.7606258799192C397.5,1321.7606258799192,397.5,1273.8036753409558,790,1273.8036753409558"
+                    stroke="rgb(144, 12, 0)" stroke-width="3.5081580132725465" />
+                <title>trova → trova: 4657675</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1107.2768973859693C397.5,1107.2768973859693,397.5,1374.9798013475363,790,1374.9798013475363"
+                    stroke="rgb(255, 169, 36)" stroke-width="1.1134991111109274" />
+                <title>reggae → reggaeton: 1478359</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1305.344744220904C397.5,1305.344744220904,397.5,1408.501677758073,790,1408.501677758073"
+                    stroke="rgb(40, 177, 234)" stroke-width="1" />
+                <title>house → disco house: 396000</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1205.019156296609C397.5,1205.019156296609,397.5,1356.0666370957374,790,1356.0666370957374"
+                    stroke="rgb(231, 214, 47)" stroke-width="1.5892070474733218" />
+                <title>pop → baroque pop: 2109942</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1203.3636601699818C397.5,1203.3636601699818,397.5,1349.4111409691102,790,1349.4111409691102"
+                    stroke="rgb(231, 214, 47)" stroke-width="1.7217852057811112" />
+                <title>pop → dream pop: 2285962</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,767.8225311286334C397.5,767.8225311286334,397.5,1368.8347156898064,790,1368.8347156898064"
+                    stroke="rgb(255, 116, 27)" stroke-width="1.1766722043489073" />
+                <title>rock → yacht rock: 1562232</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,736.3802421544401C397.5,736.3802421544401,397.5,1160.4851634013048,790,1160.4851634013048"
+                    stroke="rgb(255, 116, 27)" stroke-width="8.751209161476474" />
+                <title>rock → classic rock: 11618715</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1002.8573962480727C397.5,1002.8573962480727,397.5,1381.0620212173833,790,1381.0620212173833"
+                    stroke="rgb(40, 218, 191)" stroke-width="1.0509406285829757" />
+                <title>indie → mexican indie: 1395302</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,769.6947882508572C397.5,769.6947882508572,397.5,1454.9620312182692,790,1454.9620312182692"
+                    stroke="rgb(255, 116, 27)" stroke-width="1" />
+                <title>rock → rap rock: 27258</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,768.60294776508C397.5,768.60294776508,397.5,1392.4652343349323,790,1392.4652343349323"
+                    stroke="rgb(255, 116, 27)" stroke-width="1" />
+                <title>rock → progressive rock: 510039</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1291.567627636281C397.5,1291.567627636281,397.5,1449.9080437683083,790,1449.9080437683083"
+                    stroke="rgb(68, 245, 141)" stroke-width="1" />
+                <title>latin → trap latino: 116097</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,769.5873903016756C397.5,769.5873903016756,397.5,1424.1902872963085,790,1424.1902872963085"
+                    stroke="rgb(255, 116, 27)" stroke-width="1" />
+                <title>rock → finnish rock: 257920</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,769.3179098673072C397.5,769.3179098673072,397.5,1403.1801964371598,790,1403.1801964371598"
+                    stroke="rgb(255, 116, 27)" stroke-width="1" />
+                <title>rock → blues rock: 457642</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1353.6619751606827C397.5,1353.6619751606827,397.5,1313.4796997361293,790,1313.4796997361293"
+                    stroke="rgb(171, 24, 5)" stroke-width="2.6760496786349766" />
+                <title>trip hop → trip hop: 3552910</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1206.1061254652698C397.5,1206.1061254652698,397.5,1429.3765384438277,790,1429.3765384438277"
+                    stroke="rgb(231, 214, 47)" stroke-width="1" />
+                <title>pop → art pop: 236640</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,768.9702951634281C397.5,768.9702951634281,397.5,1397.8325817332807,790,1397.8325817332807"
+                    stroke="rgb(255, 116, 27)" stroke-width="1" />
+                <title>rock → art rock: 465393</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1107.903254993833C397.5,1107.903254993833,397.5,1439.6825509320727,790,1439.6825509320727"
+                    stroke="rgb(255, 169, 36)" stroke-width="1" />
+                <title>reggae → reggaeton mexa: 184833</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1330.1719514485874C397.5,1330.1719514485874,397.5,1282.215000909624,790,1282.215000909624"
+                    stroke="rgb(35, 23, 27)" stroke-width="3.3144931240635147" />
+                <title>axé → axé: 4400552</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1291.2570714726585C397.5,1291.2570714726585,397.5,1413.7703594244779,790,1413.7703594244779"
+                    stroke="rgb(68, 245, 141)" stroke-width="1" />
+                <title>latin → latin afrobeats: 317441</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1249.551248949956C397.5,1249.551248949956,397.5,1444.8082403286724,790,1444.8082403286724"
+                    stroke="rgb(221, 64, 17)" stroke-width="1" />
+                <title>trap → chilean trap: 148915</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1291.450262599445C397.5,1291.450262599445,397.5,1434.5392999382732,790,1434.5392999382732"
+                    stroke="rgb(68, 245, 141)" stroke-width="1" />
+                <title>latin → latin: 195547</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1205.9153833663306C397.5,1205.9153833663306,397.5,1418.9915311557581,790,1418.9915311557581"
+                    stroke="rgb(231, 214, 47)" stroke-width="1" />
+                <title>pop → french pop: 269845</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,1262.7284712110186C397.5,1262.7284712110186,397.5,1026.333485010064,790,1026.333485010064"
+                    stroke="rgb(75, 72, 195)" stroke-width="16.242281833542336" />
+                <title>bossa nova → bossa nova: 21564385</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,769.7134129890094C397.5,769.7134129890094,397.5,1459.9806559564215,790,1459.9806559564215"
+                    stroke="rgb(255, 116, 27)" stroke-width="1" />
+                <title>rock → reggae rock: 22197</title>
+            </g>
+            <g style="mix-blend-mode: normal;">
+                <path
+                    d="M5,769.7226200984693C397.5,769.7226200984693,397.5,1469.999152274076,790,1469.999152274076"
+                    stroke="rgb(255, 116, 27)" stroke-width="1" />
+                <title>rock → rock: 2251</title>
+            </g>
+        </g>
+        <g>
+            <text x="9" y="442.36173391219677" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    rock</tspan>
+            </text>
+            <text x="786" y="244.19758035782598" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">argentine
+                    rock</tspan>
+            </text>
+            <text x="9" y="889.0531671933788" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    indie</tspan>
+            </text>
+            <text x="786" y="599.4469034294809" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    indie</tspan>
+            </text>
+            <text x="9" y="1058.1778648042525" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    reggae</tspan>
+            </text>
+            <text x="9" y="1159.5886981362798" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    pop</tspan>
+            </text>
+            <text x="786" y="750.4805502312636" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">reggae
+                    en español</tspan>
+            </text>
+            <text x="786" y="826.308663924809" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">funk
+                    rock</tspan>
+            </text>
+            <text x="9" y="1230.4059317603333" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    trap</tspan>
+            </text>
+            <text x="786" y="881.3001907200235" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">argentine
+                    trap</tspan>
+            </text>
+            <text x="786" y="919.6726533310691" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">rock
+                    en español</tspan>
+            </text>
+            <text x="786" y="951.2257408455669" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">soft
+                    pop</tspan>
+            </text>
+            <text x="786" y="979.1952769698962" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">folk
+                    pop</tspan>
+            </text>
+            <text x="786" y="1004.0256075472217" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    reggae</tspan>
+            </text>
+            <text x="9" y="1262.7284712110186" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">bossa
+                    nova</tspan>
+            </text>
+            <text x="786" y="1026.3334850100641" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">bossa
+                    nova</tspan>
+            </text>
+            <text x="9" y="1283.7304809297075" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    latin</tspan>
+            </text>
+            <text x="786" y="1046.9223863242858" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">surf
+                    rock</tspan>
+            </text>
+            <text x="786" y="1066.7591201221405" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">garage
+                    rock</tspan>
+            </text>
+            <text x="786" y="1085.7366484837598" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">latin
+                    hip hop</tspan>
+            </text>
+            <text x="786" y="1102.9099712889038" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    britpop</tspan>
+            </text>
+            <text x="786" y="1118.4551123670456" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">bedroom
+                    pop</tspan>
+            </text>
+            <text x="786" y="1132.877872606757" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    pop</tspan>
+            </text>
+            <text x="9" y="1301.0526137168195" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    house</tspan>
+            </text>
+            <text x="786" y="1146.7149092164113" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">alternative
+                    rock</tspan>
+            </text>
+            <text x="786" y="1160.4851634013048" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">classic
+                    rock</tspan>
+            </text>
+            <text x="786" y="1173.9238761575057" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">latin
+                    indie</tspan>
+            </text>
+            <text x="786" y="1186.6763624983707" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">indie
+                    soul</tspan>
+            </text>
+            <text x="786" y="1198.918936988341" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">rock
+                    argentino</tspan>
+            </text>
+            <text x="786" y="1210.75032749831" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">latin
+                    pop</tspan>
+            </text>
+            <text x="786" y="1222.220056512198" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">tropical
+                    house</tspan>
+            </text>
+            <text x="786" y="1233.3903093022304" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">soft
+                    rock</tspan>
+            </text>
+            <text x="786" y="1244.2665687834365" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">indie
+                    rock</tspan>
+            </text>
+            <text x="786" y="1254.8505187330734" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">latin
+                    rock</tspan>
+            </text>
+            <text x="9" y="1312.7502122876483" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    neo-psychedelic</tspan>
+            </text>
+            <text x="786" y="1264.793261748685" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    neo-psychedelic</tspan>
+            </text>
+            <text x="9" y="1321.7606258799192" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    trova</tspan>
+            </text>
+            <text x="786" y="1273.803675340956" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    trova</tspan>
+            </text>
+            <text x="9" y="1330.1719514485874" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    axé</tspan>
+            </text>
+            <text x="786" y="1282.215000909624" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    axé</tspan>
+            </text>
+            <text x="9" y="1338.2180265260356" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    motown</tspan>
+            </text>
+            <text x="786" y="1290.2610759870722" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    motown</tspan>
+            </text>
+            <text x="786" y="1298.0372420596937" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">dansk
+                    pop</tspan>
+            </text>
+            <text x="9" y="1345.9654026814087" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    candombe</tspan>
+            </text>
+            <text x="786" y="1305.783127256855" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    candombe</tspan>
+            </text>
+            <text x="9" y="1353.6619751606827" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">trip
+                    hop</tspan>
+            </text>
+            <text x="786" y="1313.4796997361293" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">trip
+                    hop</tspan>
+            </text>
+            <text x="786" y="1320.9903494628225" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">colombian
+                    pop</tspan>
+            </text>
+            <text x="786" y="1328.2862842600875" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">folk
+                    rock</tspan>
+            </text>
+            <text x="786" y="1335.510189845575" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">french
+                    house</tspan>
+            </text>
+            <text x="786" y="1342.5805169436962" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">french
+                    indie pop</tspan>
+            </text>
+            <text x="786" y="1349.4111409691102" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">dream
+                    pop</tspan>
+            </text>
+            <text x="786" y="1356.0666370957374" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">baroque
+                    pop</tspan>
+            </text>
+            <text x="786" y="1362.5538101035531" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">latin
+                    alternative</tspan>
+            </text>
+            <text x="786" y="1368.8347156898064" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">yacht
+                    rock</tspan>
+            </text>
+            <text x="786" y="1374.9798013475365" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    reggaeton</tspan>
+            </text>
+            <text x="786" y="1381.0620212173835" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">mexican
+                    indie</tspan>
+            </text>
+            <text x="786" y="1386.9303226661677" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">latin
+                    folk</tspan>
+            </text>
+            <text x="786" y="1392.4652343349326" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">progressive
+                    rock</tspan>
+            </text>
+            <text x="786" y="1397.8325817332807" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">art
+                    rock</tspan>
+            </text>
+            <text x="786" y="1403.1801964371598" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">blues
+                    rock</tspan>
+            </text>
+            <text x="786" y="1408.5016777580727" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">disco
+                    house</tspan>
+            </text>
+            <text x="786" y="1413.7703594244779" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">latin
+                    afrobeats</tspan>
+            </text>
+            <text x="786" y="1418.9915311557584" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">french
+                    pop</tspan>
+            </text>
+            <text x="786" y="1424.1902872963085" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">finnish
+                    rock</tspan>
+            </text>
+            <text x="786" y="1429.376538443828" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">art
+                    pop</tspan>
+            </text>
+            <text x="786" y="1434.5392999382734" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    latin</tspan>
+            </text>
+            <text x="786" y="1439.6825509320727" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">reggaeton
+                    mexa</tspan>
+            </text>
+            <text x="786" y="1444.8082403286721" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">chilean
+                    trap</tspan>
+            </text>
+            <text x="786" y="1449.9080437683083" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">trap
+                    latino</tspan>
+            </text>
+            <text x="786" y="1454.9620312182692" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">rap
+                    rock</tspan>
+            </text>
+            <text x="786" y="1459.9806559564215" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">reggae
+                    rock</tspan>
+            </text>
+            <text x="786" y="1464.9936599440548" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    electropop</tspan>
+            </text>
+            <text x="786" y="1469.999152274076" text-anchor="end">
+                <tspan alignment-baseline="middle" x="786"
+                    style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">
+                    rock</tspan>
+            </text>
+        </g>
+        <g>
+            <text x="2.5" y="110.99999999999989" text-anchor="middle"
+                style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">
+                artist_general_genre</text>
+            <text x="792.5" y="-4.000000000000341" text-anchor="middle"
+                style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">
+                artist_genre</text>
+        </g>
+    </g>
+</svg>
