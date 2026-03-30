@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1500"
+   version="1.1"
+   id="svg210"
+   sodipodi:docname="a.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs210" />
+  <sodipodi:namedview
+     id="namedview210"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.0566053"
+     inkscape:cx="865.08857"
+     inkscape:cy="1299.3252"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="visualization" />
+  <rect
+     width="1000"
+     height="1500"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     transform="translate(65,20)"
+     id="visualization">
+    <g
+       id="g74">
+      <rect
+         x="0"
+         y="114.99999999999989"
+         height="654.7234678243938"
+         width="5"
+         fill="black"
+         id="rect1">
+        <title
+           id="title1">rock: 869256492</title>
+      </rect>
+      <rect
+         x="830"
+         y="-3.410605131648481e-13"
+         height="488.39516071565265"
+         width="5"
+         fill="black"
+         id="rect2">
+        <title
+           id="title2">argentine rock: 648427443</title>
+      </rect>
+      <rect
+         x="0"
+         y="774.7234678243937"
+         height="228.6593987379705"
+         width="5"
+         fill="black"
+         id="rect3">
+        <title
+           id="title3">indie: 303584149</title>
+      </rect>
+      <rect
+         x="830"
+         y="493.3951607156523"
+         height="212.10348542765735"
+         width="5"
+         fill="black"
+         id="rect4">
+        <title
+           id="title4">indie: 281603365</title>
+      </rect>
+      <rect
+         x="0"
+         y="1008.3828665623641"
+         height="99.58999648377676"
+         width="5"
+         fill="black"
+         id="rect5">
+        <title
+           id="title5">reggae: 132222618</title>
+      </rect>
+      <rect
+         x="0"
+         y="1112.972863046141"
+         height="93.23167018027789"
+         width="5"
+         fill="black"
+         id="rect6">
+        <title
+           id="title6">pop: 123780861</title>
+      </rect>
+      <rect
+         x="830"
+         y="710.4986461433097"
+         height="79.96380817590773"
+         width="5"
+         fill="black"
+         id="rect7">
+        <title
+           id="title7">reggae en español: 106165523</title>
+      </rect>
+      <rect
+         x="830"
+         y="795.4624543192174"
+         height="61.69241921118328"
+         width="5"
+         fill="black"
+         id="rect8">
+        <title
+           id="title8">funk rock: 81907154</title>
+      </rect>
+      <rect
+         x="0"
+         y="1211.2045332264188"
+         height="38.402797067828715"
+         width="5"
+         fill="black"
+         id="rect9">
+        <title
+           id="title9">trap: 50986229</title>
+      </rect>
+      <rect
+         x="830"
+         y="862.1548735304007"
+         height="38.2906343792456"
+         width="5"
+         fill="black"
+         id="rect10">
+        <title
+           id="title10">argentine trap: 50837314</title>
+      </rect>
+      <rect
+         x="830"
+         y="905.4455079096463"
+         height="28.45429084284558"
+         width="5"
+         fill="black"
+         id="rect11">
+        <title
+           id="title11">rock en español: 37777899</title>
+      </rect>
+      <rect
+         x="830"
+         y="938.8997987524918"
+         height="24.651884186150028"
+         width="5"
+         fill="black"
+         id="rect12">
+        <title
+           id="title12">soft pop: 32729559</title>
+      </rect>
+      <rect
+         x="830"
+         y="968.5516829386419"
+         height="21.28718806250879"
+         width="5"
+         fill="black"
+         id="rect13">
+        <title
+           id="title13">folk pop: 28262354</title>
+      </rect>
+      <rect
+         x="830"
+         y="994.8388710011507"
+         height="18.37347309214215"
+         width="5"
+         fill="black"
+         id="rect14">
+        <title
+           id="title14">reggae: 24393903</title>
+      </rect>
+      <rect
+         x="0"
+         y="1254.6073302942475"
+         height="16.242281833542393"
+         width="5"
+         fill="black"
+         id="rect15">
+        <title
+           id="title15">bossa nova: 21564385</title>
+      </rect>
+      <rect
+         x="830"
+         y="1018.2123440932928"
+         height="16.242281833542393"
+         width="5"
+         fill="black"
+         id="rect16">
+        <title
+           id="title16">bossa nova: 21564385</title>
+      </rect>
+      <rect
+         x="0"
+         y="1275.84961212779"
+         height="15.7617376038354"
+         width="5"
+         fill="black"
+         id="rect17">
+        <title
+           id="title17">latin: 20926381</title>
+      </rect>
+      <rect
+         x="830"
+         y="1039.4546259268352"
+         height="14.935520794901095"
+         width="5"
+         fill="black"
+         id="rect18">
+        <title
+           id="title18">surf rock: 19829438</title>
+      </rect>
+      <rect
+         x="830"
+         y="1059.3901467217363"
+         height="14.737946800808459"
+         width="5"
+         fill="black"
+         id="rect19">
+        <title
+           id="title19">garage rock: 19567125</title>
+      </rect>
+      <rect
+         x="830"
+         y="1079.1280935225448"
+         height="13.217109922429927"
+         width="5"
+         fill="black"
+         id="rect20">
+        <title
+           id="title20">latin hip hop: 17547956</title>
+      </rect>
+      <rect
+         x="830"
+         y="1097.3452034449747"
+         height="11.129535687858379"
+         width="5"
+         fill="black"
+         id="rect21">
+        <title
+           id="title21">britpop: 14776347</title>
+      </rect>
+      <rect
+         x="830"
+         y="1113.474739132833"
+         height="9.960746468424986"
+         width="5"
+         fill="black"
+         id="rect22">
+        <title
+           id="title22">bedroom pop: 13224581</title>
+      </rect>
+      <rect
+         x="830"
+         y="1128.435485601258"
+         height="8.884774010997717"
+         width="5"
+         fill="black"
+         id="rect23">
+        <title
+           id="title23">pop: 11796045</title>
+      </rect>
+      <rect
+         x="0"
+         y="1296.6113497316253"
+         height="8.88252797038831"
+         width="5"
+         fill="black"
+         id="rect24">
+        <title
+           id="title24">house: 11793063</title>
+      </rect>
+      <rect
+         x="830"
+         y="1142.3202596122558"
+         height="8.789299208310922"
+         width="5"
+         fill="black"
+         id="rect25">
+        <title
+           id="title25">alternative rock: 11669286</title>
+      </rect>
+      <rect
+         x="830"
+         y="1156.1095588205667"
+         height="8.751209161476481"
+         width="5"
+         fill="black"
+         id="rect26">
+        <title
+           id="title26">classic rock: 11618715</title>
+      </rect>
+      <rect
+         x="830"
+         y="1169.8607679820432"
+         height="8.126216350925006"
+         width="5"
+         fill="black"
+         id="rect27">
+        <title
+           id="title27">latin indie: 10788931</title>
+      </rect>
+      <rect
+         x="830"
+         y="1182.9869843329682"
+         height="7.378756330805118"
+         width="5"
+         fill="black"
+         id="rect28">
+        <title
+           id="title28">indie soul: 9796551</title>
+      </rect>
+      <rect
+         x="830"
+         y="1195.3657406637733"
+         height="7.106392649135387"
+         width="5"
+         fill="black"
+         id="rect29">
+        <title
+           id="title29">rock argentino: 9434942</title>
+      </rect>
+      <rect
+         x="830"
+         y="1207.4721333129087"
+         height="6.556388370802551"
+         width="5"
+         fill="black"
+         id="rect30">
+        <title
+           id="title30">latin pop: 8704718</title>
+      </rect>
+      <rect
+         x="830"
+         y="1219.0285216837112"
+         height="6.3830696569734755"
+         width="5"
+         fill="black"
+         id="rect31">
+        <title
+           id="title31">tropical house: 8474608</title>
+      </rect>
+      <rect
+         x="830"
+         y="1230.4115913406847"
+         height="5.957435923091452"
+         width="5"
+         fill="black"
+         id="rect32">
+        <title
+           id="title32">soft rock: 7909507</title>
+      </rect>
+      <rect
+         x="830"
+         y="1241.3690272637762"
+         height="5.795083039320389"
+         width="5"
+         fill="black"
+         id="rect33">
+        <title
+           id="title33">indie rock: 7693956</title>
+      </rect>
+      <rect
+         x="830"
+         y="1252.1641103030965"
+         height="5.372816859953673"
+         width="5"
+         fill="black"
+         id="rect34">
+        <title
+           id="title34">latin rock: 7133326</title>
+      </rect>
+      <rect
+         x="0"
+         y="1310.4938777020136"
+         height="4.512669171269408"
+         width="5"
+         fill="black"
+         id="rect35">
+        <title
+           id="title35">neo-psychedelic: 5991334</title>
+      </rect>
+      <rect
+         x="830"
+         y="1262.5369271630502"
+         height="4.512669171269408"
+         width="5"
+         fill="black"
+         id="rect36">
+        <title
+           id="title36">neo-psychedelic: 5991334</title>
+      </rect>
+      <rect
+         x="0"
+         y="1320.006546873283"
+         height="3.5081580132725776"
+         width="5"
+         fill="black"
+         id="rect37">
+        <title
+           id="title37">trova: 4657675</title>
+      </rect>
+      <rect
+         x="830"
+         y="1272.0495963343196"
+         height="3.5081580132725776"
+         width="5"
+         fill="black"
+         id="rect38">
+        <title
+           id="title38">trova: 4657675</title>
+      </rect>
+      <rect
+         x="0"
+         y="1328.5147048865556"
+         height="3.314493124063574"
+         width="5"
+         fill="black"
+         id="rect39">
+        <title
+           id="title39">axé: 4400552</title>
+      </rect>
+      <rect
+         x="830"
+         y="1280.5577543475922"
+         height="3.314493124063574"
+         width="5"
+         fill="black"
+         id="rect40">
+        <title
+           id="title40">axé: 4400552</title>
+      </rect>
+      <rect
+         x="0"
+         y="1336.8291980106192"
+         height="2.77765703083287"
+         width="5"
+         fill="black"
+         id="rect41">
+        <title
+           id="title41">motown: 3687811</title>
+      </rect>
+      <rect
+         x="830"
+         y="1288.8722474716558"
+         height="2.77765703083287"
+         width="5"
+         fill="black"
+         id="rect42">
+        <title
+           id="title42">motown: 3687811</title>
+      </rect>
+      <rect
+         x="830"
+         y="1296.6499045024887"
+         height="2.7746751144100017"
+         width="5"
+         fill="black"
+         id="rect43">
+        <title
+           id="title43">dansk pop: 3683852</title>
+      </rect>
+      <rect
+         x="0"
+         y="1344.606855041452"
+         height="2.71709527991311"
+         width="5"
+         fill="black"
+         id="rect44">
+        <title
+           id="title44">candombe: 3607405</title>
+      </rect>
+      <rect
+         x="830"
+         y="1304.4245796168987"
+         height="2.71709527991311"
+         width="5"
+         fill="black"
+         id="rect45">
+        <title
+           id="title45">candombe: 3607405</title>
+      </rect>
+      <rect
+         x="0"
+         y="1352.3239503213651"
+         height="2.6760496786350814"
+         width="5"
+         fill="black"
+         id="rect46">
+        <title
+           id="title46">trip hop: 3552910</title>
+      </rect>
+      <rect
+         x="830"
+         y="1312.1416748968118"
+         height="2.6760496786350814"
+         width="5"
+         fill="black"
+         id="rect47">
+        <title
+           id="title47">trip hop: 3552910</title>
+      </rect>
+      <rect
+         x="830"
+         y="1319.8177245754468"
+         height="2.3452497747509824"
+         width="5"
+         fill="black"
+         id="rect48">
+        <title
+           id="title48">colombian pop: 3113717</title>
+      </rect>
+      <rect
+         x="830"
+         y="1327.1629743501978"
+         height="2.2466198197794256"
+         width="5"
+         fill="black"
+         id="rect49">
+        <title
+           id="title49">folk rock: 2982769</title>
+      </rect>
+      <rect
+         x="830"
+         y="1334.4095941699773"
+         height="2.201191351195348"
+         width="5"
+         fill="black"
+         id="rect50">
+        <title
+           id="title50">french house: 2922455</title>
+      </rect>
+      <rect
+         x="830"
+         y="1341.6107855211726"
+         height="1.9394628450470464"
+         width="5"
+         fill="black"
+         id="rect51">
+        <title
+           id="title51">french indie pop: 2574966</title>
+      </rect>
+      <rect
+         x="830"
+         y="1348.5502483662196"
+         height="1.7217852057810887"
+         width="5"
+         fill="black"
+         id="rect52">
+        <title
+           id="title52">dream pop: 2285962</title>
+      </rect>
+      <rect
+         x="830"
+         y="1355.2720335720007"
+         height="1.5892070474733373"
+         width="5"
+         fill="black"
+         id="rect53">
+        <title
+           id="title53">baroque pop: 2109942</title>
+      </rect>
+      <rect
+         x="830"
+         y="1361.861240619474"
+         height="1.3851389681578894"
+         width="5"
+         fill="black"
+         id="rect54">
+        <title
+           id="title54">latin alternative: 1839007</title>
+      </rect>
+      <rect
+         x="830"
+         y="1368.246379587632"
+         height="1.1766722043489608"
+         width="5"
+         fill="black"
+         id="rect55">
+        <title
+           id="title55">yacht rock: 1562232</title>
+      </rect>
+      <rect
+         x="830"
+         y="1374.423051791981"
+         height="1.1134991111109684"
+         width="5"
+         fill="black"
+         id="rect56">
+        <title
+           id="title56">reggaeton: 1478359</title>
+      </rect>
+      <rect
+         x="830"
+         y="1380.536550903092"
+         height="1.050940628583021"
+         width="5"
+         fill="black"
+         id="rect57">
+        <title
+           id="title57">mexican indie: 1395302</title>
+      </rect>
+      <rect
+         x="830"
+         y="1386.587491531675"
+         height="0.6856622689854248"
+         width="5"
+         fill="black"
+         id="rect58">
+        <title
+           id="title58">latin folk: 910333</title>
+      </rect>
+      <rect
+         x="830"
+         y="1392.2731538006603"
+         height="0.3841610685442447"
+         width="5"
+         fill="black"
+         id="rect59">
+        <title
+           id="title59">progressive rock: 510039</title>
+      </rect>
+      <rect
+         x="830"
+         y="1397.6573148692046"
+         height="0.3505337281521861"
+         width="5"
+         fill="black"
+         id="rect60">
+        <title
+           id="title60">art rock: 465393</title>
+      </rect>
+      <rect
+         x="830"
+         y="1403.0078485973568"
+         height="0.344695679606275"
+         width="5"
+         fill="black"
+         id="rect61">
+        <title
+           id="title61">blues rock: 457642</title>
+      </rect>
+      <rect
+         x="830"
+         y="1408.352544276963"
+         height="0.29826696221948623"
+         width="5"
+         fill="black"
+         id="rect62">
+        <title
+           id="title62">disco house: 396000</title>
+      </rect>
+      <rect
+         x="830"
+         y="1413.6508112391825"
+         height="0.239096370590687"
+         width="5"
+         fill="black"
+         id="rect63">
+        <title
+           id="title63">latin afrobeats: 317441</title>
+      </rect>
+      <rect
+         x="830"
+         y="1418.8899076097732"
+         height="0.20324709197006996"
+         width="5"
+         fill="black"
+         id="rect64">
+        <title
+           id="title64">french pop: 269845</title>
+      </rect>
+      <rect
+         x="830"
+         y="1424.0931547017433"
+         height="0.19426518913041946"
+         width="5"
+         fill="black"
+         id="rect65">
+        <title
+           id="title65">finnish rock: 257920</title>
+      </rect>
+      <rect
+         x="830"
+         y="1429.2874198908737"
+         height="0.17823710590823794"
+         width="5"
+         fill="black"
+         id="rect66">
+        <title
+           id="title66">art pop: 236640</title>
+      </rect>
+      <rect
+         x="830"
+         y="1434.465656996782"
+         height="0.1472858829827146"
+         width="5"
+         fill="black"
+         id="rect67">
+        <title
+           id="title67">latin: 195547</title>
+      </rect>
+      <rect
+         x="830"
+         y="1439.6129428797647"
+         height="0.1392161046160254"
+         width="5"
+         fill="black"
+         id="rect68">
+        <title
+           id="title68">reggaeton mexa: 184833</title>
+      </rect>
+      <rect
+         x="830"
+         y="1444.7521589843807"
+         height="0.11216268858311196"
+         width="5"
+         fill="black"
+         id="rect69">
+        <title
+           id="title69">chilean trap: 148915</title>
+      </rect>
+      <rect
+         x="830"
+         y="1449.8643216729638"
+         height="0.08744419068898424"
+         width="5"
+         fill="black"
+         id="rect70">
+        <title
+           id="title70">trap latino: 116097</title>
+      </rect>
+      <rect
+         x="830"
+         y="1454.9517658636528"
+         height="0.020530709232843947"
+         width="5"
+         fill="black"
+         id="rect71">
+        <title
+           id="title71">rap rock: 27258</title>
+      </rect>
+      <rect
+         x="830"
+         y="1459.9722965728856"
+         height="0.01671876707177944"
+         width="5"
+         fill="black"
+         id="rect72">
+        <title
+           id="title72">reggae rock: 22197</title>
+      </rect>
+      <rect
+         x="830"
+         y="1464.9890153399574"
+         height="0.00928920819455925"
+         width="5"
+         fill="black"
+         id="rect73">
+        <title
+           id="title73">electropop: 12333</title>
+      </rect>
+      <rect
+         x="830"
+         y="1469.998304548152"
+         height="0.001695451848263474"
+         width="5"
+         fill="black"
+         id="rect74">
+        <title
+           id="title74">rock: 2251</title>
+      </rect>
+    </g>
+    <g
+       fill="none"
+       stroke-opacity="0.65"
+       id="g135">
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g75">
+        <path
+           d="M5,744.309043059746C417.5,744.309043059746,417.5,1198.918936988341,830,1198.918936988341"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="7.106392649135397"
+           id="path74" />
+        <title
+           id="title75">rock → rock argentino: 9434942</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g76">
+        <path
+           d="M5,1175.0218442168705C417.5,1175.0218442168705,417.5,1118.4551123670456,830,1118.4551123670456"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="9.960746468425098"
+           id="path75" />
+        <title
+           id="title76">pop → bedroom pop: 13224581</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g77">
+        <path
+           d="M5,727.6099879695465C417.5,727.6099879695465,417.5,1146.7149092164111,830,1146.7149092164111"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="8.78929920831083"
+           id="path76" />
+        <title
+           id="title77">rock → alternative rock: 11669286</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g78">
+        <path
+           d="M5,359.1975803578262C417.5,359.1975803578262,417.5,244.19758035782598,830,244.19758035782598"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="488.39516071565265"
+           id="path77" />
+        <title
+           id="title78">rock → argentine rock: 648427443</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g79">
+        <path
+           d="M5,701.009631167132C417.5,701.009631167132,417.5,1046.9223863242858,830,1046.9223863242858"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="14.935520794901134"
+           id="path78" />
+        <title
+           id="title79">rock → surf rock: 19829438</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g80">
+        <path
+           d="M5,1148.2683412635454C417.5,1148.2683412635454,417.5,979.1952769698962,830,979.1952769698962"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="21.287188062508744"
+           id="path79" />
+        <title
+           id="title80">pop → folk pop: 28262354</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g81">
+        <path
+           d="M5,1125.298805139216C417.5,1125.298805139216,417.5,951.2257408455669,830,951.2257408455669"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="24.651884186150085"
+           id="path80" />
+        <title
+           id="title81">pop → soft pop: 32729559</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g82">
+        <path
+           d="M5,1338.2180265260356C417.5,1338.2180265260356,417.5,1290.2610759870722,830,1290.2610759870722"
+           stroke="rgb(119, 254, 98)"
+           stroke-width="2.7776570308329034"
+           id="path81" />
+        <title
+           id="title82">motown → motown: 3687811</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g83">
+        <path
+           d="M5,679.3147253482588C417.5,679.3147253482588,417.5,919.6726533310691,830,919.6726533310691"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="28.45429084284561"
+           id="path82" />
+        <title
+           id="title83">rock → rock en español: 37777899</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g84">
+        <path
+           d="M5,990.8900614275135C417.5,990.8900614275135,417.5,1173.9238761575057,830,1173.9238761575057"
+           stroke="rgb(40, 218, 191)"
+           stroke-width="8.126216350924999"
+           id="path83" />
+        <title
+           id="title84">indie → latin indie: 10788931</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g85">
+        <path
+           d="M5,1230.3498504160416C417.5,1230.3498504160416,417.5,881.3001907200235,830,881.3001907200235"
+           stroke="rgb(221, 64, 17)"
+           stroke-width="38.290634379245574"
+           id="path84" />
+        <title
+           id="title85">trap → argentine trap: 50837314</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g86">
+        <path
+           d="M5,1048.364770650318C417.5,1048.364770650318,417.5,750.4805502312635,830,750.4805502312635"
+           stroke="rgb(255, 169, 36)"
+           stroke-width="79.96380817590769"
+           id="path85" />
+        <title
+           id="title86">reggae → reggae en español: 106165523</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g87">
+        <path
+           d="M5,1097.533411284343C417.5,1097.533411284343,417.5,1004.0256075472217,830,1004.0256075472217"
+           stroke="rgb(255, 169, 36)"
+           stroke-width="18.373473092142156"
+           id="path86" />
+        <title
+           id="title87">reggae → reggae: 24393903</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g88">
+        <path
+           d="M5,1282.458167089005C417.5,1282.458167089005,417.5,1085.7366484837598,830,1085.7366484837598"
+           stroke="rgb(68, 245, 141)"
+           stroke-width="13.217109922429982"
+           id="path87" />
+        <title
+           id="title88">latin → latin hip hop: 17547956</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g89">
+        <path
+           d="M5,762.3011667767026C417.5,762.3011667767026,417.5,1254.8505187330734,830,1254.8505187330734"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="5.372816859953819"
+           id="path88" />
+        <title
+           id="title89">rock → latin rock: 7133326</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g90">
+        <path
+           d="M5,880.7752105382223C417.5,880.7752105382223,417.5,599.4469034294809,830,599.4469034294809"
+           stroke="rgb(40, 218, 191)"
+           stroke-width="212.10348542765732"
+           id="path89" />
+        <title
+           id="title90">indie → indie: 281603365</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g91">
+        <path
+           d="M5,1192.165185647482C417.5,1192.165185647482,417.5,1210.75032749831,830,1210.75032749831"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="6.556388370802552"
+           id="path90" />
+        <title
+           id="title91">pop → latin pop: 8704718</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g92">
+        <path
+           d="M5,1184.4446044565818C417.5,1184.4446044565818,417.5,1132.877872606757,830,1132.877872606757"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="8.884774010997667"
+           id="path91" />
+        <title
+           id="title92">pop → pop: 11796045</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g93">
+        <path
+           d="M5,750.8409573458595C417.5,750.8409573458595,417.5,1233.3903093022304,830,1233.3903093022304"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="5.957435923091521"
+           id="path92" />
+        <title
+           id="title93">rock → soft rock: 7909507</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g94">
+        <path
+           d="M5,766.1108851165692C417.5,766.1108851165692,417.5,1328.2862842600875,830,1328.2862842600875"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="2.246619819779384"
+           id="path93" />
+        <title
+           id="title94">rock → folk rock: 2982769</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g95">
+        <path
+           d="M5,1289.7592915342987C417.5,1289.7592915342987,417.5,1362.553810103553,830,1362.553810103553"
+           stroke="rgb(68, 245, 141)"
+           stroke-width="1.385138968157784"
+           id="path94" />
+        <title
+           id="title95">latin → latin alternative: 1839007</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g96">
+        <path
+           d="M5,1164.4767031387287C417.5,1164.4767031387287,417.5,1102.9099712889038,830,1102.9099712889038"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="11.129535687858375"
+           id="path95" />
+        <title
+           id="title96">pop → britpop: 14776347</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g97">
+        <path
+           d="M5,1299.802884560112C417.5,1299.802884560112,417.5,1222.220056512198,830,1222.220056512198"
+           stroke="rgb(40, 177, 234)"
+           stroke-width="6.383069656973411"
+           id="path96" />
+        <title
+           id="title97">house → tropical house: 8474608</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g98">
+        <path
+           d="M5,715.8463649649868C417.5,715.8463649649868,417.5,1066.7591201221405,830,1066.7591201221405"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="14.737946800808468"
+           id="path97" />
+        <title
+           id="title98">rock → garage rock: 19567125</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g99">
+        <path
+           d="M5,1312.7502122876483C417.5,1312.7502122876483,417.5,1264.793261748685,830,1264.793261748685"
+           stroke="rgb(179, 243, 67)"
+           stroke-width="4.512669171269413"
+           id="path98" />
+        <title
+           id="title99">neo-psychedelic → neo-psychedelic: 5991334</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g100">
+        <path
+           d="M5,1201.5330361445676C417.5,1201.5330361445676,417.5,1342.580516943696,830,1342.580516943696"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="1.9394628450470153"
+           id="path99" />
+        <title
+           id="title100">pop → french indie pop: 2574966</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g101">
+        <path
+           d="M5,634.2413703212442C417.5,634.2413703212442,417.5,826.308663924809,830,826.308663924809"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="61.69241921118338"
+           id="path100" />
+        <title
+           id="title101">rock → funk rock: 81907154</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g102">
+        <path
+           d="M5,1196.8307173900882C417.5,1196.8307173900882,417.5,1298.0372420596937,830,1298.0372420596937"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="2.7746751144101074"
+           id="path101" />
+        <title
+           id="title102">pop → dansk pop: 3683852</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g103">
+        <path
+           d="M5,1206.1998886223214C417.5,1206.1998886223214,417.5,1464.9936599440548,830,1464.9936599440548"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="1"
+           id="path102" />
+        <title
+           id="title103">pop → electropop: 12333</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g104">
+        <path
+           d="M5,1290.7946921528703C417.5,1290.7946921528703,417.5,1386.9303226661675,830,1386.9303226661675"
+           stroke="rgb(68, 245, 141)"
+           stroke-width="1"
+           id="path103" />
+        <title
+           id="title104">latin → latin folk: 910333</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g105">
+        <path
+           d="M5,1199.3906798346686C417.5,1199.3906798346686,417.5,1320.9903494628222,830,1320.9903494628222"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="2.3452497747509122"
+           id="path104" />
+        <title
+           id="title105">pop → colombian pop: 3113717</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g106">
+        <path
+           d="M5,1345.9654026814087C417.5,1345.9654026814087,417.5,1305.7831272568553,830,1305.7831272568553"
+           stroke="rgb(61, 126, 248)"
+           stroke-width="2.717095279913144"
+           id="path105" />
+        <title
+           id="title106">candombe → candombe: 3607405</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g107">
+        <path
+           d="M5,1304.0950150641963C417.5,1304.0950150641963,417.5,1335.5101898455748,830,1335.5101898455748"
+           stroke="rgb(40, 177, 234)"
+           stroke-width="2.201191351195268"
+           id="path106" />
+        <title
+           id="title107">house → french house: 2922455</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g108">
+        <path
+           d="M5,756.7172168270655C417.5,756.7172168270655,417.5,1244.2665687834362,830,1244.2665687834362"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="5.795083039320345"
+           id="path107" />
+        <title
+           id="title108">rock → indie rock: 7693956</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g109">
+        <path
+           d="M5,998.6425477683786C417.5,998.6425477683786,417.5,1186.6763624983707,830,1186.6763624983707"
+           stroke="rgb(40, 218, 191)"
+           stroke-width="7.378756330805215"
+           id="path108" />
+        <title
+           id="title109">indie → indie soul: 9796551</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g110">
+        <path
+           d="M5,1321.7606258799192C417.5,1321.7606258799192,417.5,1273.8036753409558,830,1273.8036753409558"
+           stroke="rgb(144, 12, 0)"
+           stroke-width="3.5081580132725465"
+           id="path109" />
+        <title
+           id="title110">trova → trova: 4657675</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g111">
+        <path
+           d="M5,1107.2768973859693C417.5,1107.2768973859693,417.5,1374.9798013475363,830,1374.9798013475363"
+           stroke="rgb(255, 169, 36)"
+           stroke-width="1.1134991111109274"
+           id="path110" />
+        <title
+           id="title111">reggae → reggaeton: 1478359</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g112">
+        <path
+           d="M5,1305.344744220904C417.5,1305.344744220904,417.5,1408.501677758073,830,1408.501677758073"
+           stroke="rgb(40, 177, 234)"
+           stroke-width="1"
+           id="path111" />
+        <title
+           id="title112">house → disco house: 396000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g113">
+        <path
+           d="M5,1205.019156296609C417.5,1205.019156296609,417.5,1356.0666370957374,830,1356.0666370957374"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="1.5892070474733218"
+           id="path112" />
+        <title
+           id="title113">pop → baroque pop: 2109942</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g114">
+        <path
+           d="M5,1203.3636601699818C417.5,1203.3636601699818,417.5,1349.4111409691102,830,1349.4111409691102"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="1.7217852057811112"
+           id="path113" />
+        <title
+           id="title114">pop → dream pop: 2285962</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g115">
+        <path
+           d="M5,767.8225311286334C417.5,767.8225311286334,417.5,1368.8347156898064,830,1368.8347156898064"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1.1766722043489073"
+           id="path114" />
+        <title
+           id="title115">rock → yacht rock: 1562232</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g116">
+        <path
+           d="M5,736.3802421544401C417.5,736.3802421544401,417.5,1160.4851634013048,830,1160.4851634013048"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="8.751209161476474"
+           id="path115" />
+        <title
+           id="title116">rock → classic rock: 11618715</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g117">
+        <path
+           d="M5,1002.8573962480727C417.5,1002.8573962480727,417.5,1381.0620212173833,830,1381.0620212173833"
+           stroke="rgb(40, 218, 191)"
+           stroke-width="1.0509406285829757"
+           id="path116" />
+        <title
+           id="title117">indie → mexican indie: 1395302</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g118">
+        <path
+           d="M5,769.6947882508572C417.5,769.6947882508572,417.5,1454.9620312182692,830,1454.9620312182692"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1"
+           id="path117" />
+        <title
+           id="title118">rock → rap rock: 27258</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g119">
+        <path
+           d="M5,768.60294776508C417.5,768.60294776508,417.5,1392.4652343349323,830,1392.4652343349323"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1"
+           id="path118" />
+        <title
+           id="title119">rock → progressive rock: 510039</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g120">
+        <path
+           d="M5,1291.567627636281C417.5,1291.567627636281,417.5,1449.9080437683083,830,1449.9080437683083"
+           stroke="rgb(68, 245, 141)"
+           stroke-width="1"
+           id="path119" />
+        <title
+           id="title120">latin → trap latino: 116097</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g121">
+        <path
+           d="M5,769.5873903016756C417.5,769.5873903016756,417.5,1424.1902872963085,830,1424.1902872963085"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1"
+           id="path120" />
+        <title
+           id="title121">rock → finnish rock: 257920</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g122">
+        <path
+           d="M5,769.3179098673072C417.5,769.3179098673072,417.5,1403.1801964371598,830,1403.1801964371598"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1"
+           id="path121" />
+        <title
+           id="title122">rock → blues rock: 457642</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g123">
+        <path
+           d="M5,1353.6619751606827C417.5,1353.6619751606827,417.5,1313.4796997361293,830,1313.4796997361293"
+           stroke="rgb(171, 24, 5)"
+           stroke-width="2.6760496786349766"
+           id="path122" />
+        <title
+           id="title123">trip hop → trip hop: 3552910</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g124">
+        <path
+           d="M5,1206.1061254652698C417.5,1206.1061254652698,417.5,1429.3765384438277,830,1429.3765384438277"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="1"
+           id="path123" />
+        <title
+           id="title124">pop → art pop: 236640</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g125">
+        <path
+           d="M5,768.9702951634281C417.5,768.9702951634281,417.5,1397.8325817332807,830,1397.8325817332807"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1"
+           id="path124" />
+        <title
+           id="title125">rock → art rock: 465393</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g126">
+        <path
+           d="M5,1107.903254993833C417.5,1107.903254993833,417.5,1439.6825509320727,830,1439.6825509320727"
+           stroke="rgb(255, 169, 36)"
+           stroke-width="1"
+           id="path125" />
+        <title
+           id="title126">reggae → reggaeton mexa: 184833</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g127">
+        <path
+           d="M5,1330.1719514485874C417.5,1330.1719514485874,417.5,1282.215000909624,830,1282.215000909624"
+           stroke="rgb(35, 23, 27)"
+           stroke-width="3.3144931240635147"
+           id="path126" />
+        <title
+           id="title127">axé → axé: 4400552</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g128">
+        <path
+           d="M5,1291.2570714726585C417.5,1291.2570714726585,417.5,1413.7703594244779,830,1413.7703594244779"
+           stroke="rgb(68, 245, 141)"
+           stroke-width="1"
+           id="path127" />
+        <title
+           id="title128">latin → latin afrobeats: 317441</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g129">
+        <path
+           d="M5,1249.551248949956C417.5,1249.551248949956,417.5,1444.8082403286724,830,1444.8082403286724"
+           stroke="rgb(221, 64, 17)"
+           stroke-width="1"
+           id="path128" />
+        <title
+           id="title129">trap → chilean trap: 148915</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g130">
+        <path
+           d="M5,1291.450262599445C417.5,1291.450262599445,417.5,1434.5392999382732,830,1434.5392999382732"
+           stroke="rgb(68, 245, 141)"
+           stroke-width="1"
+           id="path129" />
+        <title
+           id="title130">latin → latin: 195547</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g131">
+        <path
+           d="M5,1205.9153833663306C417.5,1205.9153833663306,417.5,1418.9915311557581,830,1418.9915311557581"
+           stroke="rgb(231, 214, 47)"
+           stroke-width="1"
+           id="path130" />
+        <title
+           id="title131">pop → french pop: 269845</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g132">
+        <path
+           d="M5,1262.7284712110186C417.5,1262.7284712110186,417.5,1026.333485010064,830,1026.333485010064"
+           stroke="rgb(75, 72, 195)"
+           stroke-width="16.242281833542336"
+           id="path131" />
+        <title
+           id="title132">bossa nova → bossa nova: 21564385</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g133">
+        <path
+           d="M5,769.7134129890094C417.5,769.7134129890094,417.5,1459.9806559564215,830,1459.9806559564215"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1"
+           id="path132" />
+        <title
+           id="title133">rock → reggae rock: 22197</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g134">
+        <path
+           d="M5,769.7226200984693C417.5,769.7226200984693,417.5,1469.999152274076,830,1469.999152274076"
+           stroke="rgb(255, 116, 27)"
+           stroke-width="1"
+           id="path133" />
+        <title
+           id="title134">rock → rock: 2251</title>
+      </g>
+    </g>
+    <g
+       id="g208">
+      <text
+         x="9"
+         y="442.36173391219677"
+         text-anchor="start"
+         id="text135"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan135">rock</tspan></text>
+      <text
+         x="9"
+         y="889.0531671933788"
+         text-anchor="start"
+         id="text137"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan137">indie</tspan></text>
+      <text
+         x="9"
+         y="1058.1778648042525"
+         text-anchor="start"
+         id="text139"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan139">reggae</tspan></text>
+      <text
+         x="9"
+         y="1159.5886981362798"
+         text-anchor="start"
+         id="text140"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan140">pop</tspan></text>
+      <text
+         x="9"
+         y="1230.4059317603333"
+         text-anchor="start"
+         id="text143"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan143">trap</tspan></text>
+      <text
+         x="9"
+         y="1262.7284712110186"
+         text-anchor="start"
+         id="text149"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan149">bossa nova</tspan></text>
+      <text
+         x="9"
+         y="1283.7304809297075"
+         text-anchor="start"
+         id="text151"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan151">latin</tspan></text>
+      <text
+         x="9"
+         y="1301.0526137168195"
+         text-anchor="start"
+         id="text158"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan158">house</tspan></text>
+      <text
+         x="9"
+         y="1312.7502122876483"
+         text-anchor="start"
+         id="text169"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan169">neo-psychedelic</tspan></text>
+      <text
+         x="9"
+         y="1321.7606258799192"
+         text-anchor="start"
+         id="text171"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan171">trova</tspan></text>
+      <text
+         x="9"
+         y="1330.1719514485874"
+         text-anchor="start"
+         id="text173"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan173">axé</tspan></text>
+      <text
+         x="9"
+         y="1338.2180265260356"
+         text-anchor="start"
+         id="text175"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan175">motown</tspan></text>
+      <text
+         x="9"
+         y="1345.9654026814087"
+         text-anchor="start"
+         id="text178"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan178">candombe</tspan></text>
+      <text
+         x="9"
+         y="1353.6619751606827"
+         text-anchor="start"
+         id="text180"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan180">trip hop</tspan></text>
+    </g>
+    <g
+       id="g210">
+      <text
+         x="2.5"
+         y="110.99999999999989"
+         text-anchor="middle"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+         id="text209">artist_general_genre</text>
+      <text
+         x="832.5"
+         y="-4.000000000000341"
+         text-anchor="middle"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+         id="text210">artist_genre</text>
+    </g>
+  </g>
+  <g
+     id="g270"
+     transform="translate(104.41064,20.212827)">
+    <text
+       x="867.16394"
+       y="243.82487"
+       text-anchor="end"
+       id="text211"><tspan
+         alignment-baseline="middle"
+         x="867.16394"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan210">argentine rock</tspan></text>
+    <text
+       x="821.1825"
+       y="599.07422"
+       text-anchor="end"
+       id="text212"><tspan
+         alignment-baseline="middle"
+         x="821.1825"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan211">indie</tspan></text>
+    <text
+       x="885.69421"
+       y="750.10785"
+       text-anchor="end"
+       id="text213"><tspan
+         alignment-baseline="middle"
+         x="885.69421"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan212">reggae en español</tspan></text>
+    <text
+       x="843.38464"
+       y="825.93597"
+       text-anchor="end"
+       id="text214"><tspan
+         alignment-baseline="middle"
+         x="843.38464"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan213">funk rock</tspan></text>
+    <text
+       x="864.9325"
+       y="880.92749"
+       text-anchor="end"
+       id="text215"><tspan
+         alignment-baseline="middle"
+         x="864.9325"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan214">argentine trap</tspan></text>
+    <text
+       x="874.02429"
+       y="919.29999"
+       text-anchor="end"
+       id="text216"><tspan
+         alignment-baseline="middle"
+         x="874.02429"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan215">rock en español</tspan></text>
+    <text
+       x="837.62781"
+       y="950.85309"
+       text-anchor="end"
+       id="text217"><tspan
+         alignment-baseline="middle"
+         x="837.62781"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan216">soft pop</tspan></text>
+    <text
+       x="837.25671"
+       y="978.82257"
+       text-anchor="end"
+       id="text218"><tspan
+         alignment-baseline="middle"
+         x="837.25671"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan217">folk pop</tspan></text>
+    <text
+       x="830.67957"
+       y="1003.653"
+       text-anchor="end"
+       id="text219"><tspan
+         alignment-baseline="middle"
+         x="830.67957"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan218">reggae</tspan></text>
+    <text
+       x="852.90613"
+       y="1025.9608"
+       text-anchor="end"
+       id="text220"><tspan
+         alignment-baseline="middle"
+         x="852.90613"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan219">bossa nova</tspan></text>
+    <text
+       x="840.98718"
+       y="1046.5497"
+       text-anchor="end"
+       id="text221"><tspan
+         alignment-baseline="middle"
+         x="840.98718"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan220">surf rock</tspan></text>
+    <text
+       x="854.82996"
+       y="1066.3865"
+       text-anchor="end"
+       id="text222"><tspan
+         alignment-baseline="middle"
+         x="854.82996"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan221">garage rock</tspan></text>
+    <text
+       x="857.28113"
+       y="1085.364"
+       text-anchor="end"
+       id="text223"><tspan
+         alignment-baseline="middle"
+         x="857.28113"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan222">latin hip hop</tspan></text>
+    <text
+       x="832.32019"
+       y="1102.5372"
+       text-anchor="end"
+       id="text224"><tspan
+         alignment-baseline="middle"
+         x="832.32019"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan223">britpop</tspan></text>
+    <text
+       x="861.76843"
+       y="1118.0824"
+       text-anchor="end"
+       id="text225"><tspan
+         alignment-baseline="middle"
+         x="861.76843"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan224">bedroom pop</tspan></text>
+    <text
+       x="816.21179"
+       y="1132.5052"
+       text-anchor="end"
+       id="text226"><tspan
+         alignment-baseline="middle"
+         x="816.21179"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan225">pop</tspan></text>
+    <text
+       x="872.17859"
+       y="1146.3423"
+       text-anchor="end"
+       id="text227"><tspan
+         alignment-baseline="middle"
+         x="872.17859"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan226">alternative rock</tspan></text>
+    <text
+       x="855.42078"
+       y="1160.1124"
+       text-anchor="end"
+       id="text228"><tspan
+         alignment-baseline="middle"
+         x="855.42078"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan227">classic rock</tspan></text>
+    <text
+       x="844.51746"
+       y="1173.5511"
+       text-anchor="end"
+       id="text229"><tspan
+         alignment-baseline="middle"
+         x="844.51746"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan228">latin indie</tspan></text>
+    <text
+       x="844.51746"
+       y="1186.3037"
+       text-anchor="end"
+       id="text230"><tspan
+         alignment-baseline="middle"
+         x="844.51746"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan229">indie soul</tspan></text>
+    <text
+       x="867.3446"
+       y="1198.5463"
+       text-anchor="end"
+       id="text231"><tspan
+         alignment-baseline="middle"
+         x="867.3446"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan230">rock argentino</tspan></text>
+    <text
+       x="839.50769"
+       y="1210.3777"
+       text-anchor="end"
+       id="text232"><tspan
+         alignment-baseline="middle"
+         x="839.50769"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan231">latin pop</tspan></text>
+    <text
+       x="866.76843"
+       y="1221.8474"
+       text-anchor="end"
+       id="text233"><tspan
+         alignment-baseline="middle"
+         x="866.76843"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan232">tropical house</tspan></text>
+    <text
+       x="840.42566"
+       y="1233.0176"
+       text-anchor="end"
+       id="text234"><tspan
+         alignment-baseline="middle"
+         x="840.42566"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan233">soft rock</tspan></text>
+    <text
+       x="845.08386"
+       y="1243.8939"
+       text-anchor="end"
+       id="text235"><tspan
+         alignment-baseline="middle"
+         x="845.08386"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan234">indie rock</tspan></text>
+    <text
+       x="842.30554"
+       y="1254.4778"
+       text-anchor="end"
+       id="text236"><tspan
+         alignment-baseline="middle"
+         x="842.30554"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan235">latin rock</tspan></text>
+    <text
+       x="876.24597"
+       y="1264.4205"
+       text-anchor="end"
+       id="text237"><tspan
+         alignment-baseline="middle"
+         x="876.24597"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan236">neo-psychedelic</tspan></text>
+    <text
+       x="822.87683"
+       y="1273.431"
+       text-anchor="end"
+       id="text238"><tspan
+         alignment-baseline="middle"
+         x="822.87683"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan237">trova</tspan></text>
+    <text
+       x="814.93738"
+       y="1281.8423"
+       text-anchor="end"
+       id="text239"><tspan
+         alignment-baseline="middle"
+         x="814.93738"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan238">axé</tspan></text>
+    <text
+       x="836.21179"
+       y="1289.8884"
+       text-anchor="end"
+       id="text240"><tspan
+         alignment-baseline="middle"
+         x="836.21179"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan239">motown</tspan></text>
+    <text
+       x="848.1405"
+       y="1297.6646"
+       text-anchor="end"
+       id="text241"><tspan
+         alignment-baseline="middle"
+         x="848.1405"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan240">dansk pop</tspan></text>
+    <text
+       x="848.16492"
+       y="1305.4104"
+       text-anchor="end"
+       id="text242"><tspan
+         alignment-baseline="middle"
+         x="848.16492"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan241">candombe</tspan></text>
+    <text
+       x="835.63562"
+       y="1313.1071"
+       text-anchor="end"
+       id="text243"><tspan
+         alignment-baseline="middle"
+         x="835.63562"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan242">trip hop</tspan></text>
+    <text
+       x="869.26355"
+       y="1320.6177"
+       text-anchor="end"
+       id="text244"><tspan
+         alignment-baseline="middle"
+         x="869.26355"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan243">colombian pop</tspan></text>
+    <text
+       x="840.05457"
+       y="1327.9136"
+       text-anchor="end"
+       id="text245"><tspan
+         alignment-baseline="middle"
+         x="840.05457"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan244">folk rock</tspan></text>
+    <text
+       x="861.16296"
+       y="1335.1375"
+       text-anchor="end"
+       id="text246"><tspan
+         alignment-baseline="middle"
+         x="861.16296"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan245">french house</tspan></text>
+    <text
+       x="876.1532"
+       y="1342.2079"
+       text-anchor="end"
+       id="text247"><tspan
+         alignment-baseline="middle"
+         x="876.1532"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan246">french indie pop</tspan></text>
+    <text
+       x="849.25378"
+       y="1349.0385"
+       text-anchor="end"
+       id="text248"><tspan
+         alignment-baseline="middle"
+         x="849.25378"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan247">dream pop</tspan></text>
+    <text
+       x="858.43835"
+       y="1355.694"
+       text-anchor="end"
+       id="text249"><tspan
+         alignment-baseline="middle"
+         x="858.43835"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan248">baroque pop</tspan></text>
+    <text
+       x="871.20691"
+       y="1362.1812"
+       text-anchor="end"
+       id="text250"><tspan
+         alignment-baseline="middle"
+         x="871.20691"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan249">latin alternative</tspan></text>
+    <text
+       x="848.49207"
+       y="1368.462"
+       text-anchor="end"
+       id="text251"><tspan
+         alignment-baseline="middle"
+         x="848.49207"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan250">yacht rock</tspan></text>
+    <text
+       x="846.22644"
+       y="1374.6072"
+       text-anchor="end"
+       id="text252"><tspan
+         alignment-baseline="middle"
+         x="846.22644"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan251">reggaeton</tspan></text>
+    <text
+       x="864.02429"
+       y="1380.6893"
+       text-anchor="end"
+       id="text253"><tspan
+         alignment-baseline="middle"
+         x="864.02429"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan252">mexican indie</tspan></text>
+    <text
+       x="838.96082"
+       y="1386.5576"
+       text-anchor="end"
+       id="text254"><tspan
+         alignment-baseline="middle"
+         x="838.96082"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan253">latin folk</tspan></text>
+    <text
+       x="878.4823"
+       y="1392.0925"
+       text-anchor="end"
+       id="text255"><tspan
+         alignment-baseline="middle"
+         x="878.4823"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan254">progressive rock</tspan></text>
+    <text
+       x="834.93738"
+       y="1397.46"
+       text-anchor="end"
+       id="text256"><tspan
+         alignment-baseline="middle"
+         x="834.93738"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan255">art rock</tspan></text>
+    <text
+       x="847.90613"
+       y="1402.8075"
+       text-anchor="end"
+       id="text257"><tspan
+         alignment-baseline="middle"
+         x="847.90613"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan256">blues rock</tspan></text>
+    <text
+       x="856.48035"
+       y="1408.129"
+       text-anchor="end"
+       id="text258"><tspan
+         alignment-baseline="middle"
+         x="856.48035"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan257">disco house</tspan></text>
+    <text
+       x="866.19714"
+       y="1413.3977"
+       text-anchor="end"
+       id="text259"><tspan
+         alignment-baseline="middle"
+         x="866.19714"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan258">latin afrobeats</tspan></text>
+    <text
+       x="850.03992"
+       y="1418.6189"
+       text-anchor="end"
+       id="text260"><tspan
+         alignment-baseline="middle"
+         x="850.03992"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan259">french pop</tspan></text>
+    <text
+       x="855.04968"
+       y="1423.8176"
+       text-anchor="end"
+       id="text261"><tspan
+         alignment-baseline="middle"
+         x="855.04968"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan260">finnish rock</tspan></text>
+    <text
+       x="832.13953"
+       y="1429.0039"
+       text-anchor="end"
+       id="text262"><tspan
+         alignment-baseline="middle"
+         x="832.13953"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan261">art pop</tspan></text>
+    <text
+       x="818.40417"
+       y="1434.1666"
+       text-anchor="end"
+       id="text263"><tspan
+         alignment-baseline="middle"
+         x="818.40417"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan262">latin</tspan></text>
+    <text
+       x="874.58093"
+       y="1439.3098"
+       text-anchor="end"
+       id="text264"><tspan
+         alignment-baseline="middle"
+         x="874.58093"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan263">reggaeton mexa</tspan></text>
+    <text
+       x="854.28308"
+       y="1444.4355"
+       text-anchor="end"
+       id="text265"><tspan
+         alignment-baseline="middle"
+         x="854.28308"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan264">chilean trap</tspan></text>
+    <text
+       x="846.75867"
+       y="1449.5354"
+       text-anchor="end"
+       id="text266"><tspan
+         alignment-baseline="middle"
+         x="846.75867"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan265">trap latino</tspan></text>
+    <text
+       x="837.34949"
+       y="1454.5894"
+       text-anchor="end"
+       id="text267"><tspan
+         alignment-baseline="middle"
+         x="837.34949"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan266">rap rock</tspan></text>
+    <text
+       x="854.58093"
+       y="1459.608"
+       text-anchor="end"
+       id="text268"><tspan
+         alignment-baseline="middle"
+         x="854.58093"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan267">reggae rock</tspan></text>
+    <text
+       x="849.27332"
+       y="1464.621"
+       text-anchor="end"
+       id="text269"><tspan
+         alignment-baseline="middle"
+         x="849.27332"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan268">electropop</tspan></text>
+    <text
+       x="819.00964"
+       y="1469.6265"
+       text-anchor="end"
+       id="text270"><tspan
+         alignment-baseline="middle"
+         x="819.00964"
+         style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+         id="tspan269">rock</tspan></text>
+  </g>
+</svg>
