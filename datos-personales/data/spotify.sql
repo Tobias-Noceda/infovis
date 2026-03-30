@@ -180,7 +180,15 @@ UPDATE mis_artistas
 SET genre = 'rock argentino'
 WHERE artistname = 'El Cuarteto De Nos';
 
-SELECT DISTINCT general_genre FROM mis_artistas WHERE general_genre IS NOT NULL;
+SELECT 
+    general_genre,
+    SUM(msplayed) AS total_msplayed
+FROM mis_artistas a
+    JOIN mi_musica m ON a.artistname = m.artistname
+WHERE a.genre IS NOT NULL
+GROUP BY a.general_genre
+ORDER BY total_msplayed DESC;
+
 
 SELECT DISTINCT artistname FROM mi_musica;
 
@@ -213,7 +221,7 @@ SELECT
     m.started_at::TIMESTAMP(0) AS starttime,
     m.endtime,
     m.msplayed,
-    m.msplayed / (60 * 1000.0) AS "minutes played",
+    -- m.msplayed / (60 * 1000.0) AS "minutes played",
     m.artistname,
     a.genre AS artist_genre,
     a.general_genre AS artist_general_genre
@@ -251,3 +259,49 @@ WHERE a.general_genre IN (
     ORDER BY SUM(m2.msplayed) DESC
     LIMIT 15
 );
+
+CREATE TABLE spotify_by_date_genre AS
+SELECT
+    m.started_at::date AS date,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'rock') / 60000.0, 0) AS rock_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'pop') / 60000.0, 0) AS pop_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'jazz') / 60000.0, 0) AS jazz_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'hip hop') / 60000.0, 0) AS hip_hop_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'electronic') / 60000.0, 0) AS electronic_minutes
+FROM mi_musica m
+JOIN mis_artistas a ON m.artistname = a.artistname
+WHERE a.genre IS NOT NULL
+GROUP BY 1
+ORDER BY 1;
+
+SELECT * FROM spotify_by_date_genre;
+
+DROP TABLE IF EXISTS spotify_by_date_genre;
+
+DROP TABLE IF EXISTS spotify_by_month_genre;
+
+CREATE TABLE spotify_by_month_genre AS
+SELECT
+    date_trunc('month', m.started_at)::date AS month,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'rock') / 60000.0, 0) AS rock_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'indie') / 60000.0, 0) AS indie_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'reggae') / 60000.0, 0) AS reggae_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'pop') / 60000.0, 0) AS pop_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'trap') / 60000.0, 0) AS trap_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'bossa nova') / 60000.0, 0) AS bossa_nova_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'latin') / 60000.0, 0) AS latin_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'house') / 60000.0, 0) AS house_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'neo-psychedelic') / 60000.0, 0) AS neo_psychedelic_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'trova') / 60000.0, 0) AS trova_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'axé') / 60000.0, 0) AS axe_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'motown') / 60000.0, 0) AS motown_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'candombe') / 60000.0, 0) AS candombe_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'trip hop') / 60000.0, 0) AS trip_hop_minutes,
+    COALESCE(SUM(m.msplayed) FILTER (WHERE a.general_genre = 'mpb') / 60000.0, 0) AS mpb_minutes
+FROM mi_musica m
+JOIN mis_artistas a ON m.artistname = a.artistname
+WHERE a.genre IS NOT NULL
+GROUP BY 1
+ORDER BY 1;
+
+SELECT * FROM spotify_by_month_genre;
