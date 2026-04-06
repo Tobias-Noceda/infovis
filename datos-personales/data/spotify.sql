@@ -305,3 +305,65 @@ GROUP BY 1
 ORDER BY 1;
 
 SELECT * FROM spotify_by_month_genre;
+
+CREATE TABLE spotify_by_hour AS
+SELECT
+    h.hour,
+    COALESCE(ranked.total_minutes, 0) AS total_minutes,
+    ranked.most_listened_genre
+FROM generate_series(0, 23) AS h(hour)
+LEFT JOIN (
+    SELECT
+        EXTRACT(HOUR FROM m.started_at)::INTEGER AS hour,
+        SUM(m.msplayed) / 60000.0 AS total_minutes,
+        a.general_genre AS most_listened_genre,
+        ROW_NUMBER() OVER (PARTITION BY EXTRACT(HOUR FROM m.started_at) ORDER BY SUM(m.msplayed) DESC) AS rn
+    FROM mi_musica m
+    JOIN mis_artistas a ON m.artistname = a.artistname
+    WHERE a.genre IS NOT NULL
+    GROUP BY EXTRACT(HOUR FROM m.started_at), a.general_genre
+) ranked ON h.hour = ranked.hour AND ranked.rn = 1
+ORDER BY h.hour;
+
+CREATE TABLE spotify_by_hour AS
+SELECT
+    h.hour,
+    COALESCE(ranked.total_minutes, 0) AS total_minutes,
+    ranked.most_listened_genre,
+    COALESCE(ranked.most_listened_genre_minutes, 0) AS most_listened_genre_minutes,
+    ranked.second_most_listened_genre,
+    COALESCE(ranked.second_most_listened_genre_minutes, 0) AS second_most_listened_genre_minutes,
+    ranked.third_most_listened_genre,
+    COALESCE(ranked.third_most_listened_genre_minutes, 0) AS third_most_listened_genre_minutes
+FROM generate_series(0, 23) AS h(hour)
+LEFT JOIN (
+    SELECT
+        hour,
+        SUM(total_minutes) AS total_minutes,
+        MAX(CASE WHEN rn = 1 THEN most_listened_genre END) AS most_listened_genre,
+        MAX(CASE WHEN rn = 1 THEN total_minutes END) AS most_listened_genre_minutes,
+        MAX(CASE WHEN rn = 2 THEN most_listened_genre END) AS second_most_listened_genre,
+        MAX(CASE WHEN rn = 2 THEN total_minutes END) AS second_most_listened_genre_minutes,
+        MAX(CASE WHEN rn = 3 THEN most_listened_genre END) AS third_most_listened_genre,
+        MAX(CASE WHEN rn = 3 THEN total_minutes END) AS third_most_listened_genre_minutes
+    FROM (
+        SELECT
+            EXTRACT(HOUR FROM m.started_at)::INTEGER AS hour,
+            a.general_genre AS most_listened_genre,
+            SUM(m.msplayed) / 60000.0 AS total_minutes,
+            ROW_NUMBER() OVER (
+                PARTITION BY EXTRACT(HOUR FROM m.started_at)
+                ORDER BY SUM(m.msplayed) DESC
+            ) AS rn
+        FROM mi_musica m
+        JOIN mis_artistas a ON m.artistname = a.artistname
+        WHERE a.genre IS NOT NULL
+        GROUP BY EXTRACT(HOUR FROM m.started_at), a.general_genre
+    ) genre_ranked
+    GROUP BY hour
+) ranked ON h.hour = ranked.hour
+ORDER BY h.hour;
+
+DROP TABLE IF EXISTS spotify_by_hour;
+
+SELECT * FROM spotify_by_hour;
