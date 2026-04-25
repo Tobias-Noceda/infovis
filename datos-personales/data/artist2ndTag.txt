@@ -1,0 +1,107 @@
+Parcels: id-1
+Reino Infantil = children
+
+vocalist
+mexico
+icelandic
+singer
+spanish
+italian
+argentina
+colombia
+UK
+composer
+game
+danish
+ccm
+italy
+60s
+madchester
+Flamenco
+bolivia
+80s
+spain
+venezuela
+All
+valencia
+british
+usa
+jamaica
+american
+United States
+frozen
+taylor seift
+nigeria
+composer
+lilly goodman
+swedish
+Mamma mia
+Charlie Hodson-Prior
+uruguay
+MDB
+nu disco
+killer queen
+french
+lesbian
+shoegaze
+puerto rico
+queer
+in love- Jeff and Beanie
+spotify
+musical theatre
+switzerland
+england
+australia
+daycore
+maldives
+greek
+chillwave
+islandic
+oldies
+wood and stick
+deathcore
+chanson francaise
+nicaragua
+german
+español
+montevideo
+peru
+shit
+United Kingdom
+lithuanian
+us
+8 bit
+rich parents
+chetocore
+New Zealand
+2000
+vocalist
+cantautor
+Nacional
+genre
+new york
+lidarr
+curacao
+surf
+70s
+Buenos Aires
+neoperreo
+discoverunsigned
+south african
+chile
+
+
+discard name=tag
+discard name=Wesley Saf
+discard name=David and the high spirit
+discard name=Marissa Jaret Winokur
+
+dembow=latino
+cartoon=children
+Nu Metal (BR) > metal
+sertanejo=BR
+hazbin hotel=relax
+trance=electronic
+comic=children
+maestros=children
+corridos=latin

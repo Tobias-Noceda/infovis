@@ -5,7 +5,22 @@ CREATE TABLE mi_musica (
     msplayed INTEGER
 );
 
+CREATE TABLE mi_musica_total (
+    endtime TIMESTAMP,
+    artistname VARCHAR(255),
+    trackname VARCHAR(255),
+    msplayed INTEGER
+);
+
+COPY mi_musica_total FROM '/tmp/musica_total.csv' WITH (FORMAT csv, HEADER true);
+
 CREATE TABLE mis_artistas (
+    artistname VARCHAR(255) PRIMARY KEY,
+    genre VARCHAR(255),
+    spotifyid VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE mis_artistas_total (
     artistname VARCHAR(255) PRIMARY KEY,
     genre VARCHAR(255),
     spotifyid VARCHAR(255) NOT NULL
@@ -367,3 +382,7 @@ ORDER BY h.hour;
 DROP TABLE IF EXISTS spotify_by_hour;
 
 SELECT * FROM spotify_by_hour;
+
+SELECT * FROM mis_artistas;
+
+SELECT DISTINCT artistname FROM mi_musica_total WHERE artistname IS NOT NULL;

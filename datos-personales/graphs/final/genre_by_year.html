@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="icon" href="../../../favicon.ico" type="image/png" />
+      <title>Infovis</title>
+      <style>
+        html,
+        body {
+          margin: 0;
+          padding: 0;
+          width: 100%;
+          min-height: 100%;
+          background: #fff;
+        }
+
+        .flourish-embed {
+          width: 100%;
+          min-height: 100%;
+        }
+      </style>
+  </head>
+  <body>
+    <div
+      style="min-height:424px"
+      id="datawrapper-vis-FjVTv"
+    >
+      <script
+        type="text/javascript"
+        defer
+        src="https://datawrapper.dwcdn.net/FjVTv/embed.js"
+        charset="utf-8"
+        data-target="#datawrapper-vis-FjVTv"
+      ></script>
+      <noscript>
+        <img
+          src="https://datawrapper.dwcdn.net/FjVTv/full.png"
+          alt="Area Chart"
+        />
+      </noscript>
+    </div>
+
+    <script>
+      const postSize = () => {
+        const height = Math.max(
+          document.documentElement.scrollHeight,
+          document.body.scrollHeight
+        );
+
+        parent.postMessage(
+          {
+            type: "embed-size",
+            id: "datawrapper-frame",
+            height,
+          },
+          "*"
+        );
+      };
+
+      window.addEventListener("load", postSize);
+      window.addEventListener("resize", postSize);
+      setTimeout(postSize, 400);
+      setTimeout(postSize, 1200);
+    </script>
+  </body>
+</html>

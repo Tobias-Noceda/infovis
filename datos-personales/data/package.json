@@ -1,0 +1,12 @@
+{
+  "name": "artist-tags-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch top tags for artists from Last.fm API",
+  "main": "artist-tags-fetcher.js",
+  "scripts": {
+    "start": "node artist-tags-fetcher.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
